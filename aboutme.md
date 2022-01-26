@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Electron Microscopy for Extreme Materials Research Group
+subtitle: In-situ TEM | Extreme Environments | 4D-STEM 
 ---
 
 My name is Inigo Montoya. I have the following qualities:
