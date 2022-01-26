@@ -14,11 +14,12 @@ author: Prof. Yang Yang at The Pennsylvania State University
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Research: "aboutme"
+  People: 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  News: "https://deanattali.com"
 
 # --- Logo --- #
 
