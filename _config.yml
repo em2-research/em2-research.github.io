@@ -18,6 +18,7 @@ navbar-links:
   Research: "aboutme"
   People: 
   Resources:
+    - Test: "/test.html"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   News: "https://deanattali.com"
