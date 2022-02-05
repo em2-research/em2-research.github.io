@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: (EM)^2 Lab ｜ PSU123
+title: (EM)^2 Lab ｜ PSU
 
 # Your name to show in the footer
 author: (EM)^2 Research Lab @ The Pennsylvania State University
@@ -27,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/logo1.png"
+# avatar: "/assets/img/logo1.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
