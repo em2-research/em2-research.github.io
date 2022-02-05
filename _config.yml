@@ -14,14 +14,14 @@ author: (EM)^2 Research Lab @ The Pennsylvania State University
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home:
+  Home: ""
   Research: "aboutme"
   People: 
+  Publication:
   Resources:
-    - Test: "/test.html"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  News: "https://deanattali.com"
+    - Engineering Science and Mechanics: "https://www.esm.psu.edu/"
+    - MCL Equipment Reservation: "https://leo.psu.edu"
+  News: ""
 
 # --- Logo --- #
 
