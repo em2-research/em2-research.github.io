@@ -15,11 +15,11 @@ author: (EM)^2 Research Lab @ The Pennsylvania State University
 
 navbar-links:
   Home: "/"
-  Research: "/Research.html"
-  Team: "/Team.html"
-  Publication: "/Publication.md"
-  News: "/News.html"
-  Join us: "/Join-us.md"
+  Research: "/Research"
+  Team: "/Team"
+  Publication: "/Publication"
+  News: "/News"
+  Join us: "/Join-us"
   Resources:
     - Engineering Science and Mechanics: "https://www.esm.psu.edu/"
     - MCL Equipment Reservation: "https://leo.psu.edu"
