@@ -14,11 +14,18 @@ body {
 }
   
 div.gallery {
-  border: 1px solid #404040;
+
 }
 
-div.gallery:hover {
-  border: 1px solid #FFFFFF;
+div.gallery .img-hover {
+  	display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+}
+	
+div.gallery:hover .img-hover {
+  	display: inline;
 }
 
 div.gallery img {
@@ -29,8 +36,9 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
-  color: white;
-  font-size: 0.8 rem;
+  vertical-align: middle;	
+  color: "#404040";
+  font-size: 0.8rem;
 }
 
 * {
@@ -69,7 +77,8 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/oxidation.gif">
-      <img src="/assets/img/oxidation.gif" alt="Oxidation of Ni-Fe nanoparticles" width="400" height="400">
+      <img src="/assets/img/In-situ1.jpg" alt="Oxidation of Ni-Fe nanoparticles" width="400" height="400">
+      <img src="/assets/img/oxidation.gif" class="img-hover" alt="Oxidation of Ni-Fe nanoparticles" width="400" height="400">
     </a>
     <div class="desc">Advanced imaging of materials under extreme environments</div>
   </div>
