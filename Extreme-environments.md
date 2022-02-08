@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Imaging materials degradation at the nano/atomic scale
+layout: post
+title: Advanced Electron Microscopy
+subtitle: Imaging materials degradation at the nano/atomic scale
 cover-img: /assets/img/path.jpg
 ---
 
