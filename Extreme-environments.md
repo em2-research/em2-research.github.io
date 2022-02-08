@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: page
 title: Imaging materials degradation at the nano/atomic scale
 cover-img: /assets/img/path.jpg
 ---
