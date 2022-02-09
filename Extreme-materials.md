@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elastic strain engineering
-subtitle: Imaging materials degradation at the nano/atomic scale
+subtitle: Enabling extreme performance in materials
 cover-img: /assets/img/3.jpg
 date: 2022-02-09
 ---
