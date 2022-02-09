@@ -2,7 +2,7 @@
 layout: post
 title: Advanced Electron Microscopy
 subtitle: Imaging materials degradation at the nano/atomic scale
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Research-bg.jpg
 ---
 
 
