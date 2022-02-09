@@ -10,10 +10,10 @@ Nanoscale ion implantation represents an expanding, interdisciplinary field that
 
 As a result, we have developed IM3D: an open-source, MPI-parallelized and full-3D Monte Carlo simulation code for ion radiation in matter. Using IM3D, we have found that traditional 1D or semi-3D simulation codes such as SRIM could lead to significant errors in the nano-beam and nano-target cases [Nanoscale 10 (2018) 1598-1606]. We also explored the influence of surface roughness on ion implantation and sputtering of materials [Nuclear Fusion 57 (2017) 016038].
 
-## Official website of IM3D:
-http://li.mit.edu/im3d/
+## [Official website of IM3D](http://li.mit.edu/im3d/)
 
 ## Publications:
+
 
 - Effects of Recoil Spectra and Electronic Energy Dissipation on Defect Survival in 3C-SiC, Lauren Nuckols, Miguel L. Crespillo, Yang Yang, Ju Li, Eva Zarkadoula, Yanwen Zhang and William J. Weber, Materialia, (2021) 101023.
 
