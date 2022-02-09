@@ -2,7 +2,7 @@
 layout: post
 title: IM3D
 subtitle: An MPI-parallelized and full-3D Monte Carlo simulation code for ion radiation in matter
-cover-img: /assets/img/Research-bg.jpg
+cover-img: /assets/img/6.jpg
 ---
 
 
