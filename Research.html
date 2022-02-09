@@ -20,28 +20,28 @@ div.gallery {
 div.gallery img {
   width: 100%;
   height: auto; 
+  display: inline-block;
 }
 	
-div.img {
-  position: auto;
+div.hj {
+  position: relative;
+  width: 100%;
   display: inline-block;
   width: 100%;
-  height: 10%;
 }
 	
-div.img .img-hover {
+div.hj .img-hover {
 	display: none;
-	position: absolute;
-	top: 0;
-	left: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
 	width: 100%;
-	height: auto;
-	z-index: 99;
 }
 	
 div.gallery:hover .img-hover {
-  	display: inline-block;
+  	display: inline;
 }
+
 
 div.desc {
   padding: 15px;
@@ -86,7 +86,7 @@ div.desc {
 <p style="margin-bottom:10px;"></p> 
 <div class="responsive">
   <div class="gallery">
-   <div class="img">
+   <div class="hj">
     <a target="_blank" href="/Extreme-environments">
       <img src="/assets/img/In-situ1.jpg" alt="Oxidation of Ni-Fe nanoparticles" width="400" height="400">
       <img src="/assets/img/oxidation.gif" class="img-hover" alt="Oxidation of Ni-Fe nanoparticles" width="400" height="400">
@@ -99,7 +99,7 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-   <div class="img">
+   <div class="hj">
     <a target="_blank" href="/Extreme-materials">
       <img src="{{ 'assets/img/diamond.jpg' | relative_url }}" alt="Elastic Strain Engineering" width="400" height="400">
     <img src="/assets/img/ESE.gif" class="img-hover" alt="Oxidation of Ni-Fe nanoparticles" width="400" height="400">
@@ -111,7 +111,7 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-   <div class="img">
+   <div class="hj">
     <a target="_blank" href="/Advanced-modeling">
       <img src="{{ 'assets/img/im3d.jpg' | relative_url }}" alt="IM3D" width="400" height="400"> 
       <img src="/assets/img/im3d.gif" class="img-hover" alt="IM3D" width="400" height="400">
