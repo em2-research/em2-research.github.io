@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join us
-cover-img: /assets/img/10.jpg
+cover-img: /assets/img/7.jpg
 ---
 
 ## Opening for prospective Ph.D. students
