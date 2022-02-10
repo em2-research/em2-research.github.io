@@ -4,7 +4,7 @@ title: Join us
 cover-img: /assets/img/10.jpg
 ---
 
-## Opening for propective Ph.D. students
+## Opening for prospective Ph.D. students
 Currently, we have several opennings for Ph.D. students. Please send a CV to Prof. Yang by email.
 
 ## Opening for undergraduate researchers
