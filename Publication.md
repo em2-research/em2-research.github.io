@@ -31,7 +31,6 @@ Selected as **Editor’s choice** paper by MRL Editorial Office in May 2020.![](
 **\[14\]** [How Far Away Are Lithium-Sulfur Batteries From Commercialization?](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00123/full), Kunlei Zhu†, Chao Wang†, Zixiang Chi, Fei Ke, **Yang Yang**, Anbang Wang, Weikun Wang and Lixiao Miao, _Front. Energy Res._ 7, 123
 
 **\[13\]** [Gradient Li-rich oxide cathode particles immunized against oxygen release by a molten salt treatment](http://li.mit.edu/Archive/Papers/19/Zhu19YuNE.pdf), Zhi Zhu, Daiwei Yu, **Yang Yang**, Cong Su, Yimeng Huang, Yanhao Dong, Iradwikanari Waluyo, Baoming Wang, Adrian Hunt, Xiahui Yao, Jinhyuk Lee, Weijiang Xue and Ju Li, _Nature Energy,_ 4 (2019) 1049-1058.
-
 ![](http://li.mit.edu/Archive/Papers/19/Zhu19YuNE-front.jpg)
 
 **\[12\]** [Focused-Helium-Ion-Beam Blow Forming of Nanostructures: Radiation Damage and Nanofabrication](https://iopscience.iop.org/article/10.1088/1361-6528/ab4a65), Chung-Soo Kim, Richard G Hobbs, Akshay Agarwal, **Yang Yang**, Vitor R Manfrinato, Michael P Short, Ju Li and Karl K Berggren, _Nanotechnology_, 31 (2020) 045302.  
@@ -72,7 +71,4 @@ Yong Gang Li, **Yang Yang**, Michael P. Short, Ze Jun Ding, Zhi Zeng and Ju Li, 
 
 **\[1\]** [Applications of Transient Grating Spectroscopy to Radiation Materials Science](https://link.springer.com/article/10.1007/s11837-015-1496-3),  
 Michael P. Short, Cody A. Dennett, Sara E. Ferry, **Yang Yang**, Vikash K. Mishra, Jeffrey K. Elia- son, Alejandro Vega-Flick, Alexei A. Maznev, and Keith A. Nelson. _JOM_ **67**, no. 8 (2015): 1840-1848.
-
 ![](http://yyn.scripts.mit.edu/home/wp-content/uploads/2018/09/JOM-1024x608.png)
-
-var sc\_project=11811855; var sc\_invisible=1; var sc\_security="a110336e";
