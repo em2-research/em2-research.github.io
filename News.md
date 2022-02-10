@@ -34,9 +34,7 @@ Yang has successfully defended his PhD thesis!
 ##### Fri, 04/06/2018
 
 Our paper “[Liquid-Like, Self-Healing Aluminum Oxide during Deformation at Room Temperature”](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.8b00068) is selected as “Editor’s Choice” by _Science_!  
-![Cover image expansion](https://d2ufo47lrtsv5s.cloudfront.net/content/sci/360/6384/F1.medium.gif)  
-[A revealing view of oxides](http://science.sciencemag.org/content/360/6384/45.5),  
-by Marc S. Lavine, _Science_, **360** (2018) 45-46.
+[A revealing view of oxides](http://science.sciencemag.org/content/360/6384/45.5), by Marc S. Lavine, _Science_, **360** (2018) 45-46.
 
 ##### Mon, 04/04/2018
 
