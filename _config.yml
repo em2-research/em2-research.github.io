@@ -15,14 +15,10 @@ author: (EM)^2 Research Lab @ The Pennsylvania State University
 
 navbar-links:
   Research: "/Research"
-    - Overview: "/Research"
-    - Extreme Environments: "/Extreme-environments"
-    - Extreme Performance: "/Extreme-materials"
-    - Advanced Modeling: "/Modeling"
   Team: "/Team"
   Publication: "/Publication"
   News: "/News"
-  Contact us: "/Join-us"
+  Join us: "/Join-us"
   Resources:
     - Engineering Science and Mechanics: "https://www.esm.psu.edu/"
     - MCL Equipment Reservation: "https://leo.psu.edu"
