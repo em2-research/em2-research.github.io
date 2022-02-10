@@ -12,7 +12,37 @@ cover-img: /assets/img/5.jpg
 body {
   background-color: #FFFFFF
 }
-	
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 30%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 70%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+
 div.ma {
   margin-right: 0%;
   margin-left: 0%;
@@ -59,34 +89,6 @@ div.desc {
   font-size: 1rem;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 20px;
-  float: left;
-  width: 36%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 36%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
 .header {
   padding: 10px;
@@ -100,19 +102,31 @@ div.desc {
   <h2>Principle Investigator (PI)</h2>
 </div>
 
-
-<div class="ma">
-<p style="margin-bottom:10px;"></p> 
-<div class="responsive">
-  <div class="gallery">
-   <div class="hj">
-    <a target="_blank" href="/Extreme-environments">
-      <img src="/assets/img/YangYang.jpg" alt="Yang Yang" width="400" height="400">
-      <img src="/assets/img/oxidation.gif" class="img-hover" alt="Yang Yang" width="400" height="400">
-    </a>
-   </div>
+<div class="row">
+  <div class="column side">
+    <div class="ma">
+      <div class="responsive">
+        <div class="gallery">
+         <div class="hj">
+          <a target="_blank" href="/Extreme-environments">
+            <img src="/assets/img/YangYang.jpg" alt="Yang Yang" width="400" height="400">
+            <img src="/assets/img/oxidation.gif" class="img-hover" alt="Yang Yang" width="400" height="400">
+          </a>
+         </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column middle">
+    <h3>Prof. Yang Yang</h3>
+    <h4>Assistant Professor, Department of Engineering Science and Mechanics & Materials Research Institute, The Pennsylvania State University</h4>
+    <p>Email: yang@psu.edu
+       Office Phone: +1-814-865-5070
+       Office: N243, Millennium Science Complex</p>
   </div>
 </div>
+
 
 
 <div class="responsive">
