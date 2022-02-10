@@ -3,8 +3,8 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
-##### Tue, 01/19/2022
-Yang received the pretigous NSF Early Career Award.
+##### Wed, 01/19/2022
+Yang received the pretigous [NSF Early Career Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career).
 
 ##### Tue, 06/01/2021
 Yang officially joined The Pennsylvania State University as an assistant professor in Engineering Science and Mechanics: [https://news.psu.edu/story/661434/2021/06/14/academics/new-engineering-faculty-study-structural-materials-extreme](https://news.psu.edu/story/661434/2021/06/14/academics/new-engineering-faculty-study-structural-materials-extreme).
