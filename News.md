@@ -6,9 +6,15 @@ cover-img: /assets/img/9.jpg
 ##### Wed, 01/19/2022
 Yang received the pretigous [NSF Early Career Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career).
 
+##### Mon, 01/17/2022
+Jahangir joined our group. Welcome!
+
 ##### Thur, 12/09/2021
 Congratulations to the COE Capstone team co-advised by Prof. Yang Yang and Prof. Mia Jin. We wish all students good luck on their future career.
 ![CapstoneFA21](/assets/img/CapstoneFA21.jpg)
+
+##### Mon, 08/30/2021
+Yongwen and Foster joined our group. Welcome!
 
 ##### Tue, 06/01/2021
 Yang officially joined The Pennsylvania State University as an assistant professor in Engineering Science and Mechanics: [https://news.psu.edu/story/661434/2021/06/14/academics/new-engineering-faculty-study-structural-materials-extreme](https://news.psu.edu/story/661434/2021/06/14/academics/new-engineering-faculty-study-structural-materials-extreme).
