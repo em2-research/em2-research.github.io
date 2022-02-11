@@ -12,16 +12,16 @@ The degradation of structural materials under harsh environments, such as high t
 Understanding the fundamental mechanisms of materials’s degradation is vital for the development of more robust structural materials. The micro-structures and defects in materials have a great impact on the performance of materials, while they are usually too small to be characterized by human’s eyes and optical microscopes.  In-situ transmission electron microscopy (TEM) technique enables the direct observation of the evolution of microstructures and defects at a spatial resolution scaling from 0.1 nm to 10,000 nm, offering the opportunity to discover or validate the fundamental mechanisms of materials’ failure at the atomic or nano scale.
 
 
-## Publications:
+### Publications:
 
-- Evaluating the effects of pillar shape and gallium ion beam damage on the mechanical properties of single crystal aluminum nanopillars, Yang Yang†, Sarah Y. Wang†, Bin Xiang, Sheng Yin, Thomas C. Pekin, Xiaoqing Li, Ruopeng Zhang, Kayla Yano, David Hwang, Mark Asta, Costas Grigoropoulos, Frances I. Allen, and Andrew M. Minor, Journal of Materials Research, (2021). 
+\[6\] [Evaluating the effects of pillar shape and gallium ion beam damage on the mechanical properties of single crystal aluminum nanopillars](https://link.springer.com/article/10.1557%2Fs43578-021-00125-5), **Yang Yang**†, Sarah Y. Wang†, Bin Xiang, Sheng Yin, Thomas C. Pekin, Xiaoqing Li, Ruopeng Zhang, Kayla Yano, David Hwang, Mark Asta, Costas Grigoropoulos, Frances I. Allen, and Andrew M. Minor, _Journal of Materials Research_, (2021).
 
-- Achieving large uniform tensile elasticity in microfabricated diamond, Chaoqun Dang†, Jyh-Pin Chou†, Bing Dai†, Chang-Ti Chou†, Yang Yang, Rong Fan, Weitong Lin, Fanling Meng, Alice Hu, Jiaqi Zhu, Jiecai Han, Andrew M. Minor, Ju Li, Yang Lu, Science 371, 76–78 (2021)
+\[5\] [Achieving large uniform tensile elasticity in microfabricated diamond](https://science.sciencemag.org/content/371/6524/76/tab-pdf), Chaoqun Dang†, Jyh-Pin Chou†, Bing Dai†, Chang-Ti Chou†, **Yang Yang**, Rong Fan, Weitong Lin, Fanling Meng, Alice Hu, Jiaqi Zhu, Jiecai Han, Andrew M. Minor, Ju Li, Yang Lu, _Science_ 371, 76–78 (2021)
 
-- Carbon nanotube (CNT) metal composites exhibit greatly reduced radiation damage, Kang Pyo So†, Penghui Cao†, Yang Yang, Jong Gil Park, Mingda Li, Long Yan, Jing Hu, Mark Kirk, Meimei Li, Young Hee Lee, Michael P.Short, Ju Li, Acta Materialia, 2020
+\[4\] [Carbon nanotube (CNT) metal composites exhibit greatly reduced radiation damage](https://www.sciencedirect.com/science/article/abs/pii/S1359645420309009), Kang Pyo So†, Penghui Cao†, **Yang Yang**, Jong Gil Park, Mingda Li, Long Yan, Jing Hu, Mark Kirk, Meimei Li, Young Hee Lee, Michael P.Short, Ju Li, _Acta Materialia_, 2020
 
-- Atomic-scale phase separation induced clustering of solute atoms, Lianfeng Zou†, Penghui Cao†, Yinkai Lei†, Dmitri Zakharov, Xianhu Sun, Stephen D. House, Langli Luo, Jonathan Li, Yang Yang, Qiyue Yin, Xiaobo Chen, Chaoran Li, Hailang Qin, Eric A. Stach, Judith C. Yang, Guofeng Wang & Guangwen Zhou, Nat Commun 11, 3934 (2020)
+\[3\] [Atomic-scale phase separation induced clustering of solute atoms](https://www.nature.com/articles/s41467-020-17826-w), Lianfeng Zou†, Penghui Cao†, Yinkai Lei†, Dmitri Zakharov, Xianhu Sun, Stephen D. House, Langli Luo, Jonathan Li, **Yang Yang**, Qiyue Yin, Xiaobo Chen, Chaoran Li, Hailang Qin, Eric A. Stach, Judith C. Yang, Guofeng Wang & Guangwen Zhou, _Nat Commun_ 11, 3934 (2020)
 
-- Liquid-Like, Self-Healing Aluminum Oxide during Deformation at Room Temperature, Yang Yang, Akihiro Kushima, Weizhong Han, Huolin Xin and Ju Li, Nano Letters 18 (2018) 2492-2497.
+\[2\] [Liquid-Like, Self-Healing Aluminum Oxide during Deformation at Room Temperature](http://li.mit.edu/Archive/Papers/18/Yang18KushimaNL.pdf), **Yang Yang**, Akihiro Kushima, Weizhong Han, Huolin Xin and Ju Li, _Nano Letters_ **18** (2018) 2492-2497.
 
-- Bimetallic nanoparticle oxidation in three dimensions by chemically sensitive electron tomography and in situ transmission electron microscopy, Weiwei Xia, Yang Yang, Qingping Meng, Zhiping Deng, Mingxing Gong, Jie Wang, Deli Wang, Yimei Zhu, Litao Sun, Feng Xu, Ju Li and Huolin Xin, ACS Nano, (2018) 12, 7866-7874.
+\[1\] [Bimetallic nanoparticle oxidation in three dimensions by chemically sensitive electron tomography and in situ transmission electron microscopy](http://li.mit.edu/Stuff/YangYang/Upload/Xia18YangAN.pdf), Weiwei Xia, **Yang Yang**, Qingping Meng, Zhiping Deng, Mingxing Gong, Jie Wang, Deli Wang, Yimei Zhu, Litao Sun, Feng Xu, Ju Li and Huolin Xin, _ACS Nano_, (2018) **12**, 7866-7874.
