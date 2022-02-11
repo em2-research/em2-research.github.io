@@ -17,4 +17,4 @@ For example, diamond is the hardest materials in nature, but the bulk form of it
 ![Diamond ESE](/assets/img/Diamond2.jpg)
 
 ### Publication:
-**\[21\] [Achieving large uniform tensile elasticity in microfabricated diamond](https://science.sciencemag.org/content/371/6524/76/tab-pdf)**, Chaoqun Dang†, Jyh-Pin Chou†, Bing Dai†, Chang-Ti Chou†, **Yang Yang**, Rong Fan, Weitong Lin, Fanling Meng, Alice Hu, Jiaqi Zhu, Jiecai Han, Andrew M. Minor, Ju Li, Yang Lu, _Science_, 371, 76–78 (2021) 
+**\[1\] [Achieving large uniform tensile elasticity in microfabricated diamond](https://science.sciencemag.org/content/371/6524/76/tab-pdf)**, Chaoqun Dang†, Jyh-Pin Chou†, Bing Dai†, Chang-Ti Chou†, **Yang Yang**, Rong Fan, Weitong Lin, Fanling Meng, Alice Hu, Jiaqi Zhu, Jiecai Han, Andrew M. Minor, Ju Li, Yang Lu, _Science_, 371, 76–78 (2021) 
