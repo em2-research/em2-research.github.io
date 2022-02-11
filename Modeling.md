@@ -9,7 +9,9 @@ date: 2022-02-09
 
 Nanoscale ion implantation represents an expanding, interdisciplinary field that combines radiation effects with nanoengineering to control matter at the atomic level. In so doing it offers the potential to create novel nano-devices such as quantum computers, magnetometers, nanowire p–n junctions etc. In particular, ion implantation enables more precise control of the spatial distribution and concentration of dopants/vacancies, making it highly desirable for the reproducible fabrication of nano-devices. However, confidently taking advantage of it hinges upon the accurate knowledge of the spatial distribution of point defects (including dopants, vacancies, and self-interstitials) created by ion implantation, which is often predicted by Monte Carlo (MC) simulations.
 
-As a result, we have developed [IM3D](http://li.mit.edu/im3d/): an open-source, MPI-parallelized and full-3D Monte Carlo simulation code for ion radiation in matter. Using [IM3D](http://li.mit.edu/im3d/), we have found that traditional 1D or semi-3D simulation codes such as SRIM could lead to significant errors in the nano-beam and nano-target cases [Nanoscale 10 (2018) 1598-1606]. We also explored the influence of surface roughness on ion implantation and sputtering of materials [Nuclear Fusion 57 (2017) 016038].
+As a result, we have developed [IM3D](http://li.mit.edu/im3d/): an open-source, MPI-parallelized and full-3D Monte Carlo simulation code for ion radiation in matter. Using [IM3D](http://li.mit.edu/im3d/), we have found that traditional 1D or semi-3D simulation codes such as SRIM could lead to significant errors in the nano-beam and nano-target cases [Nanoscale 10 (2018) 1598-1606](http://li.mit.edu/Archive/Papers/18/Yang18LiNanoscale.pdf). We also explored the influence of surface roughness on ion implantation and sputtering of materials [Nuclear Fusion 57 (2017) 016038](http://li.mit.edu/Archive/Papers/17/Li17YangNF.pdf).
+
+![nanobeam](/assets/img/Yang18LiNanoscale-front.jpg)
 
 ## Publications:
 
