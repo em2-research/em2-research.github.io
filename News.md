@@ -10,7 +10,7 @@ Yang received the pretigous [NSF Early Career Award](https://beta.nsf.gov/fundin
 Jahangir joined our group. Welcome!
 
 ##### Thur, 12/09/2021
-Congratulations to the COE Capstone team co-advised by Prof. Yang Yang and Prof. Mia Jin. We wish all students good luck on their future career.
+Congratulations to the COE Capstone team co-advised by Prof. Yang Yang and [Prof. Mia Jin](https://www.nuce.psu.edu/department/directory-detail-g.aspx?q=mjj5508). We wish all students good luck on their future career.
 ![CapstoneFA21](/assets/img/CapstoneFA21.jpg)
 
 ##### Mon, 08/30/2021
