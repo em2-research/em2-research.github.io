@@ -11,6 +11,7 @@ The degradation of structural materials under harsh environments, such as high t
 
 Understanding the fundamental mechanisms of materials’s degradation is vital for the development of more robust structural materials. The micro-structures and defects in materials have a great impact on the performance of materials, while they are usually too small to be characterized by human’s eyes and optical microscopes.  In-situ transmission electron microscopy (TEM) technique enables the direct observation of the evolution of microstructures and defects at a spatial resolution scaling from 0.1 nm to 10,000 nm, offering the opportunity to discover or validate the fundamental mechanisms of materials’ failure at the atomic or nano scale.
 
+![In-situ TEM](/assets/img/in-situ-YangYang.png)
 
 ### Publications:
 
