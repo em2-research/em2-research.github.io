@@ -13,6 +13,9 @@ Jahangir joined our group. Welcome!
 Congratulations to the COE Capstone team co-advised by Prof. Yang Yang and [Prof. Mia Jin](https://www.nuce.psu.edu/department/directory-detail-g.aspx?q=mjj5508). We wish all students good luck on their future career.
 ![CapstoneFA21](/assets/img/CapstoneFA21.jpg)
 
+##### Mon, 10/11/2021
+Dr. Ying joined our group. Welcome!
+
 ##### Mon, 08/30/2021
 Yongwen and Foster joined our group. Welcome!
 
