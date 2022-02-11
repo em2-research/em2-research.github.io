@@ -14,16 +14,16 @@ As a result, we have developed [IM3D](http://li.mit.edu/im3d/): an open-source, 
 ## Publications:
 
 
-- Effects of Recoil Spectra and Electronic Energy Dissipation on Defect Survival in 3C-SiC, Lauren Nuckols, Miguel L. Crespillo, Yang Yang, Ju Li, Eva Zarkadoula, Yanwen Zhang and William J. Weber, Materialia, (2021) 101023.
+\[7\] [Effects of Recoil Spectra and Electronic Energy Dissipation on Defect Survival in 3C-SiC](https://www.sciencedirect.com/science/article/abs/pii/S2589152921000260), Lauren Nuckols, Miguel L. Crespillo, **Yang Yang**, Ju Li, Eva Zarkadoula, Yanwen Zhang and William J. Weber, _Materialia_, (2021) 101023.
 
-- Sample spinning to mitigate polarization artifact and interstitial-vacancy imbalance in ion-beam irradiation, Cui-Lan Ren, Yang Yang, Yong-Gang Li, Ping Huai, Zhi-Yuan Zhu & Ju Li, npj Computational Materials, (2020) 189
+\[6\] [Sample spinning to mitigate polarization artifact and interstitial-vacancy imbalance in ion-beam irradiation](https://www.nature.com/articles/s41524-020-00438-9#Sec12), Cui-Lan Ren, **Yang Yang**, Yong-Gang Li, Ping Huai, Zhi-Yuan Zhu & Ju Li, _npj Computational Materials, (2020) 189_
 
-- Focused-Helium-Ion-Beam Blow Forming of Nanostructures: Radiation Damage and Nanofabrication, Chung-Soo Kim, Richard G Hobbs, Akshay Agarwal, Yang Yang, Vitor R Manfrinato, Michael P Short, Ju Li and Karl K Berggren, Nanotechnology, 31 (2020) 045302.
+\[5\] [Focused-Helium-Ion-Beam Blow Forming of Nanostructures: Radiation Damage and Nanofabrication](https://iopscience.iop.org/article/10.1088/1361-6528/ab4a65), Chung-Soo Kim, Richard G Hobbs, Akshay Agarwal, **Yang Yang**, Vitor R Manfrinato, Michael P Short, Ju Li and Karl K Berggren, _Nanotechnology_, 31 (2020) 045302.
 
-- More Efficient and Accurate Simulations of Primary Radiation Damage in Materials with Nanosized Microstructural Features or Ion Beam, Ju Li, Yang Yang, and Michael P. Short., Handbook of Materials Modeling. Volume 2 Applications: Current and Emerging Materials, (2018).
+\[4\] [More Efficient and Accurate Simulations of Primary Radiation Damage in Materials with Nanosized Microstructural Features or Ion Beam](https://link.springer.com/referenceworkentry/10.1007/978-3-319-50257-1_115-1), Ju Li, **Yang Yang**, and Michael P. Short., _Handbook of Materials Modeling. Volume 2 Applications: Current and Emerging Materials_, (2018).
 
-- Nano-beam and nano-target effects in ion radiation, Yang Yang, Yong Gang Li, Michael P. Short, Chung-Soo Kim, Karl K. Berggren and Ju Li, Nanoscale 10 (2018) 1598-1606.
+\[3\] [Nano-beam and nano-target effects in ion radiation](http://li.mit.edu/Archive/Papers/18/Yang18LiNanoscale.pdf), **Yang Yang**, Yong Gang Li, Michael P. Short, Chung-Soo Kim, Karl K. Berggren and Ju Li, _Nanoscale_ **10** (2018) 1598-1606.
 
-- Ion radiation albedo effect: influence of surface roughness on ion implantation and sputtering of materials, Yong Gang Li, Yang Yang, Michael P. Short, Ze Jun Ding, Zhi Zeng and Ju Li, Nuclear Fusion 57 (2017) 016038.
+\[2\] [Ion radiation albedo effect: influence of surface roughness on ion implantation and sputtering of materials](http://li.mit.edu/Archive/Papers/17/Li17YangNF.pdf), Yong Gang Li, **Yang Yang**, Michael P. Short, Ze Jun Ding, Zhi Zeng and Ju Li, _Nuclear Fusion_ **57** (2017) 016038.
 
-- IM3D: A parallel Monte Carlo code for efficient simulations of primary radiation displacements and damage in 3D geometry, Yong Gang Li, Yang Yang, Michael P. Short, Ze Jun Ding, Zhi Zeng and Ju Li, Scientific Reports 5 (2015) 18130.
+\[1\] [IM3D: A parallel Monte Carlo code for efficient simulations of primary radiation displacements and damage in 3D geometry](http://li.mit.edu/Archive/Papers/15/Li15YangSR.pdf), Yong Gang Li, **Yang Yang**, Michael P. Short, Ze Jun Ding, Zhi Zeng and Ju Li, _Scientific Reports_ **5** (2015) 18130.
