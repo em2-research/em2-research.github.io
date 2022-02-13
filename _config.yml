@@ -20,6 +20,7 @@ navbar-links:
   News: "/News"
   Join us: "/Join-us"
   Resources:
+    - Teaching: "/Teaching"
     - Engineering Science and Mechanics: "https://www.esm.psu.edu/"
     - Materials Research Institute: "https://www.mri.psu.edu/"
 
