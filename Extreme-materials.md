@@ -12,7 +12,8 @@ date: 2022-02-09
 >-- Cited from: [Ju Li, Zhiwei Shan, and Even Ma, _**MRS Bulletin**_, volume 39, pages 108–114 (2014)](https://link.springer.com/article/10.1557/mrs.2014.3)
 
 
-For example, diamond is the hardest materials in nature, but the bulk form of it has a low dutility (_i.e._, it cannot be deformed to a high strain without fracture). Recently, researchers have found that extremely large elastic tensile strain (up to 9.7%) can be achieved in micro-fabricated diamond bridges. This is of particualr importance as such deep elastic strain engineered diamond may enable diamond-based electronic and opto-electronic devices that have extraodinary performance.
+
+For example, diamond is the hardest material in nature, but the bulk form of it has a low ductility (_i.e._, it cannot be deformed to a high strain without fracture). Recently, researchers have found that extremely large elastic tensile strain (up to 9.7%) can be achieved in micro-fabricated diamond bridges. This is of particular importance as such deep elastic strain engineered diamond may enable diamond-based electronic and optoelectronic devices that have extraordinary performance.
 
 ![Diamond ESE](/assets/img/Diamond2.jpg)
 
