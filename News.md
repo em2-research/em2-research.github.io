@@ -3,6 +3,12 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Mon, 03/07/2022
+A team led by Yang is awarded the [IEE seed grant](https://iee.psu.edu/funding/iee-seed-grant-program). The seed grant will facilitate catalyst research.
+
+##### Sat, 02/26/2022
+Yongwen got 3rd place in the oral presentation competition in the 2022 ESM today. Congratulations!
+
 ##### Wed, 01/19/2022
 Yang received the pretigous [NSF Early Career Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career).
 
