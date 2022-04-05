@@ -7,6 +7,11 @@ cover-img: /assets/img/1.jpg
 ![Sponsors](/assets/img/Sponsors.jpg)
 
 ---
+#### Pre-print:
+**[24] [One Dimensional Wormhole Corrosion in Metals](https://arxiv.org/abs/2203.16312)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, arXiv, (2022).
+
+---
+#### In print:
 **[23] [Evaluating the effects of pillar shape and gallium ion beam damage on the mechanical properties of single crystal aluminum nanopillars](https://link.springer.com/article/10.1557%2Fs43578-021-00125-5)**, **Yang Yang**†, Sarah Y. Wang†, Bin Xiang, Sheng Yin, Thomas C. Pekin, Xiaoqing Li, Ruopeng Zhang, Kayla Yano, David Hwang, Mark Asta, Costas Grigoropoulos, Frances I. Allen, and Andrew M. Minor, _Journal of Materials Research_, (2021).
 
 **\[22\] [Effects of Recoil Spectra and Electronic Energy Dissipation on Defect Survival in 3C-SiC](https://www.sciencedirect.com/science/article/abs/pii/S2589152921000260)**, Lauren Nuckols, Miguel L. Crespillo, **Yang Yang**, Ju Li, Eva Zarkadoula, Yanwen Zhang and William J. Weber, _Materialia_, (2021) 101023.
