@@ -8,7 +8,7 @@ cover-img: /assets/img/1.jpg
 
 ---
 #### Pre-print:
-**[24] [One Dimensional Wormhole Corrosion in Metals](https://arxiv.org/abs/2203.16312)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, arXiv, (2022).
+**[24] [One Dimensional Wormhole Corrosion in Metals](https://arxiv.org/abs/2203.16312)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, _arXiv_, (2022).
 
 ---
 #### In print:
