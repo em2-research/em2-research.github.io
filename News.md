@@ -3,6 +3,9 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Tue, 05/03/2022
+Congratulations to Foster for passing the qualifying exam in the first year!
+
 ##### Mon, 03/07/2022
 A team led by Yang is awarded the [IEE seed grant](https://iee.psu.edu/funding/iee-seed-grant-program). This seed grant aims to provide new mechanistic understanding in advanced catalysts.
 
