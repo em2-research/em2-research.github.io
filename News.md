@@ -3,8 +3,26 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Wed, 08/17/2022
+Yuxi and Yingxin joined our group. Welcome!
+
+##### Mon, 08/01/2022
+Dr. Yang is one of the co-organizers of the symposium P07 "Correlative Microscopy and High-Throughput Characterization for Accelerated Development of Materials in Extreme Environments," at the [Microscopy and Microanalysis (M&M) conference 2022](https://www.microscopy.org/MandM/2022/program/descriptions.cfm).
+![](https://www.microscopy.org/MandM/2022/images/logo.jpg)
+
+
+##### Fri, 06/17/2022
+Congratulations to Zhiyu on the 2022 Joseph C. Conway Outstanding Teaching Assistant Award, a recognition of his outstanding service to the EMCH 213 course in Fall 2021. 
+
+
 ##### Tue, 05/03/2022
 Congratulations to Foster for passing the qualifying exam in the first year!
+
+##### Tue, 05/03/2022
+Congratulations to Foster for passing the qualifying exam in the first year!
+
+##### Wed, 03/23/2022
+Zhiyu Zhang joined our group. Welcome!
 
 ##### Mon, 03/07/2022
 A team led by Yang is awarded the [IEE seed grant](https://iee.psu.edu/funding/iee-seed-grant-program). This seed grant aims to provide new mechanistic understanding in advanced catalysts.
