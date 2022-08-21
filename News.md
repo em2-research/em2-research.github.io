@@ -18,9 +18,6 @@ Congratulations to Zhiyu on the 2022 Joseph C. Conway Outstanding Teaching Assis
 ##### Tue, 05/03/2022
 Congratulations to Foster for passing the qualifying exam in the first year!
 
-##### Tue, 05/03/2022
-Congratulations to Foster for passing the qualifying exam in the first year!
-
 ##### Wed, 03/23/2022
 Zhiyu Zhang joined our group. Welcome!
 

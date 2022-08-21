@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 cover-img: /assets/img/10.jpg
 ---
-### Fall 2021
+### Fall 2022
 #### [EMCH 213: Strength of Materials](https://bulletins.psu.edu/university-course-descriptions/undergraduate/emch/)
 **Course description**:
 
