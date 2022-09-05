@@ -7,7 +7,7 @@ cover-img: /assets/img/9.jpg
 This is our first group ice cream event for Fall 2022.
 >"I scream, you scream, we all scream for ice cream!"
 
-<img src="https://www.em2-lab.com/assets/img/IceCream2022.jpg" width="300"/>
+<img src="https://www.em2-lab.com/assets/img/IceCream2022.jpg" width="500"/>
 
 ##### Wed, 08/17/2022
 Yuxi and Yingxin joined our group. Welcome!
