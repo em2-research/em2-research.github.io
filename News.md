@@ -3,10 +3,11 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
-##### Thur, 09/1/2022
-*"I scream, you scream, we all scream for ice cream!"* 
-<img src="https://www.em2-lab.com/assets/img/IceCream2022.jpg" width="500"/>
+##### Wed, 12/14/2022
+Congratulations to 
+Yongwen Sun! Her first paper is published on Energy and Environmental Science.
 
+>[Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**, Shitong Wang† et al., _Energy & Environmental Science_, (2022).
 
 ##### Thur, 09/1/2022
 *"I scream, you scream, we all scream for ice cream!"* 
