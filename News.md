@@ -5,9 +5,7 @@ cover-img: /assets/img/9.jpg
 ---
 ##### Wed, 12/14/2022
 Congratulations to 
-Yongwen Sun! Her first paper is published on Energy and Environmental Science.
-
->[Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**, Shitong Wang† et al., _Energy & Environmental Science_, (2022).
+Yongwen Sun! Her first paper is published on Energy and Environmental Science. Link to the paper: **[Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**.
 
 ##### Thur, 09/1/2022
 *"I scream, you scream, we all scream for ice cream!"* 
