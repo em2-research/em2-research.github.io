@@ -3,6 +3,14 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Tue, 01/03/2023
+Hyeonwoo Kim from Hanyang University joined our group. Welcome!
+
+##### Thur, 12/22/2022
+We celebrated Christmas and New year together. 2022 was a wonderful year.
+<img src="https://www.em2-lab.com/assets/img/2022.jpg" width="500"/>
+
+
 ##### Wed, 12/14/2022
 Congratulations to 
 Yongwen Sun! Her first paper is published on Energy and Environmental Science. Link to the paper: **[Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**.
