@@ -18,7 +18,7 @@ As a result, we have developed [IM3D](http://li.mit.edu/im3d/): an open-source, 
 
 \[7\] [Effects of Recoil Spectra and Electronic Energy Dissipation on Defect Survival in 3C-SiC](https://www.sciencedirect.com/science/article/abs/pii/S2589152921000260), Lauren Nuckols, Miguel L. Crespillo, **Yang Yang**, Ju Li, Eva Zarkadoula, Yanwen Zhang and William J. Weber, _Materialia_, (2021) 101023.
 
-\[6\] [Sample spinning to mitigate polarization artifact and interstitial-vacancy imbalance in ion-beam irradiation](https://www.nature.com/articles/s41524-020-00438-9#Sec12), Cui-Lan Ren, **Yang Yang**, Yong-Gang Li, Ping Huai, Zhi-Yuan Zhu & Ju Li, _npj Computational Materials, (2020) 189_
+\[6\] [Sample spinning to mitigate polarization artifact and interstitial-vacancy imbalance in ion-beam irradiation](https://www.nature.com/articles/s41524-020-00438-9#Sec12), Cui-Lan Ren, **Yang Yang**, Yong-Gang Li, Ping Huai, Zhi-Yuan Zhu & Ju Li, _npj Computational Materials_, (2020) 189.
 
 \[5\] [Focused-Helium-Ion-Beam Blow Forming of Nanostructures: Radiation Damage and Nanofabrication](https://iopscience.iop.org/article/10.1088/1361-6528/ab4a65), Chung-Soo Kim, Richard G Hobbs, Akshay Agarwal, **Yang Yang**, Vitor R Manfrinato, Michael P Short, Ju Li and Karl K Berggren, _Nanotechnology_, 31 (2020) 045302.
 

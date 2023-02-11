@@ -12,7 +12,7 @@ cover-img: /assets/img/1.jpg
 
 ---
 #### In print:
-**[26] [Ion-beam radiation-induced Eshelby transformations: The mean and variance in hydrostatic and shear residual stresses](https://doi.org/10.1016/j.eml.2023.101970), Yongchao Chen, Qing-Jie Li, Alexander D. O’Brien, **Yang Yang**, Qi He, David A. Bloore, Joost J. Vlassak, Ju Li, _Extreme Mechanics Letters_, (2023), 59, 101970.
+**[26] [Ion-beam radiation-induced Eshelby transformations: The mean and variance in hydrostatic and shear residual stresses](https://doi.org/10.1016/j.eml.2023.101970)**, Yongchao Chen, Qing-Jie Li, Alexander D. O’Brien, **Yang Yang**, Qi He, David A. Bloore, Joost J. Vlassak, Ju Li, _Extreme Mechanics Letters_, (2023), 59, 101970.
 ![](/assets/img/Chen23EML.jpeg)
 
 **[25] [Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**, Shitong Wang†,   Lijiang Zhao†,   Yanhao Dong, He Zhu, **Yang Yang**, Haowei Xu,  Baoming Wang,   Yakun Yuan,  Yang Ren,   Xiaojing Huang,   Wei Quan,   Yutong Li,   Yimeng Huang,   Charles M. Settens,   Qi He,   **Yongwen Sun**,   Hua Wang,   Zunqiu Xiao,   Wenjun Liu,   Xianghui Xiao,   Riqiang Fu,   Qiang Li,   Yong S. Chu,   Zhongtai Zhang,   Qi Liu,  Andrew M. Minor,   Junying Zhang,   Zilong Tang and  Ju Li†, _Energy & Environmental Science_, (2022).
