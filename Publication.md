@@ -8,10 +8,13 @@ cover-img: /assets/img/1.jpg
 
 ---
 #### Pre-print:
-**[27] [One Dimensional Wormhole Corrosion in Metals](https://arxiv.org/abs/2203.16312)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, Available on _arXiv_, (2022).
+**[28] [One Dimensional Wormhole Corrosion in Metals](https://arxiv.org/abs/2203.16312)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, Available on _arXiv_, (2022).
 
 ---
 #### In print:
+**[27] [Stress Sensitivity Origin of Extended Defects Production Under Coupled Irradiation and Mechanical Loading](https://doi.org/10.1016/j.actamat.2023.118758)**, He, Miao,  **Yang Yang**, Fei Gao, and Yue Fan, _Acta Materialia_, (2023), 118758.
+![](/assets/img/He23AM.jpg)
+
 **[26] [Ion-beam radiation-induced Eshelby transformations: The mean and variance in hydrostatic and shear residual stresses](https://doi.org/10.1016/j.eml.2023.101970)**, Yongchao Chen, Qing-Jie Li, Alexander D. O’Brien, **Yang Yang**, Qi He, David A. Bloore, Joost J. Vlassak, Ju Li, _Extreme Mechanics Letters_, (2023), 59, 101970.
 ![](/assets/img/Chen23EML.jpeg)
 
