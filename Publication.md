@@ -12,7 +12,7 @@ cover-img: /assets/img/1.jpg
 
 ---
 #### In print:
-**[27] [Stress Sensitivity Origin of Extended Defects Production Under Coupled Irradiation and Mechanical Loading](https://doi.org/10.1016/j.actamat.2023.118758)**, He, Miao,  **Yang Yang**, Fei Gao, and Yue Fan, _Acta Materialia_, (2023), 118758.
+**[27] [Stress Sensitivity Origin of Extended Defects Production Under Coupled Irradiation and Mechanical Loading](https://doi.org/10.1016/j.actamat.2023.118758)**, Miao He,  **Yang Yang**, Fei Gao, and Yue Fan, _Acta Materialia_, (2023), 118758.
 ![](/assets/img/He23AM.jpg)
 
 **[26] [Ion-beam radiation-induced Eshelby transformations: The mean and variance in hydrostatic and shear residual stresses](https://doi.org/10.1016/j.eml.2023.101970)**, Yongchao Chen, Qing-Jie Li, Alexander D. O’Brien, **Yang Yang**, Qi He, David A. Bloore, Joost J. Vlassak, Ju Li, _Extreme Mechanics Letters_, (2023), 59, 101970.
