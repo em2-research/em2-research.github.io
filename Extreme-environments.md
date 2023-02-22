@@ -14,6 +14,7 @@ Understanding the fundamental mechanisms of materials’ degradation is vital fo
 ![In-situ TEM](/assets/img/in-situ-YangYang.png)
 
 ### Publications:
+\[7\] [One Dimensional Wormhole Corrosion in Metals](https://www.nature.com/articles/s41467-023-36588-9), **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, Available on _Nature Communications_, (2023), 14, 988.
 
 \[6\] [Evaluating the effects of pillar shape and gallium ion beam damage on the mechanical properties of single crystal aluminum nanopillars](https://link.springer.com/article/10.1557%2Fs43578-021-00125-5), **Yang Yang**†, Sarah Y. Wang†, Bin Xiang, Sheng Yin, Thomas C. Pekin, Xiaoqing Li, Ruopeng Zhang, Kayla Yano, David Hwang, Mark Asta, Costas Grigoropoulos, Frances I. Allen, and Andrew M. Minor, _Journal of Materials Research_, (2021).
 

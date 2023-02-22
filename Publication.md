@@ -6,12 +6,15 @@ cover-img: /assets/img/1.jpg
 #### Sponsors:
 ![Sponsors](/assets/img/Sponsors.jpg)
 
----
-#### Pre-print:
-**[28] [One Dimensional Wormhole Corrosion in Metals](https://arxiv.org/abs/2203.16312)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, Available on _arXiv_, (2022).
+
+
 
 ---
 #### In print:
+**[28] [One Dimensional Wormhole Corrosion in Metals](https://www.nature.com/articles/s41467-023-36588-9)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, Available on _Nature Communications_, (2023), 14, 988.
+![](/assets/img/Yang23NC.jpg)
+
+
 **[27] [Stress Sensitivity Origin of Extended Defects Production Under Coupled Irradiation and Mechanical Loading](https://doi.org/10.1016/j.actamat.2023.118758)**, Miao He,  **Yang Yang**, Fei Gao, and Yue Fan, _Acta Materialia_, (2023), 118758.
 ![](/assets/img/He23AM.jpg)
 
