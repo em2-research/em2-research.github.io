@@ -11,10 +11,9 @@ cover-img: /assets/img/1.jpg
 
 ---
 #### In print:
-**[28] [One Dimensional Wormhole Corrosion in Metals](https://www.nature.com/articles/s41467-023-36588-9)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, _Nature Communications_, (2023), 14, 988. 
-![](/assets/img/Yang23NC.jpg)
-The work is also featured at the [**Penn State News**](https://news.engr.psu.edu/2023/scientists-identify-new-mechanism-corrosion.aspx).
+**[28] [One Dimensional Wormhole Corrosion in Metals](https://www.nature.com/articles/s41467-023-36588-9)**, **Yang Yang**†, Weiyue Zhou†, Sheng Yin, Sarah Y. Wang, Qin Yu, Matthew J. Olszta, Ya-Qian Zhang, Steven E. Zeltmann, Mingda Li, Miaomiao Jin, Daniel K. Schreiber, Jim Ciston, M. C. Scott, John R. Scully, Robert O. Ritchie, Mark Asta, Ju Li, Michael P. Short, Andrew M. Minor, _Nature Communications_, (2023), 14, 988. | [**Penn State News Story**](https://news.engr.psu.edu/2023/scientists-identify-new-mechanism-corrosion.aspx). 
 
+![](/assets/img/Yang23NC.jpg)
 
 
 
