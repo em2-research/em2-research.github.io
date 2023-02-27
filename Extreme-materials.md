@@ -18,4 +18,9 @@ For example, diamond is the hardest material in nature, but the bulk form of it 
 ![Diamond ESE](/assets/img/Diamond2.jpg)
 
 ### Publication:
-**\[1\] [Achieving large uniform tensile elasticity in microfabricated diamond](https://science.sciencemag.org/content/371/6524/76/tab-pdf)**, Chaoqun Dang†, Jyh-Pin Chou†, Bing Dai†, Chang-Ti Chou†, **Yang Yang**, Rong Fan, Weitong Lin, Fanling Meng, Alice Hu, Jiaqi Zhu, Jiecai Han, Andrew M. Minor, Ju Li, Yang Lu, _Science_, 371, 76–78 (2021) 
+[3] [Stress Sensitivity Origin of Extended Defects Production Under Coupled Irradiation and Mechanical Loading](https://doi.org/10.1016/j.actamat.2023.118758), Miao He,  **Yang Yang**, Fei Gao, and Yue Fan, _Acta Materialia_, (2023), 118758.
+![](/assets/img/He23AM.jpg)
+
+[2] [Ion-beam radiation-induced Eshelby transformations: The mean and variance in hydrostatic and shear residual stresses](https://doi.org/10.1016/j.eml.2023.101970), Yongchao Chen, Qing-Jie Li, Alexander D. O’Brien, **Yang Yang**, Qi He, David A. Bloore, Joost J. Vlassak, Ju Li, _Extreme Mechanics Letters_, (2023), 59, 101970.
+
+[1] [Achieving large uniform tensile elasticity in microfabricated diamond](https://science.sciencemag.org/content/371/6524/76/tab-pdf), Chaoqun Dang†, Jyh-Pin Chou†, Bing Dai†, Chang-Ti Chou†, **Yang Yang**, Rong Fan, Weitong Lin, Fanling Meng, Alice Hu, Jiaqi Zhu, Jiecai Han, Andrew M. Minor, Ju Li, Yang Lu, _Science_, 371, 76–78 (2021) 
