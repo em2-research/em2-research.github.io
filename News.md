@@ -3,6 +3,9 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Wed, 03/01/2023
+Congratulations to Zhiyu on passing the qualifying exam!
+
 ##### Wed, 02/22/2023
 While corrosion is a ubiquitous failure mode in materials, we report a percolating 1D wormhole corrosion morphology. We have also developed a vacancy mapping method with nm-resolution, identifying its nanostructural origin. Check our paper on _[**Nature Communications**](https://www.nature.com/articles/s41467-023-36588-9)_, as well as the [**Penn State News**](https://www.psu.edu/news/engineering/story/scientists-identify-new-mechanism-corrosion/).
 ![](/assets/img/Yang23NC.jpg)
