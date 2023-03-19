@@ -3,6 +3,10 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Sat, 03/18/2023
+Zhiyu, Jahangir and Yingxin gave three nice presentations in the ESM today, 2023. Congratulations to Jahangir for winning 1st place in the oral presentation competition. 
+![](/assets/img/ESMtoday2023.jpg)
+
 ##### Wed, 03/01/2023
 Congratulations to Zhiyu on passing the qualifying exam!
 
