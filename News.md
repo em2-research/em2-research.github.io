@@ -8,6 +8,11 @@ We watched the movie "Oppenheimer" together. J. Robert Oppenheimer is one of our
 ![](/assets/img/Oppenheimer.jpg)
 
 
+##### Thur, 06/29/2023
+Hyeonwoo delivered an engaging presentation to both Prof. Mia Jin's group and our team at the MRI, where he highlighted the impressive research he's conducted over the past six months as a visiting student at Penn State. Coupled with a farewell lunch in his honor, it was a bittersweet moment for us all. His presence will be greatly missed.
+![](/assets/img/Hyeonwoo_seminar.jpg)
+
+
 ##### Mon, 05/29/2023
 Congratulations to Yongwen on passing the comprehensive exam!
 
