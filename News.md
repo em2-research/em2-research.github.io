@@ -3,6 +3,17 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Mon, 07/24/2023
+We watched the movie "Oppenheimer" together. J. Robert Oppenheimer is one of our academic grandfathers. 
+![](/assets/img/Oppenheimer.jpg)
+
+
+##### Mon, 05/29/2023
+Congratulations to Yongwen on passing the comprehensive exam!
+
+##### Thur, 04/27/2023
+Congratulations to Jahangir on passing the comprehensive exam!
+
 ##### Sat, 03/18/2023
 Zhiyu, Jahangir and Yingxin gave three nice presentations in the ESM today, 2023. Congratulations to Jahangir for winning 1st place in the oral presentation competition. 
 ![](/assets/img/ESMtoday2023.jpg)
