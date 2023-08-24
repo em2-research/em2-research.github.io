@@ -16,7 +16,8 @@ Dr. Yang was invited to give a plenary talk at the [2023 MOLECULAR FOUNDRY ANNUA
 
 
 ##### Tue, 08/08/2023
-Jahangir was awarded the "Best Intern" at the Idaho National Laboratory this summer. Congratulations!
+Jahangir has been honored as the "Best Intern" at Idaho National Laboratory (INL) this summer! Kudos on the achievement! 🎉🎉🎉
+(Image: Dr. Fei Teng, Jahangir's supervisor at INL, presenting the award to Jahangir.)
 ![](/assets/img/JL-award-23.jpg)
 
 
