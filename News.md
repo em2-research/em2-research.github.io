@@ -3,6 +3,11 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+
+##### Mon, 08/21/2023
+Welcome Lei Ding, a new member of our group!
+
+
 ##### Tue, 08/15/2023
 Dr. Yang was invited to give a talk at the [Forefront Innovation Series](https://www.ampp.org/events/forefront-innovation-series) webinar organized by [Association for Materials Protection and Performance (AMPP)](https://www.ampp.org/home).
 
