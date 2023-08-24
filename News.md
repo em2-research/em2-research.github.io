@@ -9,12 +9,9 @@ Dr. Yang was invited to give a talk at the [Forefront Innovation Series](https:/
 ##### Thur, 08/10/2023
 Dr. Yang was invited to give a plenary talk at the [2023 MOLECULAR FOUNDRY ANNUAL USER MEETING](https://usermeeting2023.foundry.lbl.gov/scientific-program/) at the Lawrence Berkeley National Laboratory.
 
-##### Thur, 08/10/2023
-Dr. Yang was invited to give a plenary talk at the [2023 MOLECULAR FOUNDRY ANNUAL USER MEETING](https://usermeeting2023.foundry.lbl.gov/scientific-program/) at the Lawrence Berkeley National Laboratory.
-
 
 ##### Tue, 08/08/2023
-Muhammad Jahangir Khan Lodhi was awarded the "Best Intern" at the Idaho National Laboratory this summer. Congratulations!
+Jahangir was awarded the "Best Intern" at the Idaho National Laboratory this summer. Congratulations!
 ![](/assets/img/JL-award-23.jpg)
 
 
