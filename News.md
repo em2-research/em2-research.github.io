@@ -12,7 +12,8 @@ Welcome Lei Ding, a new member of our group!
 Dr. Yang was invited to give a talk at the [Forefront Innovation Series](https://www.ampp.org/events/forefront-innovation-series) webinar organized by [Association for Materials Protection and Performance (AMPP)](https://www.ampp.org/home).
 
 ##### Thur, 08/10/2023
-Dr. Yang was invited to give a plenary talk at the [2023 MOLECULAR FOUNDRY ANNUAL USER MEETING](https://usermeeting2023.foundry.lbl.gov/scientific-program/) at the Lawrence Berkeley National Laboratory.
+Dr. Yang was invited to give a plenary talk at the [2023 MOLECULAR FOUNDRY ANNUAL USER MEETING](https://foundry.lbl.gov/2023/08/17/science-on-display-at-the-2023-annual-user-meeting-day-1/) at the Lawrence Berkeley National Laboratory.
+![](/assets/img/Yang-MF-user-meeting23.jpg)
 
 
 ##### Tue, 08/08/2023
