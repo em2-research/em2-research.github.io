@@ -11,7 +11,7 @@ cover-img: /assets/img/1.jpg
 
 ---
 #### In print:
-**[29] [Towards high-performance p-type two-dimensional field effect transistors: contact engineering, scaling, and doping](https://pubs.acs.org/doi/abs/10.1021/acsnano.3c03060)**, Aaryan Oberoi, Ying Han, Sergei P. Stepanoff, Andrew Pannone, Yongwen Sun, Yu-Chuan Lin, Chen Chen, Jeffrey R. Shallenberger, Da Zhou, Mauricio Terrones, Joan M Redwing, Joshua A. Robinson, Douglas E Wolfe, **Yang Yang**, Saptarshi Das, _ACS Nano_, (2023).
+**[29] [Towards high-performance p-type two-dimensional field effect transistors: contact engineering, scaling, and doping](https://pubs.acs.org/doi/abs/10.1021/acsnano.3c03060)**, Aaryan Oberoi, **Ying Han**, Sergei P. Stepanoff, Andrew Pannone, **Yongwen Sun**, Yu-Chuan Lin, Chen Chen, Jeffrey R. Shallenberger, Da Zhou, Mauricio Terrones, Joan M Redwing, Joshua A. Robinson, Douglas E Wolfe, **Yang Yang**, Saptarshi Das, _ACS Nano_, (2023).
 ![](/assets/img/ACSnano23.jpg)
 
 
