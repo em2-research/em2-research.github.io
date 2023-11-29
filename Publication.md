@@ -10,7 +10,7 @@ cover-img: /assets/img/1.jpg
 
 
 ---
-#### In print or in production:
+#### In print or production:
 **[31] [Wafer-scale monolithic three-dimensional (3D) integration of two-dimensional (2D) field effect transistors]()**, Darsith Jayachandran, Rahul Pendurthi, Muhtasim Ul Karim Sadaf, Najam U Sakib, Andrew Pannone, Chen Chen, **Ying HAN**, Nicholas Trainor, Shalini Kumari, Thomas Mc Knight, Joan Redwing, **Yang Yang**, Saptarshi Das, _Accepted_, (2023).
 
 
