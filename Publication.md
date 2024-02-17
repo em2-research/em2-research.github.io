@@ -15,12 +15,11 @@ cover-img: /assets/img/1.jpg
 ![](/assets/img/NC_24_rejuvenation.jpg)
 
 
-
-**[32] [Effect of Growth Temperature on the Microstructure and Properties of Epitaxial MoS2 Monolayers Grown by Metalorganic Chemical Vapor Deposition](https://doi.org/10.1116/6.0003296)**, Chen Chen, Nicholas Trainor, Shalini Kumari, Henrik Myja, Tilmar Kümmell, **Zhiyu Zhang**, Yuxi Zhang, Anuj Bisht, Muhtasim Ul Karim Sadaf, Najam U Sakib, **Ying Han**, Thomas McKnight, Andrew Graves, Meghan Leger, Nicholas Redwing, Myeongok Kim, Dorota Kowalczyk, Gerd Bacher, Nasim Alem,  **Yang Yang**, Saptarshi Das, and Joan M. Redwing, _Journal of Vacuum Science & Technology A_, 42, 022201 (2024).
-
-
-**[31] [Three-dimensional integration of two-dimensional field-effect transistors](https://www.nature.com/articles/s41586-023-06860-5)**, Darsith Jayachandran, Rahul Pendurthi, Muhtasim Ul Karim Sadaf, Najam U Sakib, Andrew Pannone, Chen Chen, **Ying HAN**, Nicholas Trainor, Shalini Kumari, Thomas Mc Knight, Joan Redwing, **Yang Yang**, Saptarshi Das, _Nature_, (2024), 625, 276–281.
+**[32] [Three-dimensional integration of two-dimensional field-effect transistors](https://www.nature.com/articles/s41586-023-06860-5)**, Darsith Jayachandran, Rahul Pendurthi, Muhtasim Ul Karim Sadaf, Najam U Sakib, Andrew Pannone, Chen Chen, **Ying HAN**, Nicholas Trainor, Shalini Kumari, Thomas Mc Knight, Joan Redwing, **Yang Yang**, Saptarshi Das, _Nature_, (2024), 625, 276–281.
 ![](/assets/img/Nat_3d_integration.jpg)
+
+**[31] [Effect of Growth Temperature on the Microstructure and Properties of Epitaxial MoS2 Monolayers Grown by Metalorganic Chemical Vapor Deposition](https://doi.org/10.1116/6.0003296)**, Chen Chen, Nicholas Trainor, Shalini Kumari, Henrik Myja, Tilmar Kümmell, **Zhiyu Zhang**, Yuxi Zhang, Anuj Bisht, Muhtasim Ul Karim Sadaf, Najam U Sakib, **Ying Han**, Thomas McKnight, Andrew Graves, Meghan Leger, Nicholas Redwing, Myeongok Kim, Dorota Kowalczyk, Gerd Bacher, Nasim Alem,  **Yang Yang**, Saptarshi Das, and Joan M. Redwing, _Journal of Vacuum Science & Technology A_, 42, 022201 (2024).
+
 
 **[30] [Direct Laser Synthesis and Patterning of High Entropy Oxides from Liquid Precursors](https://iopscience.iop.org/article/10.1088/2053-1591/ad068a)**, Alexander C. Castonguay, Nabila Nabi Nova, Lauren M. Dueñas, Shannon McGee, **Muhammad Jahangir Khan Lodhi**, **Yang Yang**, Lauren Zarzar, _Materials Research Express_, 10, 115003, (2023).
 
