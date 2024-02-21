@@ -3,6 +3,16 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Fri, 02/16/2024
+High and medium-entropy alloys have shown exceptional mechanical performance, yet the role of short-range order (SRO) on these properties has been unclear. In our recent publication, we demonstrate that the reduction of SRO by deformation leads to rejuvenation, explaining their remarkable damage tolerance. Check our paper on _[**Nature Communications**](https://www.nature.com/articles/s41467-024-45696-z)_, as well as the [**Penn State News**](https://www.psu.edu/news/engineering/story/new-structural-insights-could-lead-mechanical-enhancement-alloys/).
+![](https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/4_3_2000w/public/2024/02/240016-psn-yang.jpg?h=f5485d48&itok=UTgGKpYj)
+
+
+##### Fri, 01/10/2024
+How advanced electron microscopy can help scientists demonstrate 3D integration of semiconductors at a massive scale? Check out our recent publication on _[**Nature**](https://www.nature.com/articles/s41586-023-06860-5)_, as well as the [**Penn State News**](https://www.psu.edu/news/materials-research-institute/story/integrating-dimensions-get-more-out-moores-law-and-advance/).
+![](https://sc-api.psu.edu/s3/files/styles/4_3_2000w/public/2024/01/pennstate_news_saptarshi_fets.png?h=fa12a5ab&itok=hEHEOOdS)
+
+
 
 ##### Mon, 08/21/2023
 Welcome Lei Ding, a new member of our group!
