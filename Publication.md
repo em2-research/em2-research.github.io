@@ -10,6 +10,10 @@ cover-img: /assets/img/1.jpg
 
 
 ---
+
+#### Pre-print:
+**[1] [Ubiquitous short-range order in multi-principal element alloys](https://arxiv.org/abs/2402.15305)**, **Ying Han**, Hangman Chen, **Yongwen Sun**, Jian Liu, Shaolou Wei, Bijun Xie, **Zhiyu Zhang**, **Yingxin Zhu**, Meng Li, Judith Yang, Wen Chen, Penghui Cao, **Yang Yang**, _Manuscript submitted_, (2024). Pre-print is available on [_arXiv_](https://arxiv.org/abs/2402.15305).
+
 #### In print or production:
 **[33] [Rejuvenation as the origin of planar defects in the CrCoNi medium entropy alloy](https://doi.org/10.1038/s41467-024-45696-z)**, **Yang Yang**, Sheng Yin, Qin Yu, **Yingxin Zhu**, Jun Ding, Ruopeng Zhang, Colin Ophus, Mark Asta, Robert Ritchie, Andrew Minor, _Nature Communications_, 15, 1402 (2024). | [**Penn State News Story**](https://www.psu.edu/news/engineering/story/new-structural-insights-could-lead-mechanical-enhancement-alloys/).
 ![](/assets/img/NC_24_rejuvenation.jpg) 
