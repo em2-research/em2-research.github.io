@@ -12,6 +12,7 @@ cover-img: /assets/img/7.jpg
 > Our work is highly interdisciplinary, involving knowledge in Physics, Chemistry, Materials Science, and Mechanical Engineering. We welcome self-motivated students with a major in one of the aforementioned areas. Besides experiments, our routine work also requires a lot of coding in Python (using libraries such as NumPy, Matplotlib, and some machine learning, etc.) to analyze the data. Students need to be interested in learning coding. 
 
 
+---
 
 
 ## Prospective Ph.D. students
