@@ -5,6 +5,7 @@ cover-img: /assets/img/1.jpg
 ---
 #### Sponsors:
 ![Sponsors](/assets/img/Sponsors.jpg)
+![Sponsors](/assets/img/honda-main-logo.png)
 
 
 
