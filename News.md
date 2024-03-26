@@ -3,6 +3,15 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+
+##### Tue, 03/26/2024
+Warmest congratulations to Ying Han as she embarks on a new chapter beyond her postdoctoral position in our group, stepping into an exciting role at UC Irvine! Ying has been an invaluable member of our team, notable not just as our first postdoc, but as a truly brilliant and dedicated scientist. 
+![](/assets/img/Ying_farewell.jpg)
+
+##### Sat, 03/23/2024
+Congratulations to Foster Feni, who got 3rd place in the oral presentation competition in ESM Today 2024!
+
+
 ##### Mon, 03/4/2024
 Congratulations to Yingxin Zhu and Lei Ding, who passed the PhD qualifying exam at ESM!
 
