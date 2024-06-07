@@ -4,7 +4,7 @@ title: News
 cover-img: /assets/img/9.jpg
 ---
 ##### Tue, 06/04/2024
-Jahangir Lodhi successfully defended his PhD thesis today and became the first PhD graduate in our group. Congratulations, Jahangir!🎉🎉 Jahangir has truly distinguished himself. Last summer, he was awarded the best Intern at Idaho National Laboratory (INL). He also won first place in the ESM Today presentation last year and has been honored with several fellowships at Penn State. Jahangir will soon join INL as a postdoctoral researcher. We wish Jahangir all the best in his future research journey.
+Jahangir Lodhi successfully defended his PhD thesis today and became the first PhD graduate in our group. Congratulations, Jahangir!🎉🎉 
 ![](/assets/img/Jahangir_defense.jpg)
 
 
