@@ -3,6 +3,14 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Tue, 06/04/2024
+Jahangir Lodhi successfully defended his PhD thesis today and became the first PhD graduate in our group. Congratulations, Jahangir!🎉🎉 Jahangir has truly distinguished himself. Last summer, he was awarded the best Intern at Idaho National Laboratory (INL). He also won first place in the ESM Today presentation last year and has been honored with several fellowships at Penn State. Jahangir will soon join INL as a postdoctoral researcher. We wish Jahangir all the best in his future research journey.
+![](/assets/img/Jahangir_defense.jpg)
+
+
+##### Tue, 06/04/2024
+Yongwen and Jahangir were featured in a [YouTube video](https://www.youtube.com/watch?si=QKDS-GEHg70_QHgl&v=KCBA22HOFwI&feature=youtu.be) where MRI interviewed them during the Materials Day 2023 event.
+
 
 ##### Tue, 03/26/2024
 Warmest congratulations to Ying Han as she embarks on a new chapter beyond her postdoctoral position in our group, stepping into an exciting role at UC Irvine! Ying has been an invaluable member of our team, notable not just as our first postdoc, but as a truly brilliant and dedicated scientist. 
