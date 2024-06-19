@@ -17,6 +17,9 @@ cover-img: /assets/img/1.jpg
 ---
 
 #### In print or production:
+**[35] [Direct extraction of lithium from ores by electrochemical leaching](https://doi.org/10.1038/s41467-024-48867-0)**, Hanrui Zhang, **Ying Han**, Jianwei Lai, Joseph Wolf, Zhen Lei, **Yang Yang** and Feifei Shi, _Nature Communications_, 15, 5066 (2024). 
+![](/assets/img/Zhang24HanNC.jpg) 
+
 **[34] [Rejuvenation as the origin of planar defects in the CrCoNi medium entropy alloy](https://doi.org/10.1038/s41467-024-45696-z)**, **Yang Yang**, Sheng Yin, Qin Yu, **Yingxin Zhu**, Jun Ding, Ruopeng Zhang, Colin Ophus, Mark Asta, Robert Ritchie, Andrew Minor, _Nature Communications_, 15, 1402 (2024). | [**Penn State News Story**](https://www.psu.edu/news/engineering/story/new-structural-insights-could-lead-mechanical-enhancement-alloys/).
 ![](/assets/img/NC_24_rejuvenation.jpg) 
 
