@@ -9,14 +9,13 @@ cover-img: /assets/img/1.jpg
 
 
 
----
-
-#### Preprint:
-**[1] [Ubiquitous short-range order in multi-principal element alloys](https://arxiv.org/abs/2402.15305)**, **Ying Han**, Hangman Chen, **Yongwen Sun**, Jian Liu, Shaolou Wei, Bijun Xie, **Zhiyu Zhang**, **Yingxin Zhu**, Meng Li, Judith Yang, Wen Chen, Penghui Cao, **Yang Yang**, _Manuscript submitted_, (2023). Pre-print is available on [_arXiv_](https://arxiv.org/abs/2402.15305).
 
 ---
 
 #### In print or production:
+**[37] [Ubiquitous short-range order in multi-principal element alloys](https://www.nature.com/articles/s41467-024-49606-1)**, **Ying Han**, Hangman Chen, **Yongwen Sun**, Jian Liu, Shaolou Wei, Bijun Xie, **Zhiyu Zhang**, **Yingxin Zhu**, Meng Li, Judith Yang, Wen Chen, Penghui Cao, **Yang Yang**, _Nature Communications_, 15, 6486 (2024).
+![](/assets/img/Han24NC.jpg) 
+
 **[36] [Monolithic three-dimensional integration of complementary two-dimensional field effect transistors](https://doi.org/10.1038/s41565-024-01705-2)**, Rahul Pendurthi, Najam U Sakib, Muhtasim Ul Karim Sadaf, **Zhiyu Zhang**, **Yongwen Sun**, Chen Chen, Darsith Jayachandran, Aaryan Oberoi,  Subir Ghosh, Shalini Kumari, Sergei P. Stepanoff, Divya Somvanshi, **Yang Yang**, Joan Redwing, Douglas Wolfe, and Saptarshi Das, _Nature Nanotechnology_, (2024). 
 
 **[35] [Direct extraction of lithium from ores by electrochemical leaching](https://doi.org/10.1038/s41467-024-48867-0)**, Hanrui Zhang, **Ying Han**, Jianwei Lai, Joseph Wolf, Zhen Lei, **Yang Yang** and Feifei Shi, _Nature Communications_, 15, 5066 (2024). 
