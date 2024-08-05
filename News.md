@@ -3,6 +3,26 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Mon, 08/05/2024
+Chemical short-range order (CSRO) has been explored as a new design parameter for tuning the performance of multi-principal element alloys (MPEAs), yet its formation kinetics remains unclear. Here, our paper demonstrates that significant CSRO forms during solidification, making it ubiquitous in many MPEAs. Check our paper on _[**Nature Communications**](https://www.nature.com/articles/s41467-024-49606-1)_, as well as the [**Penn State News**](https://www.psu.edu/news/materials-research-institute/story/atoms-advanced-alloys-find-preferred-neighbors-when-solidifying/).
+![](/assets/img/SRO_Schematic_2024.png)
+
+##### Fri, 08/02/2024
+Dr. Dan Zhou, the in-situ TEM group leader at the Leibniz Institute for Crystal Growth in Germany, gave a wonderful and inspiring seminar titled "In Situ TEM: A Unified Perspective from Industry and Academia".
+![](/assets/img/DanZhou24.jpg)
+
+
+##### Wed, 07/31/2024
+It’s been a wonderful week at the Microscopy and Microanalysis (M&M) 2024 conference! Our group delivered three presentations on leveraging 4D-STEM to understand materials under extreme environments:
+
+- Yang Yang, “Imaging Point Defect and Planar Defect in Metals with 4D-STEM”
+
+- Yongwen Sun, “In-situ 4D-STEM Study of Chemo-Mechanical Interactions during Metal Oxidation”
+
+- Zhiyu Zhang, “4D-STEM Characterization of Stainless Steel 316L after Corrosion in Lead-bismuth Eutectic”
+![](/assets/img/MM2024.jpg)
+
+
 ##### Tue, 06/04/2024
 Jahangir Lodhi successfully defended his PhD thesis today and became the first PhD graduate in our group. Congratulations, Jahangir!🎉🎉 
 ![](/assets/img/Jahangir_defense.jpg)
