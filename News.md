@@ -20,6 +20,7 @@ It’s been a wonderful week at the Microscopy and Microanalysis (M&M) 2024 conf
 - Yongwen Sun, “In-situ 4D-STEM Study of Chemo-Mechanical Interactions during Metal Oxidation”
 
 - Zhiyu Zhang, “4D-STEM Characterization of Stainless Steel 316L after Corrosion in Lead-bismuth Eutectic”
+
 ![](/assets/img/MM2024.jpg)
 
 
