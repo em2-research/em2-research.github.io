@@ -13,6 +13,11 @@ cover-img: /assets/img/1.jpg
 ---
 
 #### In print or production:
+
+**[38] [Integrated polyanion-rocksalt cathodes with excess lithium and stabilized cycling](https://doi.org/10.1038/s41560-024-01615-6)**, Yimeng Huang, Yanhao Dong*, **Yang Yang**, Tongchao Liu, Moonsu Yoon, Sipei Li, Baoming Wang, **Yongwen Sun**, **Ying Han**, Jim Ciston, Colin Ophus, Chengyu Song, Aubrey Penn, Jinhyuk Lee, Yaqi Liao, Haijin Ji, Ting Shi, Mengyi Liao, Zexiao Cheng, Jingwei Xiang, Yu Peng, Wei-Ren Liu, Rasu Muruganantham, Chun-Chuen Yang, Lu Ma, Xianghui Xiao, Yuntong Zhu, Qingjie Li, Ethan Zheng, Avetik Harutyunyan, and Ju Li, _Nature Energy_, (2024).
+
+
+
 **[37] [Ubiquitous short-range order in multi-principal element alloys](https://www.nature.com/articles/s41467-024-49606-1)**, **Ying Han**, Hangman Chen, **Yongwen Sun**, Jian Liu, Shaolou Wei, Bijun Xie, **Zhiyu Zhang**, **Yingxin Zhu**, Meng Li, Judith Yang, Wen Chen, Penghui Cao, **Yang Yang**, _Nature Communications_, 15, 6486 (2024). | [**Penn State News Story**](https://www.psu.edu/news/materials-research-institute/story/atoms-advanced-alloys-find-preferred-neighbors-when-solidifying/).
 ![](/assets/img/Han24NC.jpg) 
 
