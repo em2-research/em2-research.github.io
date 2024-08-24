@@ -3,6 +3,11 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Fri, 08/23/2024
+A new family of integrated rock salt-polyanion cathodes opens door to low-cost, high-energy storage.  Check the [**MIT News**](https://news.mit.edu/2024/study-disordered-rock-salts-battery-breakthrough-0823).
+
+
+
 ##### Mon, 08/05/2024
 Chemical short-range order (CSRO) has been explored as a new design parameter for tuning the performance of multi-principal element alloys (MPEAs), yet its formation kinetics remains unclear. Here, our paper demonstrates that significant CSRO forms during solidification, making it ubiquitous in many MPEAs. Check our paper on _[**Nature Communications**](https://www.nature.com/articles/s41467-024-49606-1)_, as well as the [**Penn State News**](https://www.psu.edu/news/materials-research-institute/story/atoms-advanced-alloys-find-preferred-neighbors-when-solidifying/).
 ![](/assets/img/SRO_Schematic_2024.png)
