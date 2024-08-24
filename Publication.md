@@ -14,7 +14,9 @@ cover-img: /assets/img/1.jpg
 
 #### In print or production:
 
-**[38] [Integrated polyanion-rocksalt cathodes with excess lithium and stabilized cycling](https://www.nature.com/articles/s41560-024-01615-6)**, Yimeng Huang, Yanhao Dong, **Yang Yang**, Tongchao Liu, Moonsu Yoon, Sipei Li, Baoming Wang, **Yongwen Sun**, **Ying Han**, Jim Ciston, Colin Ophus, Chengyu Song, Aubrey Penn, Jinhyuk Lee, Yaqi Liao, Haijin Ji, Ting Shi, Mengyi Liao, Zexiao Cheng, Jingwei Xiang, Yu Peng, Wei-Ren Liu, Rasu Muruganantham, Chun-Chuen Yang, Lu Ma, Xianghui Xiao, Yuntong Zhu, Qingjie Li, Ethan Zheng, Avetik Harutyunyan, and Ju Li, _Nature Energy_, (2024).
+**[38] [Integrated polyanion-rocksalt cathodes with excess lithium and stabilized cycling](https://www.nature.com/articles/s41560-024-01615-6)**, Yimeng Huang, Yanhao Dong, **Yang Yang**, Tongchao Liu, Moonsu Yoon, Sipei Li, Baoming Wang, **Yongwen Sun**, **Ying Han**, Jim Ciston, Colin Ophus, Chengyu Song, Aubrey Penn, Jinhyuk Lee, Yaqi Liao, Haijin Ji, Ting Shi, Mengyi Liao, Zexiao Cheng, Jingwei Xiang, Yu Peng, Wei-Ren Liu, Rasu Muruganantham, Chun-Chuen Yang, Lu Ma, Xianghui Xiao, Yuntong Zhu, Qingjie Li, Ethan Zheng, Avetik Harutyunyan, and Ju Li, _Nature Energy_, (2024). | [**MIT News Story**](https://news.mit.edu/2024/study-disordered-rock-salts-battery-breakthrough-0823).
+![](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202408/MIT-rocksalt-cathodes_0.jpg?itok=5Ni-Yi41) 
+
 
 
 
