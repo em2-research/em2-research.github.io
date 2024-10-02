@@ -3,6 +3,11 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Mon, 09/23/2024
+["Short-range order always appears in new type of alloy"](https://physicsworld.com/a/short-range-order-always-appears-in-new-type-of-alloy/). Check a research update published on
+[**Physicsworld**](https://physicsworld.com/a/short-range-order-always-appears-in-new-type-of-alloy/) highlighting our research work on multi-principal element alloys (MPEAs).
+
+
 ##### Fri, 08/23/2024
 A new family of integrated rock salt-polyanion cathodes opens door to low-cost, high-energy storage.  Check the [**MIT News**](https://news.mit.edu/2024/study-disordered-rock-salts-battery-breakthrough-0823).
 
