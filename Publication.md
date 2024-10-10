@@ -13,7 +13,7 @@ cover-img: /assets/img/1.jpg
 ---
 
 #### Peer-reviewed publications (in print or production):
-**[39] [Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias](https://www.nature.com/articles/s41928-024-01251-8)**, Subir Ghosh, Yikai Zheng, **Zhiyu Zhang**, **Yongwen Sun**, Thomas F. Schranghamer, Najam U Sakib, Aaryan Oberoi, Chen Chen, Joan M. Redwing, **Yang Yang**, and Saptarshi Das, _Nature Electronics, (2024).
+**[39] [Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias](https://www.nature.com/articles/s41928-024-01251-8)**, Subir Ghosh, Yikai Zheng, **Zhiyu Zhang**, **Yongwen Sun**, Thomas F. Schranghamer, Najam U Sakib, Aaryan Oberoi, Chen Chen, Joan M. Redwing, **Yang Yang**, and Saptarshi Das, _Nature Electronics_, (2024).
 ![](/assets/img/Nature_electronics_2024_1.jpg) 
 
 **[38] [Integrated polyanion-rocksalt cathodes with excess lithium and stabilized cycling](https://www.nature.com/articles/s41560-024-01615-6)**, Yimeng Huang, Yanhao Dong, **Yang Yang**, Tongchao Liu, Moonsu Yoon, Sipei Li, Baoming Wang, **Yongwen Sun**, **Ying Han**, Jim Ciston, Colin Ophus, Chengyu Song, Aubrey Penn, Jinhyuk Lee, Yaqi Liao, Haijin Ji, Ting Shi, Mengyi Liao, Zexiao Cheng, Jingwei Xiang, Yu Peng, Wei-Ren Liu, Rasu Muruganantham, Chun-Chuen Yang, Lu Ma, Xianghui Xiao, Yuntong Zhu, Qingjie Li, Ethan Zheng, Avetik Harutyunyan, and Ju Li, _Nature Energy_, (2024). | [**MIT News Story**](https://news.mit.edu/2024/study-disordered-rock-salts-battery-breakthrough-0823).
