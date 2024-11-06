@@ -13,6 +13,9 @@ cover-img: /assets/img/1.jpg
 ---
 
 #### Peer-reviewed publications (in print or production):
+**[40] [High-performance p-type field-effect transistors using substitutional doping and thickness control of two-dimensional materials](https://www.nature.com/articles/s41928-024-01265-2)**, Mayukh Das, Dipanjan Sen, Najam U Sakib, Harikrishnan Ravichandran, **Yongwen Sun**, **Zhiyu Zhang**, Subir Ghosh, Pranavram Venkatram, Shiva Subbulakshmi Radhakrishnan, Alexander Sredenschek, Zhuohang Yu, Kalyan Jyoti Sarkar, Muhtasim Ul Karim Sadaf, Kalaiarasan Meganathan, Andrew Pannone, **Ying Han**, David Emanuel Sanchez, Divya Somvanshi, Zdenek Sofer, Mauricio Terrones, **Yang Yang**, Saptarshi Das, _Nature Electronics_, (2024).
+![](/assets/img/DasNatureElectronics24-2.jpg) 
+
 **[39] [Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias](https://www.nature.com/articles/s41928-024-01251-8)**, Subir Ghosh, Yikai Zheng, **Zhiyu Zhang**, **Yongwen Sun**, Thomas F. Schranghamer, Najam U Sakib, Aaryan Oberoi, Chen Chen, Joan M. Redwing, **Yang Yang**, and Saptarshi Das, _Nature Electronics_, (2024).
 ![](/assets/img/Nature_electronics_2024_1.jpg) 
 

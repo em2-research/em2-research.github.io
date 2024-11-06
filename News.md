@@ -3,13 +3,18 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
-##### Mon, 09/23/2024
-["Short-range order always appears in new type of alloy"](https://physicsworld.com/a/short-range-order-always-appears-in-new-type-of-alloy/). Check a research update published on
-[**Physicsworld**](https://physicsworld.com/a/short-range-order-always-appears-in-new-type-of-alloy/) highlighting our research work on multi-principal element alloys (MPEAs).
+##### Tue, 10/29/2024
+A heartfelt congratulations to Ying Han (Postdoc), for receiving [The Rustum and Della Roy Innovation in Materials Research Award](https://www.mri.psu.edu/mri/opportunities-awards/rustom-and-della-roy-innovation-materials-research-award#:~:text=The%20Rustum%20and%20Della%20Roy,and%20unexpected%20results%20in%20materials.), and to Yongwen Sun (PhD student), for winning the Best Poster Award at Penn State [Materials Day](https://www.mri.psu.edu/mri/events/2024-materials-day) meeting. 
+![](/assets/img/MaterialsDay24.jpg)
+
+##### Tue, 10/29/2024
+A heartfelt congratulations to Ying Han (Postdoc), for receiving [The Rustum and Della Roy Innovation in Materials Research Award](https://www.mri.psu.edu/mri/opportunities-awards/rustom-and-della-roy-innovation-materials-research-award#:~:text=The%20Rustum%20and%20Della%20Roy,and%20unexpected%20results%20in%20materials.), and to Yongwen Sun (PhD student), for winning the Best Poster Award at Penn State [Materials Day](https://www.mri.psu.edu/mri/events/2024-materials-day) meeting. 
+![](/assets/img/MaterialsDay24.jpg)
+
 
 
 ##### Fri, 08/23/2024
-A new family of integrated rock salt-polyanion cathodes opens door to low-cost, high-energy storage.  Check the [**MIT News**](https://news.mit.edu/2024/study-disordered-rock-salts-battery-breakthrough-0823).
+A new family of integrated rock salt-polyanion cathodes opens the door to low-cost, high-energy storage.  Check the [**MIT News**](https://news.mit.edu/2024/study-disordered-rock-salts-battery-breakthrough-0823).
 
 
 
