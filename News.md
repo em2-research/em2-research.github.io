@@ -7,10 +7,6 @@ cover-img: /assets/img/9.jpg
 A heartfelt congratulations to Ying Han (Postdoc), for receiving [The Rustum and Della Roy Innovation in Materials Research Award](https://www.mri.psu.edu/mri/opportunities-awards/rustom-and-della-roy-innovation-materials-research-award#:~:text=The%20Rustum%20and%20Della%20Roy,and%20unexpected%20results%20in%20materials.), and to Yongwen Sun (PhD student), for winning the Best Poster Award at Penn State [Materials Day](https://www.mri.psu.edu/mri/events/2024-materials-day) meeting. 
 ![](/assets/img/MaterialsDay24.jpg)
 
-##### Tue, 10/29/2024
-A heartfelt congratulations to Ying Han (Postdoc), for receiving [The Rustum and Della Roy Innovation in Materials Research Award](https://www.mri.psu.edu/mri/opportunities-awards/rustom-and-della-roy-innovation-materials-research-award#:~:text=The%20Rustum%20and%20Della%20Roy,and%20unexpected%20results%20in%20materials.), and to Yongwen Sun (PhD student), for winning the Best Poster Award at Penn State [Materials Day](https://www.mri.psu.edu/mri/events/2024-materials-day) meeting. 
-![](/assets/img/MaterialsDay24.jpg)
-
 
 
 ##### Fri, 08/23/2024
