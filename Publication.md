@@ -13,6 +13,9 @@ cover-img: /assets/img/1.jpg
 ---
 
 #### Peer-reviewed publications (in print or production):
+**[41] [Width-dependent continuous growth of atomically thin quantum nanoribbons from nanoalloy seeds in chalcogen vapor](https://doi.org/10.1038/s41467-024-54413-9)**, Xufan Li, Samuel Wyss, Emanuil Yanev, Qing-Jie Li, Shuang Wu, **Yongwen Sun**, Raymond R. Unocic, Joseph Stage, Matthew Strasbourg, Lucas M. Sassi, **Yingxin Zhu**, Ju Li, **Yang Yang**, James Hone, Nicholas Borys, P. James Schuck, Avetik R. Harutyunyan, _Nature Communications_, (2024).
+![](/assets/img/Li24NC.jpg) 
+
 **[40] [High-performance p-type field-effect transistors using substitutional doping and thickness control of two-dimensional materials](https://www.nature.com/articles/s41928-024-01265-2)**, Mayukh Das, Dipanjan Sen, Najam U Sakib, Harikrishnan Ravichandran, **Yongwen Sun**, **Zhiyu Zhang**, Subir Ghosh, Pranavram Venkatram, Shiva Subbulakshmi Radhakrishnan, Alexander Sredenschek, Zhuohang Yu, Kalyan Jyoti Sarkar, Muhtasim Ul Karim Sadaf, Kalaiarasan Meganathan, Andrew Pannone, **Ying Han**, David Emanuel Sanchez, Divya Somvanshi, Zdenek Sofer, Mauricio Terrones, **Yang Yang**, Saptarshi Das, _Nature Electronics_, (2024).
 ![](/assets/img/DasNatureElectronics24-2.jpg) 
 
