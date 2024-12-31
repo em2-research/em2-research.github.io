@@ -3,6 +3,9 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Mon, 12/16/2024
+Congratulations to Foster and Zhiyu for passing the comprehensive exams.
+
 ##### Wed, 11/20/2024
 Our image got first place in the 15th CFN Image Contest at the Brookhaven National Laboratory!
 ![](/assets/img/ImageContest24.jpg)
@@ -20,6 +23,8 @@ Materials Research Institute (MRI) interviewed Yongwen and Jahangir during Mater
 ##### Fri, 08/23/2024
 A new family of integrated rock salt-polyanion cathodes opens the door to low-cost, high-energy storage.  Check the [**MIT News**](https://news.mit.edu/2024/study-disordered-rock-salts-battery-breakthrough-0823).
 
+##### Thur, 08/22/2024
+Congratulations to Yingxin for passing the comprehensive exam.
 
 
 ##### Mon, 08/05/2024

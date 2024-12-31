@@ -7,12 +7,14 @@ cover-img: /assets/img/1.jpg
 ![Sponsors](/assets/img/Sponsors.jpg)
 
 
-
-
-
 ---
 
 #### Peer-reviewed publications (in print or production):
+---
+#### 2024
+**[42] [Multifunctional 2D FETs exploiting incipient ferroelectricity in freestanding SrTiO₃ nanomembranes at sub-ambient temperatures](https://doi.org/10.1038/s41467-024-54231-z)**, Dipanjan Sen, Harikrishnan Ravichandran, Mayukh Das, Pranavam Venkataram, Sooho Choo, Shivashesh Varshney, **Zhiyu Zhang**, **Yongwen Sun**, Jay Shah, Shiva Subbulaksmi Radhakrishnan, Akash Saha, Sankalpa Hazra, Chen Chen, Joan M. Redwing, K. Andre Mkhoyan, Venkatraman Gopalan, **Yang Yang**, Bharat Jalan, Saptarshi Das, _Nature Communications_, (2024).
+
+
 **[41] [Width-dependent continuous growth of atomically thin quantum nanoribbons from nanoalloy seeds in chalcogen vapor](https://doi.org/10.1038/s41467-024-54413-9)**, Xufan Li, Samuel Wyss, Emanuil Yanev, Qing-Jie Li, Shuang Wu, **Yongwen Sun**, Raymond R. Unocic, Joseph Stage, Matthew Strasbourg, Lucas M. Sassi, **Yingxin Zhu**, Ju Li, **Yang Yang**, James Hone, Nicholas Borys, P. James Schuck, Avetik R. Harutyunyan, _Nature Communications_, (2024).
 ![](/assets/img/Li24NC.jpg) 
 
@@ -24,8 +26,6 @@ cover-img: /assets/img/1.jpg
 
 **[38] [Integrated polyanion-rocksalt cathodes with excess lithium and stabilized cycling](https://www.nature.com/articles/s41560-024-01615-6)**, Yimeng Huang, Yanhao Dong, **Yang Yang**, Tongchao Liu, Moonsu Yoon, Sipei Li, Baoming Wang, **Yongwen Sun**, **Ying Han**, Jim Ciston, Colin Ophus, Chengyu Song, Aubrey Penn, Jinhyuk Lee, Yaqi Liao, Haijin Ji, Ting Shi, Mengyi Liao, Zexiao Cheng, Jingwei Xiang, Yu Peng, Wei-Ren Liu, Rasu Muruganantham, Chun-Chuen Yang, Lu Ma, Xianghui Xiao, Yuntong Zhu, Qingjie Li, Ethan Zheng, Avetik Harutyunyan, and Ju Li, _Nature Energy_, (2024). | [**MIT News Story**](https://news.mit.edu/2024/study-disordered-rock-salts-battery-breakthrough-0823).
 ![](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202408/MIT-rocksalt-cathodes_0.jpg?itok=5Ni-Yi41) 
-
-
 
 
 **[37] [Ubiquitous short-range order in multi-principal element alloys](https://www.nature.com/articles/s41467-024-49606-1)**, **Ying Han**, Hangman Chen, **Yongwen Sun**, Jian Liu, Shaolou Wei, Bijun Xie, **Zhiyu Zhang**, **Yingxin Zhu**, Meng Li, Judith Yang, Wen Chen, Penghui Cao, **Yang Yang**, _Nature Communications_, 15, 6486 (2024). | [**Penn State News Story**](https://www.psu.edu/news/materials-research-institute/story/atoms-advanced-alloys-find-preferred-neighbors-when-solidifying/).
@@ -48,6 +48,8 @@ cover-img: /assets/img/1.jpg
 
 **[31] [Effect of Growth Temperature on the Microstructure and Properties of Epitaxial MoS2 Monolayers Grown by Metalorganic Chemical Vapor Deposition](https://doi.org/10.1116/6.0003296)**, Chen Chen, Nicholas Trainor, Shalini Kumari, Henrik Myja, Tilmar Kümmell, **Zhiyu Zhang**, Yuxi Zhang, Anuj Bisht, Muhtasim Ul Karim Sadaf, Najam U Sakib, **Ying Han**, Thomas McKnight, Andrew Graves, Meghan Leger, Nicholas Redwing, Myeongok Kim, Dorota Kowalczyk, Gerd Bacher, Nasim Alem,  **Yang Yang**, Saptarshi Das, and Joan M. Redwing, _Journal of Vacuum Science & Technology A_, 42, 022201 (2024).
 
+---
+#### 2023
 
 **[30] [Direct Laser Synthesis and Patterning of High Entropy Oxides from Liquid Precursors](https://iopscience.iop.org/article/10.1088/2053-1591/ad068a)**, Alexander C. Castonguay, Nabila Nabi Nova, Lauren M. Dueñas, Shannon McGee, **Muhammad Jahangir Khan Lodhi**, **Yang Yang**, Lauren Zarzar, _Materials Research Express_, 10, 115003, (2023).
 
@@ -67,10 +69,16 @@ cover-img: /assets/img/1.jpg
 **[26] [Ion-beam radiation-induced Eshelby transformations: The mean and variance in hydrostatic and shear residual stresses](https://doi.org/10.1016/j.eml.2023.101970)**, Yongchao Chen, Qing-Jie Li, Alexander D. O’Brien, **Yang Yang**, Qi He, David A. Bloore, Joost J. Vlassak, Ju Li, _Extreme Mechanics Letters_, (2023), 59, 101970.
 ![](/assets/img/Chen23EML.jpeg)
 
+---
+#### 2022
+
 **[25] [Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**, Shitong Wang†,   Lijiang Zhao†,   Yanhao Dong, He Zhu, **Yang Yang**, Haowei Xu,  Baoming Wang,   Yakun Yuan,  Yang Ren,   Xiaojing Huang,   Wei Quan,   Yutong Li,   Yimeng Huang,   Charles M. Settens,   Qi He,   **Yongwen Sun**,   Hua Wang,   Zunqiu Xiao,   Wenjun Liu,   Xianghui Xiao,   Riqiang Fu,   Qiang Li,   Yong S. Chu,   Zhongtai Zhang,   Qi Liu,  Andrew M. Minor,   Junying Zhang,   Zilong Tang and  Ju Li†, _Energy & Environmental Science_, (2022).
 ![](/assets/img/EES_2022.jpg)
 
 **[24] [Compressive vs. tensile yield and fracture toughness behavior of a body-centered cubic refractory high-entropy superalloy Al0.5Nb1.25Ta1.25TiZr at temperatures from ambient to 1200°C](https://www.sciencedirect.com/science/article/pii/S1359645422009958)**, Punit Kumar†, Sang Jun Kim†, Qin Yu†, Jon Ell, Mingwei Zhang, **Yang Yang**, Ji Young Kim, Hyung-Ki Park, Andrew M. Minor, Eun Soo Park, Robert O. Ritchie, _Acta Materialia_, 118620 (2022).
+
+---
+#### 2021
 
 **[23] [Evaluating the effects of pillar shape and gallium ion beam damage on the mechanical properties of single crystal aluminum nanopillars](https://link.springer.com/article/10.1557%2Fs43578-021-00125-5)**, **Yang Yang**†, Sarah Y. Wang†, Bin Xiang, Sheng Yin, Thomas C. Pekin, Xiaoqing Li, Ruopeng Zhang, Kayla Yano, David Hwang, Mark Asta, Costas Grigoropoulos, Frances I. Allen, and Andrew M. Minor, _Journal of Materials Research_, (2021).
 
@@ -78,6 +86,9 @@ cover-img: /assets/img/1.jpg
 
 **\[21\] [Achieving large uniform tensile elasticity in microfabricated diamond](https://science.sciencemag.org/content/371/6524/76/tab-pdf)**, Chaoqun Dang†, Jyh-Pin Chou†, Bing Dai†, Chang-Ti Chou†, **Yang Yang**, Rong Fan, Weitong Lin, Fanling Meng, Alice Hu, Jiaqi Zhu, Jiecai Han, Andrew M. Minor, Ju Li, Yang Lu, _Science_, 371, 76–78 (2021)  
 ![](http://yyn.scripts.mit.edu/home/wp-content/uploads/2021/01/Diamond1.jpg)
+
+---
+#### Before 2021
 
 **\[20\] [Sample spinning to mitigate polarization artifact and interstitial-vacancy imbalance in ion-beam irradiation](https://www.nature.com/articles/s41524-020-00438-9#Sec12)**, Cui-Lan Ren, **Yang Yang**, Yong-Gang Li, Ping Huai, Zhi-Yuan Zhu & Ju Li, _npj Computational Materials,_ (2020) 189  
 ![](http://yyn.scripts.mit.edu/home/wp-content/uploads/2020/12/WX20201213-115342@2x-1024x956.png)
