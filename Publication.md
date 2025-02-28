@@ -77,7 +77,7 @@ cover-img: /assets/img/1.jpg
 ---
 #### 2022
 
-**[25] [Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**, Shitong Wang†,   Lijiang Zhao†,   Yanhao Dong, He Zhu, **Yang Yang**, Haowei Xu,  Baoming Wang,   Yakun Yuan,  Yang Ren,   Xiaojing Huang,   Wei Quan,   Yutong Li,   Yimeng Huang,   Charles M. Settens,   Qi He,   **Yongwen Sun**,   Hua Wang,   Zunqiu Xiao,   Wenjun Liu,   Xianghui Xiao,   Riqiang Fu,   Qiang Li,   Yong S. Chu,   Zhongtai Zhang,   Qi Liu,  Andrew M. Minor,   Junying Zhang,   Zilong Tang and  Ju Li†, _Energy & Environmental Science_, (2022).
+**[25] [Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**, Shitong Wang†,   Lijiang Zhao†,   Yanhao Dong, He Zhu, **Yang Yang**, Haowei Xu,  Baoming Wang,   Yakun Yuan,  Yang Ren,   Xiaojing Huang,   Wei Quan,   Yutong Li,   Yimeng Huang,   Charles M. Settens,   Qi He,   **Yongwen Sun**,   Hua Wang,   Zunqiu Xiao,   Wenjun Liu,   Xianghui Xiao,   Riqiang Fu,   Qiang Li,   Yong S. Chu,   Zhongtai Zhang,   Qi Liu,  Andrew M. Minor,   Junying Zhang,   Zilong Tang and  Ju Li†, _Energy & Environmental Science_, 16, 241-251, (2022).
 ![](/assets/img/EES_2022.jpg)
 
 **[24] [Compressive vs. tensile yield and fracture toughness behavior of a body-centered cubic refractory high-entropy superalloy Al0.5Nb1.25Ta1.25TiZr at temperatures from ambient to 1200°C](https://www.sciencedirect.com/science/article/pii/S1359645422009958)**, Punit Kumar†, Sang Jun Kim†, Qin Yu†, Jon Ell, Mingwei Zhang, **Yang Yang**, Ji Young Kim, Hyung-Ki Park, Andrew M. Minor, Eun Soo Park, Robert O. Ritchie, _Acta Materialia_, 118620 (2022).
