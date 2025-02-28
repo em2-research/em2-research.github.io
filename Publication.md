@@ -11,6 +11,11 @@ cover-img: /assets/img/1.jpg
 
 #### Peer-reviewed publications (in print or production):
 ---
+#### 2025
+**[43] [Anomalous thermal transport in Eshelby twisted van der Waals nanowires](https://www.nature.com/articles/s41563-024-02108-3)**, Yin Liu, Lei Jin, Tribhuwan Pandey, Haoye Sun, Yuzi Liu, Xun Li, Alejandro Rodriguez, Yueyin Wang, Tao Zhou, Rui Chen, **Yongwen Sun**, **Yang Yang**, Daryl C. Chrzan, Lucas Lindsay, Junqiao Wu, Jie Yao, _Nature Materials_, (2025).
+![](/assets/img/Liu25NM.jpg)
+
+---
 #### 2024
 **[42] [Multifunctional 2D FETs exploiting incipient ferroelectricity in freestanding SrTiO₃ nanomembranes at sub-ambient temperatures](https://doi.org/10.1038/s41467-024-54231-z)**, Dipanjan Sen, Harikrishnan Ravichandran, Mayukh Das, Pranavam Venkataram, Sooho Choo, Shivashesh Varshney, **Zhiyu Zhang**, **Yongwen Sun**, Jay Shah, Shiva Subbulaksmi Radhakrishnan, Akash Saha, Sankalpa Hazra, Chen Chen, Joan M. Redwing, K. Andre Mkhoyan, Venkatraman Gopalan, **Yang Yang**, Bharat Jalan, Saptarshi Das, _Nature Communications_, 15, 10739, (2024).
 
