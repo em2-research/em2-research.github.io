@@ -3,6 +3,15 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Wed, 03/26/2025
+Prof. Yang Yang received the TMS/KIM Young Leaders International Scholar Award at TMS 2025 meeting.
+
+##### Mon, 02/10/2025
+Congratulations to Zhiyu Zhang on the Harry G. Miller Fellowship in Engineering!
+
+##### Mon, 02/03/2025
+Congratulations to Yongwen Sun on receving the 2025 TMS Student Travel Grant!
+
 ##### Mon, 12/16/2024
 Congratulations to Foster and Zhiyu for passing the comprehensive exams.
 

@@ -12,6 +12,9 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
+**[45] [Electric field–confined synthesis of single atomic TiOxCy electrocatalytic membranes](https://doi.org/10.1126/sciadv.ads7154)**, Yifan Gao, Shuai Liang, Chengxu Jiang, Mengyao Gu, Quanbiao Zhang, Ali Abdelhafiz, Zhen Zhang, **Ying Han**, **Yang Yang**, Xiaoyuan Zhang, Peng Liang, Ju Li, Xia Huang, _Science Advances_, 11, eads7154, (2025).
+![](/assets/img/GaoSA25.jpg)
+
 **[43] [Anomalous thermal transport in Eshelby twisted van der Waals nanowires](https://www.nature.com/articles/s41563-024-02108-3)**, Yin Liu, Lei Jin, Tribhuwan Pandey, Haoye Sun, Yuzi Liu, Xun Li, Alejandro Rodriguez, Yueyin Wang, Tao Zhou, Rui Chen, **Yongwen Sun**, **Yang Yang**, Daryl C. Chrzan, Lucas Lindsay, Junqiao Wu, Jie Yao, _Nature Materials_, (2025).
 ![](/assets/img/Liu25NM.jpg)
 
