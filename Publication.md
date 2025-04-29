@@ -6,9 +6,12 @@ cover-img: /assets/img/1.jpg
 #### Sponsors:
 ![Sponsors](/assets/img/Sponsors.jpg)
 
+---
+#### Pre-print:
+---
+**[45] [In situ nanometer–resolution strain and orientation mapping for gas–solid reactions via precession–assisted four–dimensional scanning transmission electron microscopy](https://arxiv.org/abs/2504.18918)**, **Yongwen Sun**, **Ying Han**, Dan Zhou, Athanassios S. Galanis, Alejandro Gomez–Perez, Ke Wang, Stavros Nicolopoulos, Hugo Perez Garza, **Yang Yang**, _arXiv_, 2504.18918, (2025).
 
 ---
-
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
