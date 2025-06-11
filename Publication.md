@@ -12,12 +12,15 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
+**[48] [A complementary two-dimensional material-based one instruction set computer](https://doi.org/10.1038/s41586-025-08963-7)**, Subir Ghosh, Yikai Zheng, Musaib Rafiq, Harikrishnan Ravichandran, **Yongwen Sun**, Chen Chen, Mrinmoy Goswami, Najam U. Sakib, Muhtasim Ul Karim Sadaf, Andrew L. Pannone, Samriddha Ray, Joan M. Redwing, **Yang Yang**, Shubham Sahay, Saptarshi Das*, _Nature_, 642, 327–335, (2025).
+
+
 **[47] [Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors](https://doi.org/10.1038/s41467-025-59993-8)**, Muhtasim Ul Karim Sadaf, Ziheng Chen, Shiva Subbulakshmi Radhakrishnan, **Yongwen Sun**, **Lei Ding**, Andrew R. Graves, **Yang Yang**, Joan M. Redwing, Saptarshi Das, _Nature Communications_, 16, 4879, (2025).  
 
 **[46] [In situ nanometer–resolution strain and orientation mapping for gas–solid reactions via precession–assisted four–dimensional scanning transmission electron microscopy](https://www.sciencedirect.com/science/article/pii/S1748013225001562)**, **Yongwen Sun**, **Ying Han**, Dan Zhou, Athanassios S. Galanis, Alejandro Gomez–Perez, Ke Wang, Stavros Nicolopoulos, Hugo Perez Garza, **Yang Yang**, _Nano Today_, 64, 102784, (2025).
 ![](/assets/img/NanoToday25.jpg)
 
-**[45] [Nanosheets Derived from Titanium Diboride as Gate Insulators for Atomically Thin Transistors](https://doi.org/10.1021/acsnano.4c18634)**, Anshul Rasyotra, Mayukh Das, Dipanjan Sen, **Zhiyu Zhang**, Andrew Pannone, Chen Chen, Joan M. Redwing, **Yang Yang**, Kabeer Jasuja, and Saptarshi Das, _ACS Nano_, (2025).
+**[45] [Nanosheets Derived from Titanium Diboride as Gate Insulators for Atomically Thin Transistors](https://doi.org/10.1021/acsnano.4c18634)**, Anshul Rasyotra, Mayukh Das, Dipanjan Sen, **Zhiyu Zhang**, Andrew Pannone, Chen Chen, Joan M. Redwing, **Yang Yang**, Kabeer Jasuja, and Saptarshi Das, _ACS Nano_, (2025) 19, 21, 19646–19658.
 
 **[44] [Electric field–confined synthesis of single atomic TiOxCy electrocatalytic membranes](https://doi.org/10.1126/sciadv.ads7154)**, Yifan Gao, Shuai Liang, Chengxu Jiang, Mengyao Gu, Quanbiao Zhang, Ali Abdelhafiz, Zhen Zhang, **Ying Han**, **Yang Yang**, Xiaoyuan Zhang, Peng Liang, Ju Li, Xia Huang, _Science Advances_, 11, eads7154, (2025).
 ![](/assets/img/Gao25SA.jpg)
