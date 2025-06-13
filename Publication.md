@@ -12,7 +12,8 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
-**[48] [A complementary two-dimensional material-based one instruction set computer](https://doi.org/10.1038/s41586-025-08963-7)**, Subir Ghosh, Yikai Zheng, Musaib Rafiq, Harikrishnan Ravichandran, **Yongwen Sun**, Chen Chen, Mrinmoy Goswami, Najam U. Sakib, Muhtasim Ul Karim Sadaf, Andrew L. Pannone, Samriddha Ray, Joan M. Redwing, **Yang Yang**, Shubham Sahay, Saptarshi Das*, _Nature_, 642, 327–335, (2025).
+**[48] [A complementary two-dimensional material-based one instruction set computer](https://doi.org/10.1038/s41586-025-08963-7)**, Subir Ghosh, Yikai Zheng, Musaib Rafiq, Harikrishnan Ravichandran, **Yongwen Sun**, Chen Chen, Mrinmoy Goswami, Najam U. Sakib, Muhtasim Ul Karim Sadaf, Andrew L. Pannone, Samriddha Ray, Joan M. Redwing, **Yang Yang**, Shubham Sahay, Saptarshi Das, _Nature_, 642, 327–335, (2025). | [**Penn State News Story**](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed?utm_audience=Faculty&utm_source=newswire&utm_medium=email&utm_campaign=Penn%20State%20Today&utm_content=06-12-2025-21-29&utm_term=TopStories%20-%201).
+![](https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/4_3_1500w/public/2025/06/cmosillustration_4x3_0.png?h=4abc1614&itok=BL6tLiAn)
 
 
 **[47] [Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors](https://doi.org/10.1038/s41467-025-59993-8)**, Muhtasim Ul Karim Sadaf, Ziheng Chen, Shiva Subbulakshmi Radhakrishnan, **Yongwen Sun**, **Lei Ding**, Andrew R. Graves, **Yang Yang**, Joan M. Redwing, Saptarshi Das, _Nature Communications_, 16, 4879, (2025).  
