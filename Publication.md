@@ -82,7 +82,7 @@ cover-img: /assets/img/1.jpg
 
 
 
-**[27] [Stress Sensitivity Origin of Extended Defects Production Under Coupled Irradiation and Mechanical Loading](https://doi.org/10.1016/j.actamat.2023.118758)**, Miao He,  **Yang Yang**, Fei Gao, and Yue Fan, _Acta Materialia_, (2023), 118758.
+**[27] [Stress Sensitivity Origin of Extended Defects Production Under Coupled Irradiation and Mechanical Loading](https://doi.org/10.1016/j.actamat.2023.118758)**, Miao He,  **Yang Yang**, Fei Gao, and Yue Fan, _Acta Materialia_, 248, 118758 (2023).
 ![](/assets/img/He23AM.jpg)
 
 **[26] [Ion-beam radiation-induced Eshelby transformations: The mean and variance in hydrostatic and shear residual stresses](https://doi.org/10.1016/j.eml.2023.101970)**, Yongchao Chen, Qing-Jie Li, Alexander D. O’Brien, **Yang Yang**, Qi He, David A. Bloore, Joost J. Vlassak, Ju Li, _Extreme Mechanics Letters_, (2023), 59, 101970.
@@ -94,14 +94,14 @@ cover-img: /assets/img/1.jpg
 **[25] [Pre-zeolite framework super-MIEC anodes for high-rate lithium-ion batteries](https://pubs.rsc.org/en/content/articlelanding/2023/ee/d2ee02918a)**, Shitong Wang†,   Lijiang Zhao†,   Yanhao Dong, He Zhu, **Yang Yang**, Haowei Xu,  Baoming Wang,   Yakun Yuan,  Yang Ren,   Xiaojing Huang,   Wei Quan,   Yutong Li,   Yimeng Huang,   Charles M. Settens,   Qi He,   **Yongwen Sun**,   Hua Wang,   Zunqiu Xiao,   Wenjun Liu,   Xianghui Xiao,   Riqiang Fu,   Qiang Li,   Yong S. Chu,   Zhongtai Zhang,   Qi Liu,  Andrew M. Minor,   Junying Zhang,   Zilong Tang and  Ju Li†, _Energy & Environmental Science_, 16, 241-251, (2022).
 ![](/assets/img/EES_2022.jpg)
 
-**[24] [Compressive vs. tensile yield and fracture toughness behavior of a body-centered cubic refractory high-entropy superalloy Al0.5Nb1.25Ta1.25TiZr at temperatures from ambient to 1200°C](https://www.sciencedirect.com/science/article/pii/S1359645422009958)**, Punit Kumar†, Sang Jun Kim†, Qin Yu†, Jon Ell, Mingwei Zhang, **Yang Yang**, Ji Young Kim, Hyung-Ki Park, Andrew M. Minor, Eun Soo Park, Robert O. Ritchie, _Acta Materialia_, 118620 (2022).
+**[24] [Compressive vs. tensile yield and fracture toughness behavior of a body-centered cubic refractory high-entropy superalloy Al0.5Nb1.25Ta1.25TiZr at temperatures from ambient to 1200°C](https://www.sciencedirect.com/science/article/pii/S1359645422009958)**, Punit Kumar†, Sang Jun Kim†, Qin Yu†, Jon Ell, Mingwei Zhang, **Yang Yang**, Ji Young Kim, Hyung-Ki Park, Andrew M. Minor, Eun Soo Park, Robert O. Ritchie, _Acta Materialia_, 245, 118620 (2022).
 
 ---
 #### 2021
 
 **[23] [Evaluating the effects of pillar shape and gallium ion beam damage on the mechanical properties of single crystal aluminum nanopillars](https://link.springer.com/article/10.1557%2Fs43578-021-00125-5)**, **Yang Yang**†, Sarah Y. Wang†, Bin Xiang, Sheng Yin, Thomas C. Pekin, Xiaoqing Li, Ruopeng Zhang, Kayla Yano, David Hwang, Mark Asta, Costas Grigoropoulos, Frances I. Allen, and Andrew M. Minor, _Journal of Materials Research_, (2021).
 
-**\[22\] [Effects of Recoil Spectra and Electronic Energy Dissipation on Defect Survival in 3C-SiC](https://www.sciencedirect.com/science/article/abs/pii/S2589152921000260)**, Lauren Nuckols, Miguel L. Crespillo, **Yang Yang**, Ju Li, Eva Zarkadoula, Yanwen Zhang and William J. Weber, _Materialia_, (2021) 101023.
+**\[22\] [Effects of Recoil Spectra and Electronic Energy Dissipation on Defect Survival in 3C-SiC](https://www.sciencedirect.com/science/article/abs/pii/S2589152921000260)**, Lauren Nuckols, Miguel L. Crespillo, **Yang Yang**, Ju Li, Eva Zarkadoula, Yanwen Zhang and William J. Weber, _Materialia_, 15, 101023, (2021).
 
 **\[21\] [Achieving large uniform tensile elasticity in microfabricated diamond](https://science.sciencemag.org/content/371/6524/76/tab-pdf)**, Chaoqun Dang†, Jyh-Pin Chou†, Bing Dai†, Chang-Ti Chou†, **Yang Yang**, Rong Fan, Weitong Lin, Fanling Meng, Alice Hu, Jiaqi Zhu, Jiecai Han, Andrew M. Minor, Ju Li, Yang Lu, _Science_, 371, 76–78 (2021)  
 ![](http://yyn.scripts.mit.edu/home/wp-content/uploads/2021/01/Diamond1.jpg)
@@ -109,10 +109,10 @@ cover-img: /assets/img/1.jpg
 ---
 #### Before 2021
 
-**\[20\] [Sample spinning to mitigate polarization artifact and interstitial-vacancy imbalance in ion-beam irradiation](https://www.nature.com/articles/s41524-020-00438-9#Sec12)**, Cui-Lan Ren, **Yang Yang**, Yong-Gang Li, Ping Huai, Zhi-Yuan Zhu & Ju Li, _npj Computational Materials,_ (2020) 189  
+**\[20\] [Sample spinning to mitigate polarization artifact and interstitial-vacancy imbalance in ion-beam irradiation](https://www.nature.com/articles/s41524-020-00438-9#Sec12)**, Cui-Lan Ren, **Yang Yang**, Yong-Gang Li, Ping Huai, Zhi-Yuan Zhu & Ju Li, _npj Computational Materials,_ 6, 189 (2020).
 ![](http://yyn.scripts.mit.edu/home/wp-content/uploads/2020/12/WX20201213-115342@2x-1024x956.png)
 
-**\[19\] [Carbon nanotube (CNT) metal composites exhibit greatly reduced radiation damage](https://www.sciencedirect.com/science/article/abs/pii/S1359645420309009)**, Kang Pyo So†, Penghui Cao†, **Yang Yang**, Jong Gil Park, Mingda Li, Long Yan, Jing Hu, Mark Kirk, Meimei Li, Young Hee Lee, Michael P.Short, Ju Li, _Acta Materialia_, 2020  
+**\[19\] [Carbon nanotube (CNT) metal composites exhibit greatly reduced radiation damage](https://www.sciencedirect.com/science/article/abs/pii/S1359645420309009)**, Penghui Cao†, Kang Pyo So†, **Yang Yang**, Jong Gil Park, Mingda Li, Long Yan, Jing Hu, Mark Kirk, Meimei Li, Young Hee Lee, Michael P.Short, Ju Li, _Acta Materialia_, 2020  
 ![](http://yyn.scripts.mit.edu/home/wp-content/uploads/2020/11/WX20201120-153729@2x-1024x947.png)
 
 **\[18\]** [Effects of Cryogenic Temperature and Grain Size on Fatigue-Crack Propagation in the Medium-Entropy CrCoNi Alloy](https://www.sciencedirect.com/science/article/abs/pii/S1359645420307151), Julian Rackwitz†, Qin Yu†, **Yang Yang**, Guillaume Laplanche, Easo P George, Andrew M Minor, Robert O Ritchie, _Acta Materialia_, 200 (2020): 351-365.  
@@ -124,22 +124,22 @@ cover-img: /assets/img/1.jpg
 **MIT News:** [http://news.mit.edu/2020/radiation-slow-corrosion-materials-0709](http://news.mit.edu/2020/radiation-slow-corrosion-materials-0709)  
 ![These optical and scanning electron microscope images show irradiated and unirradiated zones of a nickel-chromium alloy. The left side shows examples of foils with irradiation; instead of degrading the material as it almost always does, the radiation actually makes it stronger by reducing the rate of corrosion.](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202007/MIT-Beneficial-Radiation-01-Press_0.jpg?itok=ijg0kRaN)
 
-**\[15\]** [Hierarchical {332}<113> twinning in a metastable beta Ti-alloy showing tolerance to strain localization](http://li.mit.edu/Archive/Papers/20/Zhang20FuMRL.pdf), Jinyong Zhang, Yangyang Fu, Yijin Wu, Bingnan Qian, Zheng Chen, Akihisa Inoue, Yuan Wu, **Yang Yang**, Fan Sun, Ju Li and Frederic Prima, _Materials Research Letters_ 8 (2020) 247-253.  
+**\[15\]** [Hierarchical {332}<113> twinning in a metastable beta Ti-alloy showing tolerance to strain localization](http://li.mit.edu/Archive/Papers/20/Zhang20FuMRL.pdf), Jinyong Zhang, Yangyang Fu, Yijin Wu, Bingnan Qian, Zheng Chen, Akihisa Inoue, Yuan Wu, **Yang Yang**, Fan Sun, Ju Li and Frederic Prima, _Materials Research Letters_ 8, 7, 247-253, (2020).  
 Selected as **Editor’s choice** paper by MRL Editorial Office in May 2020.![](http://yyn.scripts.mit.edu/home/wp-content/uploads/2020/05/MRL2.jpg)
 
-**\[14\]** [How Far Away Are Lithium-Sulfur Batteries From Commercialization?](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00123/full), Kunlei Zhu†, Chao Wang†, Zixiang Chi, Fei Ke, **Yang Yang**, Anbang Wang, Weikun Wang and Lixiao Miao, _Front. Energy Res._ 7, 123
+**\[14\]** [How Far Away Are Lithium-Sulfur Batteries From Commercialization?](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00123/full), Kunlei Zhu†, Chao Wang†, Zixiang Chi, Fei Ke, **Yang Yang**, Anbang Wang, Weikun Wang and Lixiao Miao, _Front. Energy Res._ 7, 123, (2019).
 
-**\[13\]** [Gradient Li-rich oxide cathode particles immunized against oxygen release by a molten salt treatment](http://li.mit.edu/Archive/Papers/19/Zhu19YuNE.pdf), Zhi Zhu, Daiwei Yu, **Yang Yang**, Cong Su, Yimeng Huang, Yanhao Dong, Iradwikanari Waluyo, Baoming Wang, Adrian Hunt, Xiahui Yao, Jinhyuk Lee, Weijiang Xue and Ju Li, _Nature Energy,_ 4 (2019) 1049-1058.
+**\[13\]** [Gradient Li-rich oxide cathode particles immunized against oxygen release by a molten salt treatment](http://li.mit.edu/Archive/Papers/19/Zhu19YuNE.pdf), Zhi Zhu, Daiwei Yu, **Yang Yang**, Cong Su, Yimeng Huang, Yanhao Dong, Iradwikanari Waluyo, Baoming Wang, Adrian Hunt, Xiahui Yao, Jinhyuk Lee, Weijiang Xue and Ju Li, _Nature Energy,_ 4, 1049-1058, (2019).
 ![](http://li.mit.edu/Archive/Papers/19/Zhu19YuNE-front.jpg)
 
 **\[12\]** [Focused-Helium-Ion-Beam Blow Forming of Nanostructures: Radiation Damage and Nanofabrication](https://iopscience.iop.org/article/10.1088/1361-6528/ab4a65), Chung-Soo Kim, Richard G Hobbs, Akshay Agarwal, **Yang Yang**, Vitor R Manfrinato, Michael P Short, Ju Li and Karl K Berggren, _Nanotechnology_, 31 (2020) 045302.  
 **![](http://yyn.scripts.mit.edu/home/wp-content/uploads/2019/12/Screen-Shot-2019-12-16-at-9.50.24-PM.png)**
 
-**\[11\]** [Strong and ductile beta Ti–18Zr–13Mo alloy with multimodal twinning](https://www.tandfonline.com/doi/abs/10.1080/21663831.2019.1595763), Jinyong Zhang, Fan Sun , Zheng Chen, **Yang Yang**, Baolong Shen, Ju Li and Frédéric Prima, _Materials Research Letters_ 7 (6), 251-257.
+**\[11\]** [Strong and ductile beta Ti–18Zr–13Mo alloy with multimodal twinning](https://www.tandfonline.com/doi/abs/10.1080/21663831.2019.1595763), Jinyong Zhang, Fan Sun , Zheng Chen, **Yang Yang**, Baolong Shen, Ju Li and Frédéric Prima, _Materials Research Letters_ 7, 6, 251-257, (2019).
 
-**\[10\]** [More Efficient and Accurate Simulations of Primary Radiation Damage in Materials with Nanosized Microstructural Features or Ion Beam](https://link.springer.com/referenceworkentry/10.1007/978-3-319-50257-1_115-1), Ju Li, **Yang Yang**, and Michael P. Short., _Handbook of Materials Modeling. Volume 2 Applications: Current and Emerging Materials_, (2018).
+**\[10\]** [More Efficient and Accurate Simulations of Primary Radiation Damage in Materials with Nanosized Microstructural Features or Ion Beam](https://link.springer.com/referenceworkentry/10.1007/978-3-319-50257-1_115-1), Ju Li, **Yang Yang**, and Michael P. Short., In: Andreoni, W., Yip, S. (eds) _Handbook of Materials Modeling. Volume 2 Applications: Current and Emerging Materials_, Springer, Cham., 2381-2412 (2018).
 
-**\[9\]** [Liquid-Like, Self-Healing Aluminum Oxide during Deformation at Room Temperature](http://li.mit.edu/Archive/Papers/18/Yang18KushimaNL.pdf), **Yang Yang**, Akihiro Kushima, Weizhong Han, Huolin Xin and Ju Li, _Nano Letters_ **18** (2018) 2492-2497. ![](http://li.mit.edu/Archive/Papers/18/Yang18KushimaNL-front.jpg)Highlighted by **_Science_**: [A revealing view of oxides](http://science.sciencemag.org/content/360/6384/45.5), by Marc S. Lavine, _Science_, **360** (2018) 45-46.  
+**\[9\]** [Liquid-Like, Self-Healing Aluminum Oxide during Deformation at Room Temperature](http://li.mit.edu/Archive/Papers/18/Yang18KushimaNL.pdf), **Yang Yang**, Akihiro Kushima, Weizhong Han, Huolin Xin and Ju Li, _Nano Letters_ **18** (2018) 2492-2497. ![](http://li.mit.edu/Archive/Papers/18/Yang18KushimaNL-front.jpg)Highlighted by **_Science_**: [A revealing view of oxides](http://li.mit.edu/A/Papers/18/Yang18KushimaNL-Science.pdf), by Marc S. Lavine, _Science_, **360** (2018) 45-46.  
 
 **\[8\]** [Nano-beam and nano-target effects in ion radiation](http://li.mit.edu/Archive/Papers/18/Yang18LiNanoscale.pdf),  
 **Yang Yang**, Yong Gang Li, Michael P. Short, Chung-Soo Kim, Karl K. Berggren and Ju Li, _Nanoscale_ **10** (2018) 1598-1606.  
