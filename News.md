@@ -172,13 +172,13 @@ Zhiyu Zhang joined our group. Welcome!
 A team led by Yang is awarded the [IEE seed grant](https://iee.psu.edu/funding/iee-seed-grant-program). This seed grant aims to provide new mechanistic understanding in advanced catalysts.
 
 ##### Mon, 02/28/2022
-The College of Engineering posted a [news article](https://news.engr.psu.edu/2022/yang-yang-nsf-career.aspx) about Yang's NSF Career Award.
+The College of Engineering posted a [news article](https://news.engr.psu.edu/2022/yang-yang-nsf-career.aspx) about Yang's NSF CAREER Award.
 
 ##### Sat, 02/26/2022
 Yongwen got 3rd place in the oral presentation competition in the 2022 ESM today. Congratulations!
 
 ##### Wed, 01/19/2022
-Yang received the pretigous [NSF Early Career Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career).
+Yang received the [NSF CAREER Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career).
 
 ##### Mon, 01/17/2022
 Jahangir joined our group. Welcome!
