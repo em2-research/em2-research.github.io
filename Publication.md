@@ -12,6 +12,9 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
+**[49] [Synergistic Effects of Molten Salt Corrosion and Proton Irradiation on Grain Boundary Strength in Ni-20Cr](https://doi.org/10.1016/j.matdes.2025.114452)**, Fei Teng, Weiyue Zhou, **Yingxin Zhu**, Yachun Wang, Xiang Liu, Daniel Murray, **Yang Yang**, Michael P. Short, Lingfeng He, _Materials & Design_, 258, 114452, (2025).
+![](/assets/img/Teng25.jpg)
+
 **[48] [A complementary two-dimensional material-based one instruction set computer](https://doi.org/10.1038/s41586-025-08963-7)**, Subir Ghosh, Yikai Zheng, Musaib Rafiq, Harikrishnan Ravichandran, **Yongwen Sun**, Chen Chen, Mrinmoy Goswami, Najam U. Sakib, Muhtasim Ul Karim Sadaf, Andrew L. Pannone, Samriddha Ray, Joan M. Redwing, **Yang Yang**, Shubham Sahay, Saptarshi Das, _Nature_, 642, 327–335, (2025). | [**Penn State News Story**](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed?utm_audience=Faculty&utm_source=newswire&utm_medium=email&utm_campaign=Penn%20State%20Today&utm_content=06-12-2025-21-29&utm_term=TopStories%20-%201).
 ![](https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/4_3_1500w/public/2025/06/cmosillustration_4x3_0.png?h=4abc1614&itok=BL6tLiAn)
 
