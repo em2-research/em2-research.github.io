@@ -12,6 +12,9 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
+**[50] [From edible mushrooms to sustainable materials: Sound absorption of mycelium-based composites cultivated on spent mushroom substrates](https://doi.org/10.1016/j.apacoust.2025.111000)**, Jee Woo Kim, Chiara Dognini, Aisa Shams, John Pecchia, **Yingxin Zhu**, **Yang Yang**, Yun Jing, Benay Gürsoy, _Applied Acoustics_, 241, 111000, (2026).
+![](/assets/img/Yun2025.jpg)
+
 **[49] [Synergistic Effects of Molten Salt Corrosion and Proton Irradiation on Grain Boundary Strength in Ni-20Cr](https://doi.org/10.1016/j.matdes.2025.114452)**, Fei Teng, Weiyue Zhou, **Yingxin Zhu**, Yachun Wang, Xiang Liu, Daniel Murray, **Yang Yang**, Michael P. Short, Lingfeng He, _Materials & Design_, 258, 114452, (2025).
 ![](/assets/img/Teng25.jpg)
 
