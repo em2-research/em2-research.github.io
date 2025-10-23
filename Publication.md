@@ -12,6 +12,9 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
+**[51] [Colossal Cryogenic Electro-Optic Response Through Metastability in Strained BaTiO₃ Thin Films](https://doi.org/10.1002/adma.202507564)**, Albert Suceava, Sankalpa Hazra, Aiden Ross, Ian Reed Philippi, Dylan Sotir, Brynn Brower, **Lei Ding**, **Yingxin Zhu**, **Zhiyu Zhang**, Himirkanti Sarkar, Saugata Sarker, **Yang Yang**, Suchismita Sarker, Vladimir A. Stoica, Darrell G. Schlom, Long-Qing Chen, and Venkatraman Gopalan, _Advanced Materials_, 2025, e07564.  | [**Penn State News Story**](https://www.mri.psu.edu/news/news/old-school-material-could-power-quantum-computing-cut-data-center-energy-use).
+![](https://www.mri.psu.edu/sites/default/files/inline-news-images/Venkat%20quantum.jpg)
+
 **[50] [From edible mushrooms to sustainable materials: Sound absorption of mycelium-based composites cultivated on spent mushroom substrates](https://doi.org/10.1016/j.apacoust.2025.111000)**, Jee Woo Kim, Chiara Dognini, Aisa Shams, John Pecchia, **Yingxin Zhu**, **Yang Yang**, Yun Jing, Benay Gürsoy, _Applied Acoustics_, 241, 111000, (2026).
 ![](/assets/img/Yun2025.jpg)
 
