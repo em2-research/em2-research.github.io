@@ -12,6 +12,9 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
+**[52] [3D Integration of Functionally Diverse 2D Materials for Optoelectronic Reservoir Computing](https://doi.org/10.1038/s41467-025-65109-z)**, Anirban Chowdhury, Anshul Rasyotra, Harikrishnan Ravichandran, Denesh Kumar Manoharan, **Yongwen Sun**, Chen Chen, Joan M. Redwing, **Yang Yang**, and Saptarshi Das, *Nature Communications*, 2025, 65109.
+
+
 **[51] [Colossal Cryogenic Electro-Optic Response Through Metastability in Strained BaTiO₃ Thin Films](https://doi.org/10.1002/adma.202507564)**, Albert Suceava, Sankalpa Hazra, Aiden Ross, Ian Reed Philippi, Dylan Sotir, Brynn Brower, **Lei Ding**, **Yingxin Zhu**, **Zhiyu Zhang**, Himirkanti Sarkar, Saugata Sarker, **Yang Yang**, Suchismita Sarker, Vladimir A. Stoica, Darrell G. Schlom, Long-Qing Chen, and Venkatraman Gopalan, _Advanced Materials_, 2025, e07564.  | [**Penn State News Story**](https://www.mri.psu.edu/news/news/old-school-material-could-power-quantum-computing-cut-data-center-energy-use).
 ![](https://www.mri.psu.edu/sites/default/files/inline-news-images/Venkat%20quantum.jpg)
 

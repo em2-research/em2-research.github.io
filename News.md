@@ -3,6 +3,15 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Tue, 10/28/2025
+Prof. Yang Yang received the [Rustom and Della Roy Innovation in Materials Research Award](https://www.mri.psu.edu/about-mri/opportunities-awards/rustom-and-della-roy-innovation-materials-research-award) at the [2025 Materials Day meeting](https://www.mri.psu.edu/events/2025-materials-day) at Penn State.
+
+##### Thur, 10/16/2025
+A new twist on a classic material could advance quantum computing and make modern data centers more energy efficient. Check the [Penn State News](https://www.mri.psu.edu/news/news/old-school-material-could-power-quantum-computing-cut-data-center-energy-use).
+
+##### Thur, 09/25/2025
+Prof. Yang Yang received the DOE Early Career Research Program (ECRP) Award.
+
 ##### Wed, 03/26/2025
 Prof. Yang Yang received the TMS/KIM Young Leaders International Scholar Award at TMS 2025 meeting.
 
