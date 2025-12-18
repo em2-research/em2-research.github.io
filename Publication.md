@@ -12,6 +12,8 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2025
+**[53] [High-performance molybdenum disulfide transistors with channel and contact lengths below 35 nm](https://doi.org/10.1038/s41928-025-01499-8)**, Najam U. Sakib, Chen Chen, **Lei Ding**, **Yang Yang**, Joan M. Redwing, and Saptarshi Das, *Nature Electronics*, 2025.
+
 **[52] [3D Integration of Functionally Diverse 2D Materials for Optoelectronic Reservoir Computing](https://doi.org/10.1038/s41467-025-65109-z)**, Anirban Chowdhury, Anshul Rasyotra, Harikrishnan Ravichandran, Denesh Kumar Manoharan, **Yongwen Sun**, Chen Chen, Joan M. Redwing, **Yang Yang**, and Saptarshi Das, *Nature Communications*, 2025, 65109.
 
 
