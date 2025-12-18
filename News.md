@@ -10,7 +10,7 @@ Prof. Yang Yang received the [Rustom and Della Roy Innovation in Materials Resea
 A new twist on a classic material could advance quantum computing and make modern data centers more energy efficient. Check the [Penn State News](https://www.mri.psu.edu/news/news/old-school-material-could-power-quantum-computing-cut-data-center-energy-use).
 
 ##### Thur, 09/25/2025
-Prof. Yang Yang received the DOE Early Career Research Program (ECRP) Award.
+Prof. Yang Yang received the [DOE Early Career Research Program (ECRP) Award](https://www.psu.edu/news/engineering/story/engineering-professor-receives-doe-early-career-research-program-award).
 
 ##### Wed, 03/26/2025
 Prof. Yang Yang received the TMS/KIM Young Leaders International Scholar Award at TMS 2025 meeting.
