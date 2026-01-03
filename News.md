@@ -5,7 +5,7 @@ cover-img: /assets/img/9.jpg
 ---
 ##### Fri, 01/02/2026
 Prof. Yang Yang has been elected Director of Physical Sciences on the Microscopy Society of America (MSA) Council. Check the [MSA News](https://microscopy.org/post/Microscopy-Society-of-America-Announces-Newly-Elected-Leadership-for-2026) for more details.
-
+![](/assets/img/MSA2026.jpg)
 
 ##### Tue, 10/28/2025
 Prof. Yang Yang received the [Rustom and Della Roy Innovation in Materials Research Award](https://www.mri.psu.edu/about-mri/opportunities-awards/rustom-and-della-roy-innovation-materials-research-award) at the [2025 Materials Day meeting](https://www.mri.psu.edu/events/2025-materials-day) at Penn State.
