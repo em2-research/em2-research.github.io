@@ -11,6 +11,11 @@ cover-img: /assets/img/1.jpg
 ---
 #### Peer-reviewed publications (in print or production):
 ---
+#### 2026
+**[54] [High Entropy Wide-Bandgap Borates with Broadband Luminescence and Large Nonlinear Optical Properties](https://doi.org/10.1002/adfm.202525925)**, Saugata Sarker, Yu Wang, **Yongwen Sun**, Caeli Benyacko, Saeed S. I. Almishal, Tao Zhou, **Zhiyu Zhang**, Jadupati Nagi, Himirkanti Sarkar, Jeffrey Shallenberger, Hemant Yennawar, **Yang Yang**, Jon-Paul Maria, Zhiqiang Mao, and Venkatraman Gopalan*, *Advanced Functional Materials*, 2026.
+![](/assets/img/Saugata2026.jpg)
+
+---
 #### 2025
 **[53] [High-performance molybdenum disulfide transistors with channel and contact lengths below 35 nm](https://doi.org/10.1038/s41928-025-01499-8)**, Najam U. Sakib, Chen Chen, **Lei Ding**, **Yang Yang**, Joan M. Redwing, and Saptarshi Das, *Nature Electronics*, 2025.
 
