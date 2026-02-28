@@ -12,7 +12,7 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2026
-**[54] [High Entropy Wide-Bandgap Borates with Broadband Luminescence and Large Nonlinear Optical Properties](https://doi.org/10.1002/adfm.202525925)**, Saugata Sarker, Yu Wang, **Yongwen Sun**, Caeli Benyacko, Saeed S. I. Almishal, Tao Zhou, **Zhiyu Zhang**, Jadupati Nagi, Himirkanti Sarkar, Jeffrey Shallenberger, Hemant Yennawar, **Yang Yang**, Jon-Paul Maria, Zhiqiang Mao, and Venkatraman Gopalan, *Advanced Functional Materials*, 2026: e25925.
+**[54] [High Entropy Wide-Bandgap Borates with Broadband Luminescence and Large Nonlinear Optical Properties](https://doi.org/10.1002/adfm.202525925)**, Saugata Sarker, Yu Wang, **Yongwen Sun**, Caeli Benyacko, Saeed S. I. Almishal, Tao Zhou, **Zhiyu Zhang**, Jadupati Nagi, Himirkanti Sarkar, Jeffrey Shallenberger, Hemant Yennawar, **Yang Yang**, Jon-Paul Maria, Zhiqiang Mao, and Venkatraman Gopalan, *Advanced Functional Materials*, (2026): e25925.
 ![](/assets/img/Saugata2026.jpg)
 
 ---
