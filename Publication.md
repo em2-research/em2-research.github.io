@@ -12,7 +12,7 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2026
-**[56] [Ultrasensitive Soft Vibration Sensors based on Atomically Thin Metal Dichalcogenide Ribbon Networks]()**, Chengyi Xu, Xufan Li, Lukas Felix Michalek, Jaeho Park, Eunyoung Kim, **Zhiyu Zhang**, Raymond R. Unocic, Eric Tianjiao Zhao, Wei-Chun Hsu, Baiyu Shi, Shuang Wu, **Yang Yang**, Avetik R. Harutyunyan, and Zhenan Bao, *Accepted*.
+**[56] Ultrasensitive Soft Vibration Sensors based on Atomically Thin Metal Dichalcogenide Ribbon Networks**, Chengyi Xu, Xufan Li, Lukas Felix Michalek, Jaeho Park, Eunyoung Kim, **Zhiyu Zhang**, Raymond R. Unocic, Eric Tianjiao Zhao, Wei-Chun Hsu, Baiyu Shi, Shuang Wu, **Yang Yang**, Avetik R. Harutyunyan, and Zhenan Bao, *Accepted*.
 
 **[55] [Two-dimensional crystalline hard masks for high-aspect-ratio nanofabrication](https://doi.org/10.1038/s41563-026-02524-7)**, Pranavram Venkatram, Ziheng Chen, Krishnendu Mukhopadhyay, Bob Hengstebeck, **Lei Ding**, Vlastimil Mazanek, **Yang Yang**, Zdenek Sofer, and Saptarshi Das, *Nature Materials*, (2026).
 ![](/assets/img/Pranavram2026NM.jpg)
