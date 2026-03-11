@@ -12,6 +12,11 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2026
+**[56] Ultrasensitive Soft Vibration Sensors based on Atomically Thin Metal Dichalcogenide Ribbon Networks, Chengyi Xu, Xufan Li, Lukas Felix Michalek, Jaeho Park, Eunyoung Kim, **Zhiyu Zhang**, Raymond R. Unocic, Eric Tianjiao Zhao, Wei-Chun Hsu, Baiyu Shi, Shuang Wu, **Yang Yang**, Avetik R. Harutyunyan, and Zhenan Bao, *Accepted*.
+
+**[55] [Two-dimensional crystalline hard masks for high-aspect-ratio nanofabrication](https://doi.org/10.1038/s41563-026-02524-7)**, Pranavram Venkatram, Ziheng Chen, Krishnendu Mukhopadhyay, Bob Hengstebeck, **Lei Ding**, Vlastimil Mazanek, **Yang Yang**, Zdenek Sofer, and Saptarshi Das, *Nature Materials*, (2026).
+![](/assets/img/Pranavram2026NM.jpg)
+
 **[54] [High Entropy Wide-Bandgap Borates with Broadband Luminescence and Large Nonlinear Optical Properties](https://doi.org/10.1002/adfm.202525925)**, Saugata Sarker, Yu Wang, **Yongwen Sun**, Caeli Benyacko, Saeed S. I. Almishal, Tao Zhou, **Zhiyu Zhang**, Jadupati Nagi, Himirkanti Sarkar, Jeffrey Shallenberger, Hemant Yennawar, **Yang Yang**, Jon-Paul Maria, Zhiqiang Mao, and Venkatraman Gopalan, *Advanced Functional Materials*, (2026): e25925.
 ![](/assets/img/Saugata2026.jpg)
 
