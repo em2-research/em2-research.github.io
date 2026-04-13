@@ -12,6 +12,8 @@ cover-img: /assets/img/1.jpg
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2026
+**[57] [Kinetic interplay between chemical short-range order and grain boundaries in NiCoCr alloys under irradiation](https://doi.org/10.1080/21663831.2026.2644262)**, **Hyeonwoo Kim**, Ho Lee, Kanghyeon Kim, Yue Fan, Sangtae Kim, Miaomiao Jin, and **Yang Yang**, *Materials Research Letters*, 14, 1-10 (2026).
+
 **[56] [Ultrasensitive Soft Vibration Sensors based on Atomically Thin Metal Dichalcogenide Ribbon Networks](https://www.science.org/doi/epdf/10.1126/sciadv.aeb6733)**, Chengyi Xu, Xufan Li, Lukas Felix Michalek, Jaeho Park, Eunyoung Kim, **Zhiyu Zhang**, Raymond R. Unocic, Eric Tianjiao Zhao, Wei-Chun Hsu, Baiyu Shi, Shuang Wu, **Yang Yang**, Avetik R. Harutyunyan, and Zhenan Bao, *Science Advances*, 12, eaeb6733 (2026).
 
 **[55] [Two-dimensional crystalline hard masks for high-aspect-ratio nanofabrication](https://doi.org/10.1038/s41563-026-02524-7)**, Pranavram Venkatram, Ziheng Chen, Krishnendu Mukhopadhyay, Bob Hengstebeck, **Lei Ding**, Vlastimil Mazanek, **Yang Yang**, Zdenek Sofer, and Saptarshi Das, *Nature Materials*, (2026).
