@@ -7,11 +7,19 @@ cover-img: /assets/img/1.jpg
 ![Sponsors](/assets/img/Sponsors.jpg)
 
 
+---
+#### Preprint:
+---
+**[60] [Anomalous bulk dealloying below the parting limit](https://doi.org/10.48550/arXiv.2607.00246)**, Weiyue Zhou, Hooman Gholamzadeh, **Lei Ding**, Kevin Daub, Mehdi Mosayebi, Travis Casagrande, **Yingxin Zhu**, Miaomiao Jin, Mark R. Daymond, **Yang Yang**, Michael P. Short, and Suraj Y. Persaud, *arXiv*, 2607.00246 (2026).
 
 ---
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2026
+**[59] [Mapping the Microhardness of Al Matrix in U-7Mo/Al Dispersion Fuels at Medium and High Burn-up by in situ Nanoindentation](https://doi.org/10.1016/j.matdes.2026.116264)**, Fei Teng, Daniele Salvato, Tanner J. Mauseth, Cameron B. Howard, Ann Leenaers, **Yingxin Zhu**, **Yang Yang**, Adam B. Robinson, Jeffrey J. Giglio, and James I. Cole, *Materials & Design*, 266, 116264 (2026).
+
+**[58] [Monolithic three-dimensional integration of heterogeneous electronics for self-powered sensing and processing](https://doi.org/10.1038/s41928-026-01624-1)**, Subir Ghosh, Pranavram Venkatram, Harikrishan Ravichandran, Rishikesh T. Nair, **Yongwen Sun**, **Lei Ding**, Chen Chen, Joan M. Redwing, **Yang Yang**, and Saptarshi Das, *Nature Electronics*, 9, 775-787 (2026).
+
 **[57] [Kinetic interplay between chemical short-range order and grain boundaries in NiCoCr alloys under irradiation](https://doi.org/10.1080/21663831.2026.2644262)**, **Hyeonwoo Kim**, Ho Lee, Kanghyeon Kim, Yue Fan, Sangtae Kim, Miaomiao Jin, and **Yang Yang**, *Materials Research Letters*, 14, 1-10 (2026).
 
 **[56] [Ultrasensitive Soft Vibration Sensors based on Atomically Thin Metal Dichalcogenide Ribbon Networks](https://www.science.org/doi/epdf/10.1126/sciadv.aeb6733)**, Chengyi Xu, Xufan Li, Lukas Felix Michalek, Jaeho Park, Eunyoung Kim, **Zhiyu Zhang**, Raymond R. Unocic, Eric Tianjiao Zhao, Wei-Chun Hsu, Baiyu Shi, Shuang Wu, **Yang Yang**, Avetik R. Harutyunyan, and Zhenan Bao, *Science Advances*, 12, eaeb6733 (2026).
