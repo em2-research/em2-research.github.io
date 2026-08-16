@@ -3,6 +3,18 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Sat, 07/25/2026
+Prof. Yang Yang was named one of [MIT Technology Review’s Innovators Under 35 China](https://www.innovatorsunder35.com/regions/china/) for 2025.
+
+##### Thur, 06/11/2026
+Congratulations to Yongwen Sun on receiving the [TMS/AIME Henry DeWitt Smith Scholarship](https://www.tms.org/portal/Professional_Development/Honors___Awards/AIME_Henry_deWitt_Smith_Scholarship.aspx/1000)!
+
+##### Sat, 04/11/2026
+Congratulations to Lei Ding and Zhiyu Zhang on winning first and second place, respectively, in the oral presentation competition at ESM Today 2026!
+
+##### Tue, 02/24/2026
+Congratulations to Lei Ding on receiving the Harry G. Miller Fellowship in Engineering!
+
 ##### Fri, 01/02/2026
 Prof. Yang Yang has been elected Director of Physical Sciences on the Microscopy Society of America (MSA) Council. Check the [MSA News](https://microscopy.org/post/Microscopy-Society-of-America-Announces-Newly-Elected-Leadership-for-2026) for more details.
 ![](/assets/img/MSA2026.jpg)
@@ -15,6 +27,9 @@ A new twist on a classic material could advance quantum computing and make moder
 
 ##### Thur, 09/25/2025
 Prof. Yang Yang received the [DOE Early Career Research Program (ECRP) Award](https://www.psu.edu/news/engineering/story/engineering-professor-receives-doe-early-career-research-program-award).
+
+##### Sat, 03/29/2025
+Congratulations to Foster Feni on winning first place in the oral presentation competition at [ESM Today 2025](https://www.esm.psu.edu/assets/docs/esm-today-abstracts/ESM_Today_Program-_FINAL.pdf)!
 
 ##### Wed, 03/26/2025
 Prof. Yang Yang received the TMS/KIM Young Leaders International Scholar Award at TMS 2025 meeting.
