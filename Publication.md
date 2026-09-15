@@ -10,12 +10,16 @@ cover-img: /assets/img/1.jpg
 ---
 #### Preprint:
 ---
-**[60] [Anomalous bulk dealloying below the parting limit](https://doi.org/10.48550/arXiv.2607.00246)**, Weiyue Zhou, Hooman Gholamzadeh, **Lei Ding**, Kevin Daub, Mehdi Mosayebi, Travis Casagrande, **Yingxin Zhu**, Miaomiao Jin, Mark R. Daymond, **Yang Yang**, Michael P. Short, and Suraj Y. Persaud, *arXiv*, 2607.00246 (2026).
+**[62] [Anomalous bulk dealloying below the parting limit](https://doi.org/10.48550/arXiv.2607.00246)**, Weiyue Zhou, Hooman Gholamzadeh, **Lei Ding**, Kevin Daub, Mehdi Mosayebi, Travis Casagrande, **Yingxin Zhu**, Miaomiao Jin, Mark R. Daymond, **Yang Yang**, Michael P. Short, and Suraj Y. Persaud, *arXiv*, 2607.00246 (2026).
 
 ---
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2026
+**[61] [Effect of Substrate Miscut on the Epitaxial Growth of MoS2 on Sapphire](https://doi.org/10.1021/acsami.6c13549)**, Chen Chen, Meghan E. Leger, Nicholas Trainor, Rohini Sanikop, Aayush Kumar, Gianny Ramos Ocasio, **Yongwen Sun**, **Zhiyu Zhang**, **Yingxin Zhu**, Najam U. Sakib, Muhtasim Ul Karim Sadaf, Andrew R. Graves, Daria D. Blach, Archana Raja, **Yang Yang**, Saptarshi Das, and Joan M. Redwing, *ACS Applied Materials & Interfaces* (2026).
+
+**[60] [Chemical short-range order regulates hydrogen energetics and hydrogen-dislocation interactions in CoNiV](https://doi.org/10.1038/s41524-026-02274-9)**, Beihan Chen, Dalia M. Sayed Ahmed, **Yang Yang**, and Miaomiao Jin, *npj Computational Materials* (2026).
+
 **[59] [Mapping the Microhardness of Al Matrix in U-7Mo/Al Dispersion Fuels at Medium and High Burn-up by in situ Nanoindentation](https://doi.org/10.1016/j.matdes.2026.116264)**, Fei Teng, Daniele Salvato, Tanner J. Mauseth, Cameron B. Howard, Ann Leenaers, **Yingxin Zhu**, **Yang Yang**, Adam B. Robinson, Jeffrey J. Giglio, and James I. Cole, *Materials & Design*, 266, 116264 (2026).
 
 **[58] [Monolithic three-dimensional integration of heterogeneous electronics for self-powered sensing and processing](https://doi.org/10.1038/s41928-026-01624-1)**, Subir Ghosh, Pranavram Venkatram, Harikrishan Ravichandran, Rishikesh T. Nair, **Yongwen Sun**, **Lei Ding**, Chen Chen, Joan M. Redwing, **Yang Yang**, and Saptarshi Das, *Nature Electronics*, 9, 775-787 (2026).
