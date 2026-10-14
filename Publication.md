@@ -10,12 +10,16 @@ cover-img: /assets/img/1.jpg
 ---
 #### Preprint:
 ---
-**[62] [Anomalous bulk dealloying below the parting limit](https://doi.org/10.48550/arXiv.2607.00246)**, Weiyue Zhou, Hooman Gholamzadeh, **Lei Ding**, Kevin Daub, Mehdi Mosayebi, Travis Casagrande, **Yingxin Zhu**, Miaomiao Jin, Mark R. Daymond, **Yang Yang**, Michael P. Short, and Suraj Y. Persaud, *arXiv*, 2607.00246 (2026).
+**[64] [Anomalous bulk dealloying below the parting limit](https://doi.org/10.48550/arXiv.2607.00246)**, Weiyue Zhou, Hooman Gholamzadeh, **Lei Ding**, Kevin Daub, Mehdi Mosayebi, Travis Casagrande, **Yingxin Zhu**, Miaomiao Jin, Mark R. Daymond, **Yang Yang**, Michael P. Short, and Suraj Y. Persaud, *arXiv*, 2607.00246 (2026).
 
 ---
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2026
+**[63] [Epitaxially Integrated Electro-Optic KNbO₃ Thin Films on Silicon](https://doi.org/10.1002/adma.75067)**, Sankalpa Hazra, Tobias Schwaigert, **Yingxin Zhu**, Aiden Ross, Muhammad Aminul Haque Chowdhury, Shun-Li Shang, Sameer Singh, **Zhiyu Zhang**, Zhe Wang, Brynn Brower, Saugata Sarker, Suchismita Sarker, Zi-Kui Liu, Rama K. Vasudevan, Long-Qing Chen, **Yang Yang**, Darrell G. Schlom, and Venkatraman Gopalan, *Advanced Materials*, e75067 (2026).
+
+**[62] [Impact of chemical short-range order on planar-fault and dislocation properties in NiCoV alloys](https://doi.org/10.1103/tdl3-pqfj)**, Dalia M. Sayed Ahmed, **Yongwen Sun**, **Yang Yang**, and Miaomiao Jin, *Physical Review B*, 114, 204104 (2026).
+
 **[61] [Effect of Substrate Miscut on the Epitaxial Growth of MoS2 on Sapphire](https://doi.org/10.1021/acsami.6c13549)**, Chen Chen, Meghan E. Leger, Nicholas Trainor, Rohini Sanikop, Aayush Kumar, Gianny Ramos Ocasio, **Yongwen Sun**, **Zhiyu Zhang**, **Yingxin Zhu**, Najam U. Sakib, Muhtasim Ul Karim Sadaf, Andrew R. Graves, Daria D. Blach, Archana Raja, **Yang Yang**, Saptarshi Das, and Joan M. Redwing, *ACS Applied Materials & Interfaces* (2026).
 
 **[60] [Chemical short-range order regulates hydrogen energetics and hydrogen-dislocation interactions in CoNiV](https://doi.org/10.1038/s41524-026-02274-9)**, Beihan Chen, Dalia M. Sayed Ahmed, **Yang Yang**, and Miaomiao Jin, *npj Computational Materials* (2026).
