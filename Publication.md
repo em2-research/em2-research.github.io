@@ -10,12 +10,14 @@ cover-img: /assets/img/1.jpg
 ---
 #### Preprint:
 ---
-**[64] [Anomalous bulk dealloying below the parting limit](https://doi.org/10.48550/arXiv.2607.00246)**, Weiyue Zhou, Hooman Gholamzadeh, **Lei Ding**, Kevin Daub, Mehdi Mosayebi, Travis Casagrande, **Yingxin Zhu**, Miaomiao Jin, Mark R. Daymond, **Yang Yang**, Michael P. Short, and Suraj Y. Persaud, *arXiv*, 2607.00246 (2026).
+**[65] [Anomalous bulk dealloying below the parting limit](https://doi.org/10.48550/arXiv.2607.00246)**, Weiyue Zhou, Hooman Gholamzadeh, **Lei Ding**, Kevin Daub, Mehdi Mosayebi, Travis Casagrande, **Yingxin Zhu**, Miaomiao Jin, Mark R. Daymond, **Yang Yang**, Michael P. Short, and Suraj Y. Persaud, *arXiv*, 2607.00246 (2026).
 
 ---
 #### Peer-reviewed publications (in print or production):
 ---
 #### 2026
+**[64] [Thermally Tunable Fading Memory Enabled by Opto-Ionic-Electronic Coupling in AgInP₂S₆-Gated Two-Dimensional Field-Effect Transistors](https://doi.org/10.1021/acsnano.5c21149)**, Dipanjan Sen, Anirban Chowdhury, Anshul Rasyotra, **Lei Ding**, Rui Gusmao, Subir Ghosh, Arpan Ghosh, Joan M. Redwing, Divya Somvanshi, **Yang Yang**, Zdenek Sofer, and Saptarshi Das, *ACS Nano* (2026).
+
 **[63] [Epitaxially Integrated Electro-Optic KNbO₃ Thin Films on Silicon](https://doi.org/10.1002/adma.75067)**, Sankalpa Hazra, Tobias Schwaigert, **Yingxin Zhu**, Aiden Ross, Muhammad Aminul Haque Chowdhury, Shun-Li Shang, Sameer Singh, **Zhiyu Zhang**, Zhe Wang, Brynn Brower, Saugata Sarker, Suchismita Sarker, Zi-Kui Liu, Rama K. Vasudevan, Long-Qing Chen, **Yang Yang**, Darrell G. Schlom, and Venkatraman Gopalan, *Advanced Materials*, e75067 (2026).
 
 **[62] [Impact of chemical short-range order on planar-fault and dislocation properties in NiCoV alloys](https://doi.org/10.1103/tdl3-pqfj)**, Dalia M. Sayed Ahmed, **Yongwen Sun**, **Yang Yang**, and Miaomiao Jin, *Physical Review B*, 114, 204104 (2026).
