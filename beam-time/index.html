@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Beam Time · A microscopy game from (EM)² Lab</title>
+  <meta name="description" content="Play a transmission electron microscope through five years of grad school in Beam Time, a free browser platformer from the (EM)² Lab at Penn State.">
+  <meta property="og:title" content="Beam Time · A microscopy platformer">
+  <meta property="og:description" content="Your microscope has a thesis to defend. A free browser game from (EM)² Lab.">
+  <meta property="og:image" content="https://www.em2-lab.com/beam-time/art/cover.png">
+  <link rel="canonical" href="https://www.em2-lab.com/beam-time/">
+  <link rel="icon" href="art/arm.png">
+  <link rel="stylesheet" href="style.css">
+  <script defer data-landing src="analytics.js"></script>
+  <script defer src="gallery.js"></script>
+</head>
+<body>
+  <header><div class="wrap nav">
+    <a class="brand" href="https://www.em2-lab.com/" aria-label="(EM)² Lab home"><i class="labmark" aria-hidden="true"></i>(EM)<sup>2</sup> Lab</a>
+    <nav aria-label="Game navigation"><a href="#field-guide">Field guide</a><a href="#controls">Controls</a><a class="navplay" href="play/">Play game <span aria-hidden="true">↗</span></a></nav>
+  </div></header>
+  <main>
+    <section class="wrap hero" aria-labelledby="game-title">
+      <div class="intro">
+        <p class="eyebrow"><span class="signal" aria-hidden="true"></span> A microscopy platformer</p>
+        <h1 id="game-title">Beam <em>Time</em></h1>
+        <p class="pitch">You’re an electron microscope.<br>You have a thesis to defend.</p>
+        <p class="summary">Pick your instrument, collect data and take on Reviewer #2 in a five-year PhD adventure.</p>
+        <a class="launch" href="play/"><i aria-hidden="true"></i>Play Beam Time</a>
+        <p class="platform">Free in your browser <b>·</b> Keyboard or touch</p>
+      </div>
+      <figure class="viewer">
+        <div class="monitor"><div class="screen">
+          <div class="hud"><span><i></i> Instrument viewer</span><span>V2.7</span></div>
+          <img id="instrument" src="art/arm.png" alt="" width="440" height="530">
+        </div></div>
+        <figcaption>
+          <div class="spec" aria-live="polite"><span class="serial" id="serial">TEM 04 / 08</span><div><strong id="model">JEN-ARN250F</strong><span id="nickname">The Cold-FEG Samurai</span></div></div>
+          <div class="arrows"><button id="prev" aria-label="Previous microscope">←</button><button id="next" aria-label="Next microscope">→</button></div>
+        </figcaption>
+      </figure>
+    </section>
+    <div class="facts"><dl class="wrap">
+      <div><dt>Microscopes</dt><dd>08</dd></div><div><dt>Chapters</dt><dd>10</dd></div><div><dt>Boss fights</dt><dd>04</dd></div><div><dt>Languages</dt><dd>10</dd></div>
+    </dl></div>
+    <section id="field-guide" class="wrap guide">
+      <p class="eyebrow">Field guide</p><h2>Inside the game</h2>
+      <div class="cards">
+        <article><div class="artbox data"><img src="art/au.png" alt="" loading="lazy"></div><h3>Collect your data</h3><p>Stomp a sample and it drops gigabytes. Level up to earn a new holder, sharpen a skill or fit a module to your microscope.</p></article>
+        <article><div class="artbox exams"><img src="art/qual.png" alt="" loading="lazy"></div><h3>Survive grad school</h3><p>The Qualifying Exam carries a red pen. Get past it and you’ll meet a too-thick lamella, Reviewer #2 and the Thesis Committee.</p></article>
+        <article><div class="artbox lessons"><img src="art/gra.png" alt="" loading="lazy"></div><h3>Learn the microscopy</h3><p>Open TEM 101 in the game lobby for a narrated tour down the column and 15 interactive lessons, from diffraction to beam damage.</p></article>
+      </div>
+    </section>
+    <section id="controls" class="wrap controls"><div><p class="eyebrow">Controls</p><h2>At the console</h2><p>On a phone or tablet, use the on-screen controls. Your run saves at checkpoints in this browser.</p></div>
+      <dl class="keys"><div><dt>Move</dt><dd><kbd>←</kbd> <kbd>→</kbd></dd></div><div><dt>Jump / double jump</dt><dd><kbd>Space</kbd></dd></div><div><dt>Beam shift (dash)</dt><dd><kbd>Shift</kbd></dd></div><div><dt>Swap holder</dt><dd><kbd>H</kbd></dd></div><div><dt>Skill bar</dt><dd><kbd>G</kbd></dd></div><div><dt>Pause / save</dt><dd><kbd>P</kbd></dd></div></dl>
+    </section>
+  </main>
+  <footer><div class="wrap foot"><div><strong>Beam Time</strong><p>A game by Yang Yang at the Electron Microscopy for Extreme Materials Lab, Penn State.</p></div><a href="https://www.em2-lab.com/">Visit (EM)² Lab ↗</a></div></footer>
+</body>
+</html>

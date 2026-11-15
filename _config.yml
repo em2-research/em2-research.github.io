@@ -21,6 +21,7 @@ navbar-links:
   Join us: "/Join-us"
   Resources:
     - Teaching: "/Teaching"
+    - Beam Time: "/beam-time/"
     - Engineering Science and Mechanics: "https://www.esm.psu.edu/"
     - Materials Research Institute: "https://www.mri.psu.edu/"
 
