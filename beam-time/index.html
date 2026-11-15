@@ -1,60 +1,479 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Beam Time · A microscopy game from (EM)² Lab</title>
-  <meta name="description" content="Play a transmission electron microscope through five years of grad school in Beam Time, a free browser platformer from the (EM)² Lab at Penn State.">
-  <meta property="og:title" content="Beam Time · A microscopy platformer">
-  <meta property="og:description" content="Your microscope has a thesis to defend. A free browser game from (EM)² Lab.">
-  <meta property="og:image" content="https://www.em2-lab.com/beam-time/art/cover.png">
-  <link rel="canonical" href="https://www.em2-lab.com/beam-time/">
-  <link rel="icon" href="art/arm.png">
-  <link rel="stylesheet" href="style.css">
-  <script defer data-landing src="analytics.js"></script>
-  <script defer src="gallery.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Beam Time! A game about electron microscopy</title>
+<meta name="description" content="A free, cute browser platformer from the (EM)² Lab: you are a transmission electron microscope, and you have five years to finish your PhD. With TEM 101, a narrated 3D film and fifteen lessons on how a TEM really works.">
+<meta name="theme-color" content="#12132b">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Beam Time! You are the microscope. Survive your PhD.">
+<meta property="og:description" content="A free browser game about transmission electron microscopy, from the (EM)² Lab. Ten chapters, ten holders, real TEM techniques, and TEM 101 for the science behind it.">
+<meta property="og:image" content="assets/img/cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<style>
+@font-face{font-family:'Fredoka';font-style:normal;font-weight:400;font-display:swap;src:url(assets/fonts/fredoka-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Fredoka';font-style:normal;font-weight:500;font-display:swap;src:url(assets/fonts/fredoka-latin-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Fredoka';font-style:normal;font-weight:600;font-display:swap;src:url(assets/fonts/fredoka-latin-600-normal.woff2) format('woff2')}
+@font-face{font-family:'Fredoka';font-style:normal;font-weight:700;font-display:swap;src:url(assets/fonts/fredoka-latin-700-normal.woff2) format('woff2')}
+@font-face{font-family:'DM Mono';font-style:normal;font-weight:400;font-display:swap;src:url(assets/fonts/dm-mono-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'DM Mono';font-style:normal;font-weight:500;font-display:swap;src:url(assets/fonts/dm-mono-latin-500-normal.woff2) format('woff2')}
+
+:root{
+  --night:#0c0d22; --vacuum:#12132b; --panel:#1d1f45; --panel-2:#272a5a; --ink:#0a0b1c;
+  --text:#f3f1ff; --dim:#a9acdc; --beam:#8dffc4; --beam-deep:#0d3a2c; --butter:#ffe28a; --pink:#ff8fb1; --ice:#a5e8ff; --violet:#b9a6ff;
+  --f-display:'Fredoka',ui-rounded,'Arial Rounded MT Bold','Trebuchet MS',system-ui,sans-serif;
+  --f-data:'DM Mono',ui-monospace,'SF Mono',Menlo,Consolas,monospace;
+  --wrap:1120px; --gut:clamp(16px,4vw,40px); --r:22px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--vacuum);color:var(--text);font:400 17px/1.6 var(--f-display);overflow-x:hidden}
+img,video{max-width:100%;height:auto;display:block}
+a{color:var(--beam)}
+a:focus-visible,button:focus-visible{outline:3px solid var(--butter);outline-offset:3px;border-radius:8px}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 var(--gut)}
+.lbl{font:500 12px/1.3 var(--f-data);letter-spacing:.14em;text-transform:uppercase;color:var(--butter)}
+h1,h2,h3{font-family:var(--f-display);line-height:1.1;margin:0}
+h2{font-size:clamp(32px,5vw,52px);font-weight:700;letter-spacing:-.01em}
+h3{font-size:22px;font-weight:600}
+p{margin:0}
+.lead{font-size:clamp(18px,2.2vw,21px);color:var(--dim);max-width:640px}
+
+/* buttons, in the game's chunky style */
+.btn{display:inline-flex;align-items:center;gap:10px;font:600 19px/1 var(--f-display);text-decoration:none;color:var(--beam-deep);background:var(--beam);border:3px solid var(--ink);border-radius:16px;padding:16px 24px 15px;box-shadow:0 5px 0 var(--ink);transition:transform .12s ease,box-shadow .12s ease;cursor:pointer}
+.btn:hover{transform:translateY(-2px);box-shadow:0 7px 0 var(--ink)}
+.btn:active{transform:translateY(3px);box-shadow:0 2px 0 var(--ink)}
+.btn.alt{background:var(--panel-2);color:var(--text)}
+.btn small{display:block;font:500 11px/1.2 var(--f-data);letter-spacing:.06em;opacity:.75;margin-top:4px;text-transform:uppercase}
+.btn .stack{display:flex;flex-direction:column;align-items:flex-start}
+.btn svg{width:20px;height:20px;flex:none}
+
+/* top bar */
+.top{position:absolute;inset:0 0 auto 0;z-index:5}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;height:72px}
+.brand{font:700 22px/1 var(--f-display);color:var(--text);text-decoration:none}
+.brand em{font-style:normal;color:var(--butter)}
+.nav{display:flex;gap:22px}
+.nav a{color:var(--dim);text-decoration:none;font-weight:500;font-size:16px}
+.nav a:hover{color:var(--text)}
+@media (max-width:760px){.nav{display:none}}
+
+/* hero */
+.hero{position:relative;min-height:min(100vh,940px);display:grid;align-items:center;padding:110px 0 60px;background:radial-gradient(1100px 700px at 50% 30%,#2a3278 0%,var(--vacuum) 62%);overflow:hidden;isolation:isolate}
+.beams{position:absolute;inset:-10% 0 0;z-index:-1;pointer-events:none}
+.beams i{position:absolute;top:-20%;width:180px;height:140%;background:linear-gradient(180deg,rgba(165,232,255,.18),rgba(165,232,255,0) 75%);transform-origin:50% 0;filter:blur(2px)}
+.beams i:nth-child(1){left:8%;transform:rotate(14deg);animation:sway 11s ease-in-out infinite}
+.beams i:nth-child(2){left:38%;width:240px;transform:rotate(-6deg);animation:sway 14s ease-in-out infinite reverse;background:linear-gradient(180deg,rgba(141,255,196,.14),rgba(141,255,196,0) 70%)}
+.beams i:nth-child(3){left:70%;transform:rotate(-16deg);animation:sway 12s ease-in-out infinite;background:linear-gradient(180deg,rgba(255,226,138,.12),rgba(255,226,138,0) 70%)}
+@keyframes sway{50%{transform:rotate(4deg)}}
+.dust{position:absolute;inset:0;z-index:-1;background-image:radial-gradient(1.5px 1.5px at 12% 22%,#fff8 50%,transparent 51%),radial-gradient(1.5px 1.5px at 72% 14%,#fff6 50%,transparent 51%),radial-gradient(2px 2px at 86% 52%,#8dffc488 50%,transparent 51%),radial-gradient(1.5px 1.5px at 28% 66%,#fff5 50%,transparent 51%),radial-gradient(2px 2px at 52% 38%,#ffe28a77 50%,transparent 51%),radial-gradient(1.5px 1.5px at 92% 82%,#fff6 50%,transparent 51%),radial-gradient(1.5px 1.5px at 6% 88%,#a5e8ff77 50%,transparent 51%)}
+.hero-in{text-align:center;display:flex;flex-direction:column;align-items:center;gap:22px}
+.logo{font:700 clamp(72px,15vw,180px)/.9 var(--f-display);letter-spacing:-.02em;color:var(--beam);text-shadow:0 7px 0 var(--ink),0 0 60px rgba(141,255,196,.25)}
+.logo em{font-style:normal;color:var(--butter);text-shadow:0 7px 0 var(--ink),0 0 60px rgba(255,226,138,.25)}
+.tagline{font:600 clamp(22px,3.4vw,36px)/1.2 var(--f-display);text-shadow:0 3px 0 var(--ink)}
+.by{color:var(--dim);font-size:16px}
+.by a{color:var(--butter);text-decoration:none;font-weight:600}
+.cta{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin-top:6px}
+.facts{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 10px;margin-top:4px}
+.facts span{font:500 12px/1 var(--f-data);letter-spacing:.06em;text-transform:uppercase;color:var(--dim);border:1.5px solid #3a3d78;border-radius:999px;padding:8px 12px;background:rgba(18,19,43,.5)}
+.parade{display:flex;justify-content:center;align-items:flex-end;gap:clamp(6px,1.6vw,22px);margin-top:20px;flex-wrap:nowrap}
+.parade img{height:clamp(52px,10vw,118px);width:auto;animation:bob 2.8s ease-in-out infinite;filter:drop-shadow(0 6px 0 rgba(0,0,0,.25))}
+.parade img:nth-child(2n){animation-delay:-.7s}.parade img:nth-child(3n){animation-delay:-1.4s}.parade img:nth-child(5n){animation-delay:-2.1s}
+@keyframes bob{50%{transform:translateY(-8px)}}
+.floor{position:absolute;left:0;right:0;bottom:0;height:90px;z-index:-1;background:linear-gradient(180deg,transparent,rgba(141,255,196,.06));border-top:2px solid rgba(141,255,196,.35);box-shadow:0 -1px 30px rgba(141,255,196,.25)}
+
+/* sections */
+section{padding:clamp(72px,10vw,120px) 0}
+.sec-h{display:grid;gap:14px;margin-bottom:44px}
+.sec-h.center{text-align:center;justify-items:center}
+
+/* trailer */
+.trailer{background:var(--night)}
+.screen{position:relative;border:3px solid var(--ink);border-radius:var(--r);overflow:hidden;box-shadow:0 10px 0 var(--ink),0 30px 80px rgba(0,0,0,.45);background:#000;aspect-ratio:16/9}
+.screen video{width:100%;height:100%;object-fit:cover}
+
+/* feature rows */
+.rows{display:grid;gap:clamp(56px,8vw,96px)}
+.row{display:grid;grid-template-columns:1.15fr 1fr;gap:clamp(24px,5vw,64px);align-items:center}
+.row:nth-child(even){grid-template-columns:1fr 1.15fr}
+.row:nth-child(even) .shot{order:2}
+.shot{border:3px solid var(--ink);border-radius:var(--r);overflow:hidden;box-shadow:0 8px 0 var(--ink);background:#000}
+.shot img{width:100%;aspect-ratio:16/9;object-fit:cover}
+.row .txt{display:grid;gap:14px}
+.row .txt p{color:var(--dim)}
+.row ul{margin:4px 0 0;padding:0;list-style:none;display:grid;gap:8px}
+.row li{padding-left:26px;position:relative;color:var(--text)}
+.row li::before{content:'';position:absolute;left:4px;top:.55em;width:10px;height:10px;border-radius:3px;background:var(--beam);box-shadow:0 0 0 2px var(--ink)}
+@media (max-width:820px){.row,.row:nth-child(even){grid-template-columns:1fr}.row:nth-child(even) .shot{order:0}}
+
+/* gallery */
+.gallery{background:linear-gradient(180deg,var(--vacuum),var(--night))}
+.car{position:relative}
+.car-view{overflow:hidden;border:3px solid var(--ink);border-radius:var(--r);box-shadow:0 10px 0 var(--ink);background:#000}
+.car-track{display:flex;transition:transform .6s cubic-bezier(.2,.8,.2,1)}
+.car-track figure{margin:0;flex:0 0 100%;position:relative}
+.car-track img{width:100%;aspect-ratio:16/9;object-fit:cover}
+.car-cap{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:22px}
+.car-cap p{color:var(--dim);min-height:2.4em}
+.car-btns{display:flex;gap:10px;flex:none}
+.car-b{width:52px;height:52px;border-radius:14px;border:3px solid var(--ink);background:var(--panel-2);color:var(--text);box-shadow:0 4px 0 var(--ink);cursor:pointer;display:grid;place-items:center;font-size:20px}
+.car-b:hover{background:#33367a}
+.car-dots{display:flex;gap:8px;justify-content:center;margin-top:18px;flex-wrap:wrap}
+.car-dots button{width:12px;height:12px;border-radius:50%;border:2px solid var(--ink);background:#3a3d78;padding:0;cursor:pointer}
+.car-dots button[aria-current="true"]{background:var(--beam);width:30px;border-radius:999px}
+
+/* microscopes */
+.mics{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.mic{background:var(--panel);border:3px solid var(--ink);border-radius:var(--r);padding:20px 18px 18px;box-shadow:0 6px 0 var(--ink);display:grid;gap:10px;align-content:start;transition:transform .15s ease}
+.mic:hover{transform:translateY(-4px)}
+.mic .pic{height:120px;display:grid;place-items:end center;background:radial-gradient(80px 40px at 50% 100%,rgba(141,255,196,.16),transparent 70%)}
+.mic .pic img{max-height:120px;width:auto}
+.mic h3{font-size:21px}
+.mic .meta{font:500 11px/1.3 var(--f-data);letter-spacing:.08em;text-transform:uppercase;color:var(--dim)}
+.mic .nick{color:var(--butter);font-weight:600;font-size:15px}
+.mic .pf{display:grid;gap:6px;font-size:14px;line-height:1.45;color:var(--dim)}
+.mic .pf b{display:inline-grid;place-items:center;width:18px;height:18px;border-radius:50%;font-size:13px;margin-right:6px;color:var(--ink)}
+.mic .plus{background:var(--beam)}.mic .minus{background:var(--pink)}
+.note{margin-top:22px;color:var(--dim);font-size:14px;text-align:center}
+@media (max-width:980px){.mics{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:480px){.mics{grid-template-columns:1fr}}
+
+/* chapters */
+.phd{background:var(--night)}
+.years{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;position:relative}
+.year{position:relative;display:grid;gap:12px;align-content:start}
+.year .y{font:600 15px/1 var(--f-data);color:var(--butter);letter-spacing:.08em;text-transform:uppercase;padding-bottom:12px;border-bottom:3px solid #3a3d78;position:relative}
+.year .y::after{content:'';position:absolute;left:0;bottom:-9px;width:15px;height:15px;border-radius:50%;background:var(--beam);border:3px solid var(--ink)}
+.ch{background:var(--panel);border:2.5px solid var(--ink);border-radius:16px;padding:14px 14px 13px;box-shadow:0 4px 0 var(--ink)}
+.ch .n{font:500 11px/1 var(--f-data);color:var(--dim);letter-spacing:.08em}
+.ch h3{font-size:18px;margin:6px 0 4px}
+.ch p{font-size:14px;color:var(--dim);line-height:1.4}
+.ch.boss{border-color:var(--ink);background:linear-gradient(180deg,#3a2350,#2a1f4a)}
+.ch .tag{display:inline-block;margin-top:8px;font:600 11px/1 var(--f-data);letter-spacing:.06em;text-transform:uppercase;color:var(--ink);background:var(--pink);border-radius:999px;padding:5px 9px}
+@media (max-width:900px){.years{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){.years{grid-template-columns:1fr}}
+
+/* TEM 101 */
+.tem{background:radial-gradient(900px 600px at 80% 20%,#26306e,var(--vacuum) 65%)}
+.tem-grid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(28px,5vw,64px);align-items:center}
+.collage{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.collage img{border:3px solid var(--ink);border-radius:16px;box-shadow:0 6px 0 var(--ink);aspect-ratio:16/10;object-fit:cover;width:100%}
+.collage img:first-child{grid-column:1/-1;aspect-ratio:16/8}
+.tem .txt{display:grid;gap:16px}
+.tem .txt p{color:var(--dim)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:6px}
+.card{background:var(--panel);border:2.5px solid var(--ink);border-radius:16px;padding:16px;box-shadow:0 4px 0 var(--ink)}
+.card h3{font-size:18px;margin-bottom:6px}
+.card p{font-size:14.5px;line-height:1.45;color:var(--dim)}
+.lessons{display:flex;flex-wrap:wrap;gap:8px;margin-top:34px}
+.lessons span{font:500 13px/1 var(--f-display);color:var(--text);background:var(--panel-2);border:2px solid var(--ink);border-radius:999px;padding:9px 13px}
+.lessons span i{font:500 11px/1 var(--f-data);font-style:normal;color:var(--beam);margin-right:6px}
+@media (max-width:900px){.tem-grid{grid-template-columns:1fr}}
+@media (max-width:480px){.two{grid-template-columns:1fr}}
+
+/* teach + languages */
+.teach{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.teach .card{padding:22px}
+.teach .ico{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;background:var(--beam);border:2.5px solid var(--ink);margin-bottom:14px;font-size:22px}
+.teach .card:nth-child(2) .ico{background:var(--butter)}.teach .card:nth-child(3) .ico{background:var(--ice)}
+@media (max-width:860px){.teach{grid-template-columns:1fr}}
+.langs{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:8px}
+.langs span{font:600 17px/1 var(--f-display);padding:12px 16px;border-radius:14px;background:var(--panel);border:2.5px solid var(--ink);box-shadow:0 3px 0 var(--ink)}
+
+/* final call */
+.final{text-align:center;background:radial-gradient(800px 420px at 50% 100%,#2a3278,var(--night) 70%)}
+.final .parade img{height:clamp(46px,8vw,92px)}
+
+/* footer */
+footer{background:var(--ink);color:var(--dim);font-size:14.5px;padding:56px 0 40px}
+footer .cols{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:32px}
+footer h4{font:500 12px/1 var(--f-data);letter-spacing:.14em;text-transform:uppercase;color:var(--butter);margin:0 0 12px}
+footer p{line-height:1.55}
+footer a{color:var(--text)}
+footer .fine{margin-top:36px;padding-top:22px;border-top:1px solid #23254d;font-size:13px;line-height:1.55;color:#8a8dbb}
+@media (max-width:820px){footer .cols{grid-template-columns:1fr}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+<script defer data-landing src="analytics.js"></script>
 </head>
 <body>
-  <header><div class="wrap nav">
-    <a class="brand" href="https://www.em2-lab.com/" aria-label="(EM)² Lab home"><i class="labmark" aria-hidden="true"></i>(EM)<sup>2</sup> Lab</a>
-    <nav aria-label="Game navigation"><a href="#field-guide">Field guide</a><a href="#controls">Controls</a><a class="navplay" href="play/">Play game <span aria-hidden="true">↗</span></a></nav>
-  </div></header>
-  <main>
-    <section class="wrap hero" aria-labelledby="game-title">
-      <div class="intro">
-        <p class="eyebrow"><span class="signal" aria-hidden="true"></span> A microscopy platformer</p>
-        <h1 id="game-title">Beam <em>Time</em></h1>
-        <p class="pitch">You’re an electron microscope.<br>You have a thesis to defend.</p>
-        <p class="summary">Pick your instrument, collect data and take on Reviewer #2 in a five-year PhD adventure.</p>
-        <a class="launch" href="play/"><i aria-hidden="true"></i>Play Beam Time</a>
-        <p class="platform">Free in your browser <b>·</b> Keyboard or touch</p>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#top">Beam <em>Time!</em></a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#trailer">Trailer</a><a href="#play">Gameplay</a><a href="#microscopes">Microscopes</a><a href="#tem101">TEM 101</a><a href="#teach">For teachers</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero" aria-labelledby="title">
+    <div class="beams" aria-hidden="true"><i></i><i></i><i></i></div>
+    <div class="dust" aria-hidden="true"></div>
+    <div class="floor" aria-hidden="true"></div>
+    <div class="wrap hero-in">
+      <span class="lbl">A free browser game about electron microscopy</span>
+      <h1 class="logo" id="title">Beam <em>Time!</em></h1>
+      <p class="tagline">You are the microscope. Survive your PhD.</p>
+      <p class="by">A game from the <a href="https://www.em2-lab.com" target="_blank" rel="noopener">(EM)² Lab</a> · by Yang Yang</p>
+      <div class="cta">
+        <a class="btn" href="play/"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.5v15a1 1 0 0 0 1.5.86l12.5-7.5a1 1 0 0 0 0-1.72L8.5 3.64A1 1 0 0 0 7 4.5z"/></svg><span class="stack">Play free now<small>in your browser</small></span></a>
+        <a class="btn alt" href="#trailer"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="3" fill="none" stroke="currentColor" stroke-width="2"/><path fill="currentColor" d="M10 9v6l5-3z"/></svg><span class="stack">Watch the trailer<small>50 seconds</small></span></a>
       </div>
-      <figure class="viewer">
-        <div class="monitor"><div class="screen">
-          <div class="hud"><span><i></i> Instrument viewer</span><span>V2.7</span></div>
-          <img id="instrument" src="art/arm.png" alt="" width="440" height="530">
-        </div></div>
-        <figcaption>
-          <div class="spec" aria-live="polite"><span class="serial" id="serial">TEM 04 / 08</span><div><strong id="model">JEN-ARN250F</strong><span id="nickname">The Cold-FEG Samurai</span></div></div>
-          <div class="arrows"><button id="prev" aria-label="Previous microscope">←</button><button id="next" aria-label="Next microscope">→</button></div>
-        </figcaption>
-      </figure>
-    </section>
-    <div class="facts"><dl class="wrap">
-      <div><dt>Microscopes</dt><dd>08</dd></div><div><dt>Chapters</dt><dd>10</dd></div><div><dt>Boss fights</dt><dd>04</dd></div><div><dt>Languages</dt><dd>10</dd></div>
-    </dl></div>
-    <section id="field-guide" class="wrap guide">
-      <p class="eyebrow">Field guide</p><h2>Inside the game</h2>
-      <div class="cards">
-        <article><div class="artbox data"><img src="art/au.png" alt="" loading="lazy"></div><h3>Collect your data</h3><p>Stomp a sample and it drops gigabytes. Level up to earn a new holder, sharpen a skill or fit a module to your microscope.</p></article>
-        <article><div class="artbox exams"><img src="art/qual.png" alt="" loading="lazy"></div><h3>Survive grad school</h3><p>The Qualifying Exam carries a red pen. Get past it and you’ll meet a too-thick lamella, Reviewer #2 and the Thesis Committee.</p></article>
-        <article><div class="artbox lessons"><img src="art/gra.png" alt="" loading="lazy"></div><h3>Learn the microscopy</h3><p>Open TEM 101 in the game lobby for a narrated tour down the column and 15 interactive lessons, from diffraction to beam damage.</p></article>
+      <div class="facts" aria-label="At a glance">
+        <span>Free</span><span>No install</span><span>Desktop &amp; mobile</span><span>10 languages</span><span>10 chapters</span>
       </div>
-    </section>
-    <section id="controls" class="wrap controls"><div><p class="eyebrow">Controls</p><h2>At the console</h2><p>On a phone or tablet, use the on-screen controls. Your run saves at checkpoints in this browser.</p></div>
-      <dl class="keys"><div><dt>Move</dt><dd><kbd>←</kbd> <kbd>→</kbd></dd></div><div><dt>Jump / double jump</dt><dd><kbd>Space</kbd></dd></div><div><dt>Beam shift (dash)</dt><dd><kbd>Shift</kbd></dd></div><div><dt>Swap holder</dt><dd><kbd>H</kbd></dd></div><div><dt>Skill bar</dt><dd><kbd>G</kbd></dd></div><div><dt>Pause / save</dt><dd><kbd>P</kbd></dd></div></dl>
-    </section>
-  </main>
-  <footer><div class="wrap foot"><div><strong>Beam Time</strong><p>A game by Yang Yang at the Electron Microscopy for Extreme Materials Lab, Penn State.</p></div><a href="https://www.em2-lab.com/">Visit (EM)² Lab ↗</a></div></footer>
+      <div class="parade" aria-hidden="true">
+        <img src="assets/img/mic-spectre.png" alt=""><img src="assets/img/mic-talus.png" alt=""><img src="assets/img/mic-kryos.png" alt=""><img src="assets/img/mic-arn.png" alt=""><img src="assets/img/mic-jen2200.png" alt=""><img src="assets/img/mic-hf7000.png" alt=""><img src="assets/img/mic-uberstem.png" alt=""><img src="assets/img/mic-tenzor.png" alt="">
+      </div>
+    </div>
+  </section>
+
+  <section class="trailer" id="trailer" aria-labelledby="trailer-h">
+    <div class="wrap">
+      <div class="sec-h center">
+        <span class="lbl">Trailer</span>
+        <h2 id="trailer-h">Five years. Ten chapters. One thesis.</h2>
+      </div>
+      <div class="screen">
+        <video controls preload="metadata" playsinline poster="assets/img/cover.jpg">
+          <source src="assets/trailer.mp4" type="video/mp4">
+          Your browser cannot play this video. <a href="assets/trailer.mp4">Download the trailer</a>.
+        </video>
+      </div>
+    </div>
+  </section>
+
+  <section id="play" aria-labelledby="play-h">
+    <div class="wrap">
+      <div class="sec-h">
+        <span class="lbl">How it plays</span>
+        <h2 id="play-h">A whole PhD, one jump at a time</h2>
+        <p class="lead">Beam Time is a cute side-scrolling platformer in which everything comes from a real microscopy lab. No background needed: if you have ever played a platformer, you can play this.</p>
+      </div>
+      <div class="rows">
+        <div class="row">
+          <div class="shot"><img src="assets/img/shot-a-very-heavy-one.jpg" alt="A small cartoon microscope stomping on a sample, with the caption: A very heavy one." loading="lazy" width="1280" height="720"></div>
+          <div class="txt">
+            <span class="lbl">You are the microscope</span>
+            <h3>Run, jump, dash and stomp</h3>
+            <p>You play a transmission electron microscope, and a very heavy one: landing on a sample is an attack. Your health is the column's vacuum, and falling into a pit vents it.</p>
+            <ul><li>Double jump, a quick beam-shift dash, stomp streaks</li><li>A training room teaches one control at a time</li><li>Keyboard, mouse or touch screen</li></ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="shot"><img src="assets/img/shot-cryo-holder.jpg" alt="The cryo holder freezing samples, with the caption: Holders are your weapons." loading="lazy" width="1280" height="720"></div>
+          <div class="txt">
+            <span class="lbl">Holders are your weapons</span>
+            <h3>Ten holders, ten after-effects</h3>
+            <p>The holder in your column fires by itself. Each one leaves its own mark on a sample, and swapping them goes through an airlock that leaks a little vacuum.</p>
+            <ul><li>Cryo freezes, heating sets samples on fire</li><li>The gas holder corrodes, the liquid cell soaks them</li><li>The indenter punts samples across the screen, the laser dazzles them</li></ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="shot"><img src="assets/img/shot-energy-filter.jpg" alt="An energy filter splitting the beam into a rainbow across the screen, with the caption: Real TEM techniques are your skills." loading="lazy" width="1280" height="720"></div>
+          <div class="txt">
+            <span class="lbl">Techniques are your skills</span>
+            <h3>Real TEM, as special moves</h3>
+            <p>Learn twenty techniques at detector shrines and time them yourself. Each behaves like the real thing, more or less.</p>
+            <ul><li>HAADF hits heavy samples hardest, carbon least</li><li>Bright Field is weak until you find the objective aperture</li><li>4D-STEM, ptychography, Ronchigram, EELS, EDS, tomography and more</li></ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="shot"><img src="assets/img/shot-real-samples.jpg" alt="A line-up of labelled samples: carbon nanotube, MXene, MoS2 flake, gold nanoparticle, perovskite, contamination, graphene, MOF and a nanowire, with the caption: Every enemy is a real sample." loading="lazy" width="1280" height="720"></div>
+          <div class="txt">
+            <span class="lbl">Every enemy is a real sample</span>
+            <h3>Graphene, MXene, perovskites, and Reviewer #2</h3>
+            <p>Samples behave like their materials: graphene is nearly invisible in bright field, perovskites fall apart under the beam, contamination grows. On Normal and Hard, they shoot back.</p>
+            <ul><li>Four bosses: the Qualifying Exam, a FIB lamella that is too thick, Reviewer #2, the Thesis Committee</li><li>Lab mishaps and a door that someone always slams</li><li>Three difficulties, each with its own ending</li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="gallery" aria-labelledby="gal-h">
+    <div class="wrap">
+      <div class="sec-h center">
+        <span class="lbl">Screenshots</span>
+        <h2 id="gal-h">A look inside the column</h2>
+      </div>
+      <div class="car" id="car" aria-roledescription="carousel" aria-label="Screenshots">
+        <div class="car-view"><div class="car-track" id="car-track"></div></div>
+        <div class="car-cap">
+          <p id="car-text" aria-live="polite"></p>
+          <div class="car-btns"><button class="car-b" type="button" id="car-prev" aria-label="Previous screenshot">◀</button><button class="car-b" type="button" id="car-next" aria-label="Next screenshot">▶</button></div>
+        </div>
+        <div class="car-dots" id="car-dots" role="group" aria-label="Choose a screenshot"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="microscopes" aria-labelledby="mic-h">
+    <div class="wrap">
+      <div class="sec-h center">
+        <span class="lbl">Pick one of eight</span>
+        <h2 id="mic-h">Meet the microscopes</h2>
+        <p class="lead">Every microscope has a perk and a flaw. Choose the one that suits how you play.</p>
+      </div>
+      <div class="mics">
+        <article class="mic"><div class="pic"><img src="assets/img/mic-spectre.png" alt="Spectre 900, a tall boxy microscope with a crown and a monocle" loading="lazy"></div><h3>Spectre 900</h3><p class="meta">Termo Fischer · 300 kV</p><p class="nick">The Boxed Aristocrat</p><div class="pf"><p><b class="plus">+</b>Lives in an enclosure: door slams never reach it</p><p><b class="minus">−</b>Costs more than the building: levels need more data</p></div></article>
+        <article class="mic"><div class="pic"><img src="assets/img/mic-talus.png" alt="Talus F250Z, a microscope in a yellow hard hat" loading="lazy"></div><h3>Talus F250Z</h3><p class="meta">Termo Fischer · 200 kV</p><p class="nick">The Workhorse</p><div class="pf"><p><b class="plus">+</b>Four EDS detectors: picks up more data</p><p><b class="minus">−</b>Shared facility: lab events last longer</p></div></article>
+        <article class="mic"><div class="pic"><img src="assets/img/mic-kryos.png" alt="Kryos G7, a tall icy-blue microscope" loading="lazy"></div><h3>Kryos G7</h3><p class="meta">Termo Fischer · 300 kV</p><p class="nick">The Ice Princess</p><div class="pf"><p><b class="plus">+</b>Always cold: freezing damage +50%</p><p><b class="minus">−</b>Cryo cartridge only, and slowest on its feet</p></div></article>
+        <article class="mic"><div class="pic"><img src="assets/img/mic-arn.png" alt="ARN250F, a microscope wearing a red headband" loading="lazy"></div><h3>ARN250F</h3><p class="meta">JOEL · 200 kV</p><p class="nick">The Cold-FEG Samurai</p><div class="pf"><p><b class="plus">+</b>22% critical hits; a tip flash sends a shockwave</p><p><b class="minus">−</b>No enclosure: every disturbance lasts twice as long</p></div></article>
+        <article class="mic"><div class="pic"><img src="assets/img/mic-jen2200.png" alt="2200Plus, an old microscope with glasses and a moustache" loading="lazy"></div><h3>2200Plus</h3><p class="meta">JOEL · 200 kV</p><p class="nick">Old Reliable</p><div class="pf"><p><b class="plus">+</b>Roomy gap: holders hit harder and hardly leak</p><p><b class="minus">−</b>Dim filament: skills are weaker</p></div></article>
+        <article class="mic"><div class="pic"><img src="assets/img/mic-hf7000.png" alt="HF7000, a microscope with three eyes and an antenna" loading="lazy"></div><h3>HF7000</h3><p class="meta">Hitachu · 200 kV</p><p class="nick">Triple Eye</p><div class="pf"><p><b class="plus">+</b>Three signals at once: every holder shot is tripled</p><p><b class="minus">−</b>The dose is split: each hit lands at 55%</p></div></article>
+        <article class="mic"><div class="pic"><img src="assets/img/mic-uberstem.png" alt="UberSTEM 200, a small sleepy microscope with a pointed roof" loading="lazy"></div><h3>UberSTEM 200</h3><p class="meta">Neon · 60 kV</p><p class="nick">The UHV Hermit</p><div class="pf"><p><b class="plus">+</b>Fast, jumps high, skills recharge sooner</p><p><b class="minus">−</b>Tiny holders hit softer, and its stomp is light</p></div></article>
+        <article class="mic"><div class="pic"><img src="assets/img/mic-tenzor.png" alt="Tenzor, a dark square microscope with a screen for a face" loading="lazy"></div><h3>Tenzor</h3><p class="meta">Teskan · 100 kV</p><p class="nick">The 4D Native</p><div class="pf"><p><b class="plus">+</b>Born scanning: diffraction skills recharge sooner</p><p><b class="minus">−</b>STEM only</p></div></article>
+      </div>
+      <p class="note">All makers, microscopes, perks and flaws are invented for the game and describe no real instrument.</p>
+    </div>
+  </section>
+
+  <section class="phd" aria-labelledby="phd-h">
+    <div class="wrap">
+      <div class="sec-h">
+        <span class="lbl">The story</span>
+        <h2 id="phd-h">Your thesis: in-situ everything of 6D materials</h2>
+        <p class="lead">Nobody has made a 6D material yet. That is your first chapter. You have five years. Probably six.</p>
+      </div>
+      <div class="years">
+        <div class="year"><p class="y">Year 1</p>
+          <div class="ch"><p class="n">01</p><h3>Microscope Training</h3><p>Holey carbon fields, and a single-tilt holder</p></div>
+          <div class="ch"><p class="n">02</p><h3>The Night Shift</h3><p>Your slot: Tuesday, 2 am to 6 am</p></div></div>
+        <div class="year"><p class="y">Year 2</p>
+          <div class="ch"><p class="n">03</p><h3>The Group Meeting</h3><p>Bring data. Any data.</p></div>
+          <div class="ch boss"><p class="n">04</p><h3>The Qualifying Exam</h3><p>Three hours, closed book</p><span class="tag">Boss</span></div></div>
+        <div class="year"><p class="y">Year 3</p>
+          <div class="ch"><p class="n">05</p><h3>Sample Prep</h3><p>Twelve hours of FIB for one lamella</p></div>
+          <div class="ch boss"><p class="n">06</p><h3>In-situ or Bust</h3><p>A lamella that is definitely too thick</p><span class="tag">Boss</span></div></div>
+        <div class="year"><p class="y">Year 4</p>
+          <div class="ch"><p class="n">07</p><h3>User Facility</h3><p>48 hours on the good microscope</p></div>
+          <div class="ch boss"><p class="n">08</p><h3>The Paper</h3><p>Reviewer #2 has entered the room</p><span class="tag">Boss</span></div></div>
+        <div class="year"><p class="y">Year 5</p>
+          <div class="ch"><p class="n">09</p><h3>Writing Up</h3><p>Vitreous ice and a blank page</p></div>
+          <div class="ch boss"><p class="n">10</p><h3>Defense Day</h3><p>Forty slides, three professors</p><span class="tag">Final boss</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="tem" id="tem101" aria-labelledby="tem-h">
+    <div class="wrap">
+      <div class="tem-grid">
+        <div class="collage">
+          <img src="assets/img/film-open.jpg" alt="The 3D microscope host opening its housing to show the column inside" loading="lazy">
+          <img src="assets/img/film-ptycho.jpg" alt="The cut-open column next to a screen showing a ptychography reconstruction" loading="lazy">
+          <img src="assets/img/lesson-diffraction.jpg" alt="The diffraction lesson, with a 3D crystal to tilt and its diffraction pattern" loading="lazy">
+        </div>
+        <div class="txt">
+          <span class="lbl">TEM 101 · optional</span>
+          <h2 id="tem-h">Curious how a real one works?</h2>
+          <p class="lead">TEM 101 explains the science behind every joke in the game, for anyone with high-school physics.</p>
+          <div class="two">
+            <div class="card"><h3>A 2-minute 3D film</h3><p>The microscope opens itself up and explains how it works, out loud: the gun, the vacuum, the lenses, the FIB, and what the camera sees.</p></div>
+            <div class="card"><h3>15 interactive lessons</h3><p>Sliders, buttons and 3D models to turn, a live game window for each technique, and one quiz question per lesson.</p></div>
+          </div>
+        </div>
+      </div>
+      <div class="lessons" aria-label="The fifteen lessons">
+        <span><i>01</i>Why electrons?</span><span><i>02</i>Inside the column</span><span><i>03</i>Vacuum</span><span><i>04</i>Thin samples</span><span><i>05</i>Holders and the airlock</span><span><i>06</i>Lenses and focus</span><span><i>07</i>Bright and dark field</span><span><i>08</i>Diffraction</span><span><i>09</i>STEM</span><span><i>10</i>4D-STEM</span><span><i>11</i>Ptychography</span><span><i>12</i>Spectroscopy</span><span><i>13</i>Beam damage</span><span><i>14</i>Tomography</span><span><i>15</i>Lab life, decoded</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="teach" aria-labelledby="teach-h">
+    <div class="wrap">
+      <div class="sec-h center">
+        <span class="lbl">For teachers and outreach</span>
+        <h2 id="teach-h">Made for classrooms and open days</h2>
+      </div>
+      <div class="teach">
+        <div class="card"><div class="ico" aria-hidden="true">🎓</div><h3>Play, then learn</h3><p>Let students play a chapter or two, then open the matching TEM 101 lessons. The jokes become the questions.</p></div>
+        <div class="card"><div class="ico" aria-hidden="true">💻</div><h3>Nothing to install</h3><p>It runs in any modern browser on lab computers, laptops, tablets and phones. No account, no download, no data collected.</p></div>
+        <div class="card"><div class="ico" aria-hidden="true">🧪</div><h3>Real microscopy inside</h3><p>Vacuum, airlocks, apertures, zone axes, dose, contamination: the ideas of a first TEM course, turned into things you do.</p></div>
+      </div>
+      <div class="sec-h center" style="margin:72px 0 18px">
+        <span class="lbl">Play in your language</span>
+      </div>
+      <div class="langs" lang="mul">
+        <span>English</span><span lang="zh-Hans">简体中文</span><span lang="zh-Hant">繁體中文</span><span lang="ja">日本語</span><span lang="ko">한국어</span><span lang="fr">Français</span><span lang="es">Español</span><span lang="de">Deutsch</span><span lang="it">Italiano</span><span lang="pt-BR">Português (Brasil)</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="final" aria-labelledby="final-h">
+    <div class="wrap hero-in">
+      <h2 id="final-h">Your beam time starts now</h2>
+      <p class="lead">Free, in your browser, in about ten seconds.</p>
+      <div class="cta">
+        <a class="btn" href="play/"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.5v15a1 1 0 0 0 1.5.86l12.5-7.5a1 1 0 0 0 0-1.72L8.5 3.64A1 1 0 0 0 7 4.5z"/></svg><span class="stack">Play free now<small>in your browser</small></span></a>
+        <a class="btn alt" href="https://em2-lab.itch.io/beam-time" target="_blank" rel="noopener"><span class="stack">Also on itch.io<small>em2-lab.itch.io</small></span></a>
+      </div>
+      <div class="parade" aria-hidden="true">
+        <img src="assets/img/mic-tenzor.png" alt=""><img src="assets/img/mic-uberstem.png" alt=""><img src="assets/img/mic-hf7000.png" alt=""><img src="assets/img/mic-jen2200.png" alt=""><img src="assets/img/mic-arn.png" alt=""><img src="assets/img/mic-kryos.png" alt=""><img src="assets/img/mic-talus.png" alt=""><img src="assets/img/mic-spectre.png" alt="">
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <h4>Beam Time</h4>
+        <p>A game from the <a href="https://www.em2-lab.com" target="_blank" rel="noopener">(EM)² Lab</a> (Electron Microscopy for Extreme Materials Lab), by Yang Yang.</p>
+      </div>
+      <div>
+        <h4>Acknowledgements</h4>
+        <p>Thank you to Steven Spurgeon, Vincent Meunier, Ian MacLaren, Khalid Hattar and Chuliang Fu for their comments and suggestions.</p>
+      </div>
+      <div>
+        <h4>Credits</h4>
+        <p>Fonts: Fredoka and DM Mono (SIL Open Font License 1.1). 3D: three.js (MIT License). TEM 101 narration: a synthetic voice made with Kokoro-82M (Apache License 2.0).</p>
+      </div>
+    </div>
+    <p class="fine">Beam Time is a work of fiction and parody. The makers and microscopes in it are invented, and every perk, flaw, stat and comment about a microscope, holder, technique or sample was made up for gameplay and humour. None of it describes the real performance of any real instrument or product, or reflects the author's or the lab's evaluation of any manufacturer. Not affiliated with or endorsed by any manufacturer. © 2026 (EM)² Lab.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var S=[
+    ['shot-a-very-heavy-one.jpg','You are a microscope. A very heavy one: stomping a sample is an attack.'],
+    ['shot-pick-one-of-eight.jpg','Pick one of eight invented microscopes, each with its own perk and flaw.'],
+    ['shot-heating-holder.jpg','Holders are your weapons: the heating holder sets samples on fire.'],
+    ['shot-cryo-holder.jpg','The cryo holder freezes samples solid.'],
+    ['shot-energy-filter.jpg','Real TEM techniques are your skills: the energy filter splits the beam into a rainbow.'],
+    ['shot-real-samples.jpg','Every enemy is a real sample: graphene, MXene, MoS₂, gold nanoparticles and more.'],
+    ['shot-they-shoot-back.jpg','On Normal and Hard, samples shoot back.'],
+    ['shot-reviewer-2.jpg','Boss fight in Year 4: survive Reviewer #2.'],
+    ['shot-defend-your-thesis.jpg','Defense Day: the Thesis Committee asks for the next slide.'],
+    ['shot-tem-101.jpg','TEM 101: a 3D film and 15 lessons explain the science behind the game.']
+  ];
+  var track=document.getElementById('car-track'),dots=document.getElementById('car-dots'),text=document.getElementById('car-text'),car=document.getElementById('car');
+  var i=0,timer=null,reduce=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+  S.forEach(function(s,k){
+    var f=document.createElement('figure');f.setAttribute('role','group');f.setAttribute('aria-roledescription','slide');f.setAttribute('aria-label',(k+1)+' of '+S.length);
+    var im=document.createElement('img');im.src='assets/img/'+s[0];im.alt=s[1];im.width=1280;im.height=720;if(k>0)im.loading='lazy';f.appendChild(im);track.appendChild(f);
+    var d=document.createElement('button');d.type='button';d.setAttribute('aria-label','Screenshot '+(k+1));d.onclick=function(){go(k);stop()};dots.appendChild(d);
+  });
+  function go(k){i=(k+S.length)%S.length;track.style.transform='translateX('+(-100*i)+'%)';text.textContent=S[i][1];
+    [].forEach.call(dots.children,function(d,n){d.setAttribute('aria-current',n===i?'true':'false')});}
+  function start(){if(reduce||timer)return;timer=setInterval(function(){go(i+1)},5000)}
+  function stop(){clearInterval(timer);timer=null}
+  document.getElementById('car-prev').onclick=function(){go(i-1);stop()};
+  document.getElementById('car-next').onclick=function(){go(i+1);stop()};
+  car.addEventListener('mouseenter',stop);car.addEventListener('focusin',stop);
+  car.addEventListener('keydown',function(e){if(e.key==='ArrowLeft'){go(i-1);stop()}else if(e.key==='ArrowRight'){go(i+1);stop()}});
+  var x0=null;track.addEventListener('touchstart',function(e){x0=e.touches[0].clientX;stop()},{passive:true});
+  track.addEventListener('touchend',function(e){if(x0===null)return;var dx=e.changedTouches[0].clientX-x0;if(Math.abs(dx)>40)go(i+(dx<0?1:-1));x0=null});
+  go(0);
+  if('IntersectionObserver' in window){new IntersectionObserver(function(es){es.forEach(function(e){e.isIntersecting?start():stop()})},{threshold:.4}).observe(car)}else start();
+})();
+</script>
 </body>
 </html>
