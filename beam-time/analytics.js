@@ -15,7 +15,7 @@
   }
 
   function record(name) {
-    if (production) gtag('event', name, { send_to: measurementId, game_version: '2.7' });
+    if (production) gtag('event', name, { send_to: measurementId, game_version: '2.8' });
     // Also observable on localhost, where the preview never sends analytics.
     window.dispatchEvent(new CustomEvent('beam-time:metric', { detail: name }));
   }
