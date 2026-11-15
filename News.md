@@ -3,6 +3,9 @@ layout: page
 title: News
 cover-img: /assets/img/9.jpg
 ---
+##### Mon, 11/02/2026
+*Nuclear News* named Prof. Yang Yang to its [2026 40 Under 40 list](https://www.ans.org/news/2026-11-02/article-8544/inni-announces-the-2026-40-under-40-honorees/).
+
 ##### Sat, 07/25/2026
 Prof. Yang Yang was named one of [MIT Technology Review’s Innovators Under 35 China](https://www.innovatorsunder35.com/regions/china/) for 2025.
 
