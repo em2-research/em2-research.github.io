@@ -196,6 +196,7 @@ footer .fine{margin-top:36px;padding-top:22px;border-top:1px solid #23254d;font-
 @media (max-width:820px){footer .cols{grid-template-columns:1fr}}
 
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+:lang(zh) :is(.lbl,.y,.tag,.facts,.by,footer h4){letter-spacing:.03em}
 </style>
 <script defer data-landing src="analytics.js"></script>
 </head>
@@ -440,8 +441,35 @@ footer .fine{margin-top:36px;padding-top:22px;border-top:1px solid #23254d;font-
   </div>
 </footer>
 
+<script src="portal-zh.js"></script>
 <script>
 (function(){
+  const primary = navigator.languages?.[0] || navigator.language || 'en';
+  const chinese = /^zh(?:-|$)/i.test(primary) && typeof portalChinese !== 'undefined';
+  const traditional = /-Hant(?:-|$)/i.test(primary) ||
+    (!/-Hans(?:-|$)/i.test(primary) && /-(TW|HK|MO)(?:-|$)/i.test(primary));
+  function translate(value) {
+    return chinese ? (portalChinese[value]?.[traditional ? 1 : 0] ?? value) : value;
+  }
+  if (chinese) {
+    document.documentElement.lang = traditional ? 'zh-Hant' : 'zh-Hans';
+    document.title = translate(document.title);
+    const description = document.querySelector('meta[name="description"]');
+    description.content = translate(description.content);
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    while (walker.nextNode()) {
+      const node = walker.currentNode;
+      if (node.parentElement.closest('script,style,[lang="mul"]')) continue;
+      const key = node.data.trim();
+      const localized = translate(key);
+      if (key !== localized) node.data = node.data.replace(key, localized);
+    }
+    for (const attr of ['alt', 'aria-label', 'aria-roledescription']) {
+      document.querySelectorAll('[' + attr + ']').forEach(el => {
+        el.setAttribute(attr, translate(el.getAttribute(attr)));
+      });
+    }
+  }
   var S=[
     ['shot-a-very-heavy-one.jpg','You are a microscope. A very heavy one: stomping a sample is an attack.'],
     ['shot-pick-one-of-eight.jpg','Pick one of eight invented microscopes, each with its own perk and flaw.'],
@@ -454,12 +482,13 @@ footer .fine{margin-top:36px;padding-top:22px;border-top:1px solid #23254d;font-
     ['shot-defend-your-thesis.jpg','Defense Day: the Thesis Committee asks for the next slide.'],
     ['shot-tem-101.jpg','TEM 101: a 3D film and 15 lessons explain the science behind the game.']
   ];
+  S.forEach(shot => { shot[1] = translate(shot[1]); });
   var track=document.getElementById('car-track'),dots=document.getElementById('car-dots'),text=document.getElementById('car-text'),car=document.getElementById('car');
   var i=0,timer=null,reduce=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
   S.forEach(function(s,k){
-    var f=document.createElement('figure');f.setAttribute('role','group');f.setAttribute('aria-roledescription','slide');f.setAttribute('aria-label',(k+1)+' of '+S.length);
+    var f=document.createElement('figure');f.setAttribute('role','group');f.setAttribute('aria-roledescription',chinese ? (traditional ? '投影片' : '幻灯片') : 'slide');f.setAttribute('aria-label',chinese ? '第 '+(k+1)+' / '+S.length+(traditional?' 張':' 张') : (k+1)+' of '+S.length);
     var im=document.createElement('img');im.src='assets/img/'+s[0];im.alt=s[1];im.width=1280;im.height=720;if(k>0)im.loading='lazy';f.appendChild(im);track.appendChild(f);
-    var d=document.createElement('button');d.type='button';d.setAttribute('aria-label','Screenshot '+(k+1));d.onclick=function(){go(k);stop()};dots.appendChild(d);
+    var d=document.createElement('button');d.type='button';d.setAttribute('aria-label',(chinese ? (traditional ? '截圖 ' : '截图 ') : 'Screenshot ')+(k+1));d.onclick=function(){go(k);stop()};dots.appendChild(d);
   });
   function go(k){i=(k+S.length)%S.length;track.style.transform='translateX('+(-100*i)+'%)';text.textContent=S[i][1];
     [].forEach.call(dots.children,function(d,n){d.setAttribute('aria-current',n===i?'true':'false')});}
